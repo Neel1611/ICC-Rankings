@@ -31,4 +31,4 @@ jobs:
           pip install requests pandas pyodbc
 
       - name: Run Script
-        run: python your_script.py
+        run: python code.py
