@@ -1,0 +1,25 @@
+name: Run ICC Rankings Script
+
+on:
+  schedule:
+    - cron: "30 1 * * *"  # Runs at 1:30 AM UTC (7:00 AM IST) daily
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: |
+          pip install requests pandas pyodbc
+
+      - name: Run Script
+        run: python code.py
