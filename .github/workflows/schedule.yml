@@ -20,8 +20,7 @@ jobs:
       - name: Install System Dependencies (ODBC Driver for SQL Server)
         run: |
           sudo apt-get update
-          sudo apt-get install -y unixodbc unixodbc-dev
-          sudo apt-get install -y odbcinst odbcsql
+          sudo apt-get install -y unixodbc unixodbc-dev odbcinst
           curl https://packages.microsoft.com/keys/microsoft.asc | sudo tee /etc/apt/trusted.gpg.d/microsoft.asc
           sudo add-apt-repository "$(curl -fsSL https://packages.microsoft.com/config/ubuntu/20.04/prod.list)"
           sudo apt-get update
@@ -32,4 +31,4 @@ jobs:
           pip install requests pandas pyodbc
 
       - name: Run Script
-        run: python code.py
+        run: python your_script.py
