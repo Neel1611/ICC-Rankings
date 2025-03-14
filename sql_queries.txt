@@ -2,7 +2,8 @@ CREATE TABLE countries_master (
     country_id    INT PRIMARY KEY,
     country_name  VARCHAR(100),
     country_short VARCHAR(10),
-    country_flag  VARCHAR(255)
+    country_flag  VARCHAR(255),
+	entry_date DATE
 );
 
 CREATE TABLE teams_master (
@@ -10,6 +11,7 @@ CREATE TABLE teams_master (
     team       VARCHAR(100),
     country_id INT,
     short_name VARCHAR(10),
+	entry_date DATE
     FOREIGN KEY (country_id) REFERENCES countries_master(country_id)
 );
 
@@ -20,6 +22,7 @@ CREATE TABLE players_master (
     team_id      INT,
     player_url   VARCHAR(255),
     player_image VARCHAR(255),
+	entry_date DATE
     FOREIGN KEY (country_id) REFERENCES countries_master(country_id),
     FOREIGN KEY (team_id) REFERENCES teams_master(team_id)
 );
@@ -34,6 +37,7 @@ CREATE TABLE team_rankings (
     points     INT,
     rating     INT,
     rank_date  DATE,
+	entry_date DATE
     FOREIGN KEY (team_id) REFERENCES teams_master(team_id)
 );
 
@@ -47,6 +51,7 @@ CREATE TABLE player_rankings (
     rating       INT,
     career_best_rating VARCHAR(100),
     rank_date    DATE,
+	entry_date DATE
     FOREIGN KEY (player_id) REFERENCES players_master(player_id)
 );
 
@@ -78,16 +83,25 @@ CREATE TABLE player_rankings_old (
     FOREIGN KEY (player_id) REFERENCES players_master(player_id)
 );
 
+CREATE TABLE transactions (
+    transaction_id   INT IDENTITY(1,1) PRIMARY KEY,
+    table_name       VARCHAR(20),
+	records          INT,
+	type             VARCHAR(20),
+    entry_date       DATE,
+);
+
+SELECT * FROM transactions ORDER BY transaction_id DESC, entry_date DESC;
 SELECT * FROM countries_master ORDER BY country_id;
 SELECT * FROM player_rankings ORDER BY format, category;
-SELECT * FROM player_rankings_old ORDER BY entry_date;
+SELECT * FROM player_rankings_old ORDER BY entry_date DESC;
 SELECT * FROM players_master ORDER BY team_id, player_id;
 SELECT * FROM team_rankings ORDER BY format;
-SELECT * FROM team_rankings_old;
+SELECT * FROM team_rankings_old  ORDER BY entry_date DESC;
 SELECT * FROM teams_master ORDER BY country_id, team_id;
 
 
-
+DELETE FROM transactions;
 DELETE FROM team_rankings;
 DELETE FROM player_rankings;
 DELETE FROM players_master;
