@@ -3,7 +3,7 @@ import pandas as pd
 import pyodbc
 import re
 from datetime import datetime
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 
 # Database connection
 try:
@@ -30,8 +30,12 @@ inserted_counts = {
     "player_rankings": 0
 }
 
-today_date = datetime.today().strftime('%Y-%m-%d')
-yesterday_date = (datetime.today() - timedelta(days=1)).strftime('%Y-%m-%d')
+#today_date = datetime.today().strftime('%Y-%m-%d')
+#yesterday_date = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+
+# Convert to string after calculation
+today_date = date.today().strftime('%Y-%m-%d')
+yesterday_date = (datetime.now() - timedelta(1)).strftime('%Y-%m-%d')
 
 # Helper function to safely convert values
 def safe_int(value, default=0):
@@ -242,7 +246,7 @@ from datetime import datetime, timedelta
 #------------------------------------------------------------------------------------------------------------------------------------
 
 # Calculate yesterday's date
-yesterday_date = (datetime.today() - timedelta(days=0)).strftime('%Y-%m-%d')
+yesterday_date = (datetime.now() - timedelta(1)).strftime('%Y-%m-%d')
 
 # Track record counts
 moved_counts = {
@@ -257,14 +261,14 @@ cursor.execute(f"""
     INSERT INTO team_rankings_old (team_id, format, pos, change, matches, points, rating, rank_date, entry_date)
     SELECT team_id, format, pos, change, matches, points, rating, rank_date, entry_date 
     FROM team_rankings 
-    WHERE entry_date = ?
-""", yesterday_date)
+    WHERE entry_date < ?
+""", today_date)
 moved_counts["team_rankings_old"] = cursor.rowcount
 
 # Delete Moved Records from team_rankings
 cursor.execute(f"""
-    DELETE FROM team_rankings WHERE entry_date = ?
-""", yesterday_date)
+    DELETE FROM team_rankings WHERE entry_date < ?
+""", today_date)
 moved_counts["team_rankings"] = cursor.rowcount
 
 # Move Data from player_rankings to player_rankings_old
@@ -272,14 +276,14 @@ cursor.execute(f"""
     INSERT INTO player_rankings_old (player_id, format, category, pos, change, rating, career_best_rating, rank_date, entry_date)
     SELECT player_id, format, category, pos, change, rating, career_best_rating, rank_date, entry_date
     FROM player_rankings 
-    WHERE entry_date = ?
-""", yesterday_date)
+    WHERE entry_date < ?
+""", today_date)
 moved_counts["player_rankings_old"] = cursor.rowcount
 
 # Delete Moved Records from player_rankings
 cursor.execute(f"""
-    DELETE FROM player_rankings WHERE entry_date = ?
-""", yesterday_date)
+    DELETE FROM player_rankings WHERE entry_date < ?
+""", today_date)
 moved_counts["player_rankings"] = cursor.rowcount
 
 # ✅ Insert Logs into Transactions Table
