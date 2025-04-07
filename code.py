@@ -7,7 +7,7 @@ from datetime import date, datetime, timedelta, timezone
 
 # Database connection
 try:
-    conn = pyodbc.connect(r"DRIVER={SQL Server};SERVER=LAPTOP-KVGOC1PQ\SQLEXPRESS;DATABASE=icc_rankings;UID=sa;PWD=sql@123;")
+    conn = pyodbc.connect(r"DRIVER={SQL Server};SERVER=LAPTOP-KVGOC1PQ\SQLEXPRESS;DATABASE=;UID=;PWD=;")
     cursor = conn.cursor()
     print("\nConnected to database successfully!")
 except pyodbc.Error as e:
