@@ -1,0 +1,102 @@
+﻿country_id,country_name,country_short,country_flag,entry_date
+1,Australia,AUS,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/1.png?v=8,2025-05-04
+2,Bangladesh,BAN,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/2.png?v=8,2025-05-04
+3,England,ENG,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/3.png?v=8,2025-05-04
+4,India,IND,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/4.png?v=8,2025-05-04
+5,New Zealand,NZ,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/5.png?v=8,2025-05-04
+6,Pakistan,PAK,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/6.png?v=8,2025-05-04
+7,South Africa,SA,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/7.png?v=8,2025-05-04
+8,Sri Lanka,SL,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/8.png?v=8,2025-05-04
+9,West Indies,WI,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/9.png?v=8,2025-05-04
+10,Zimbabwe,ZIM,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/10.png?v=8,2025-05-04
+11,Bermuda,BDA,https://images.icc-cricket.com/image/upload/t_team-logo/v1/11.png,2025-05-04
+12,Canada,CAN,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/12.png?v=8,2025-05-04
+13,Ireland,IRE,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/13.png?v=8,2025-05-04
+14,Kenya,KEN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/14.png,2025-05-04
+15,Netherlands,NED,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/15.png?v=8,2025-05-04
+16,Scotland,SCO,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/16.png?v=8,2025-05-04
+17,Hong Kong,HK,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/17.png?v=8,2025-05-04
+18,Namibia,NAM,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/18.png?v=8,2025-05-04
+19,United Arab Emirates,UAE,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/19.png?v=8,2025-05-04
+20,USA,USA,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/20.png?v=8,2025-05-04
+22,Argentina,ARG,https://images.icc-cricket.com/image/upload/t_team-logo/v1/22.png,2025-05-04
+34,Austria,"AUT ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/34.png,2025-05-04
+36,Bahamas,BAH,https://images.icc-cricket.com/image/upload/t_team-logo/v1/36.png,2025-05-04
+37,Bahrain,BRN,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/37.png?v=8,2025-05-04
+40,Belgium,"BEL ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/40.png,2025-05-04
+41,Belize,BIZ,https://images.icc-cricket.com/image/upload/t_team-logo/v1/41.png,2025-05-04
+43,Bhutan,BHU,https://images.icc-cricket.com/image/upload/t_team-logo/v1/43.png,2025-05-04
+46,Botswana,BOT,https://images.icc-cricket.com/image/upload/t_team-logo/v1/46.png,2025-05-04
+48,Brazil,BRA,https://images.icc-cricket.com/image/upload/t_team-logo/v1/48.png,2025-05-04
+52,Bulgaria,BUL,https://images.icc-cricket.com/image/upload/t_team-logo/v1/52.png,2025-05-04
+55,Cambodia,KHM,https://images.icc-cricket.com/image/upload/t_team-logo/v1/55.png,2025-05-04
+56,Cameroon,CMR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/56.png,2025-05-04
+58,Cayman Islands,CAY,https://images.icc-cricket.com/image/upload/t_team-logo/v1/58.png,2025-05-04
+63,China,CHN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/63.png,2025-05-04
+69,Cook Islands,COK,https://images.icc-cricket.com/image/upload/t_team-logo/v1/69.png,2025-05-04
+70,Costa Rica,CRI,https://images.icc-cricket.com/image/upload/t_team-logo/v1/70.png,2025-05-04
+72,Croatia,CRO,https://images.icc-cricket.com/image/upload/t_team-logo/v1/72.png,2025-05-04
+74,Cyprus,"CYP ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/74.png,2025-05-04
+75,Czechia,CZE,https://images.icc-cricket.com/image/upload/t_team-logo/v1/75.png,2025-05-04
+76,Denmark,DEN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/76.png,2025-05-04
+87,Estonia,"EST ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/87.png,2025-05-04
+91,Fiji,FIJ,https://images.icc-cricket.com/image/upload/t_team-logo/v1/91.png,2025-05-04
+92,Finland,FIN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/92.png,2025-05-04
+93,France,"FRA ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/93.png,2025-05-04
+100,Gambia,GAM,https://images.icc-cricket.com/image/upload/t_team-logo/v1/100.png,2025-05-04
+102,Germany,GER,https://images.icc-cricket.com/image/upload/t_team-logo/v1/102.png,2025-05-04
+103,Ghana,GHA,https://images.icc-cricket.com/image/upload/t_team-logo/v1/103.png,2025-05-04
+104,Gibraltar,GIB,https://images.icc-cricket.com/image/upload/t_team-logo/v1/104.png,2025-05-04
+105,Greece,GRE,https://images.icc-cricket.com/image/upload/t_team-logo/v1/105.png,2025-05-04
+119,Hungary,"HUN ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/119.png,2025-05-04
+121,Indonesia,INA,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/121.png?v=8,2025-05-04
+124,Israel,ISR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/124.png,2025-05-04
+125,Italy,ITA,https://images.icc-cricket.com/image/upload/t_team-logo/v1/125.png,2025-05-04
+128,Japan,JPN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/128.png,2025-05-04
+132,Korea,KOR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/132.png,2025-05-04
+134,Kuwait,KUW,https://images.icc-cricket.com/image/upload/t_team-logo/v1/134.png,2025-05-04
+139,Lesotho,LES,https://images.icc-cricket.com/image/upload/t_team-logo/v1/139.png,2025-05-04
+144,Luxembourg,"LUX ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/144.png,2025-05-04
+148,Malawi,MAW,https://images.icc-cricket.com/image/upload/t_team-logo/v1/148.png,2025-05-04
+149,Malaysia,MAS,https://images.icc-cricket.com/image/upload/t_team-logo/v1/149.png,2025-05-04
+150,Maldives,MDV,https://images.icc-cricket.com/image/upload/t_team-logo/v1/150.png,2025-05-04
+151,Mali,MLI,https://images.icc-cricket.com/image/upload/t_team-logo/v1/151.png,2025-05-04
+152,Malta,MLT,https://images.icc-cricket.com/image/upload/t_team-logo/v1/152.png,2025-05-04
+158,Mexico,MEX,https://images.icc-cricket.com/image/upload/t_team-logo/v1/158.png,2025-05-04
+163,Mongolia,MNG,https://images.icc-cricket.com/image/upload/t_team-logo/v1/163.png,2025-05-04
+167,Mozambique,MOZ,https://images.icc-cricket.com/image/upload/t_team-logo/v1/167.png,2025-05-04
+168,Myanmar,MMR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/168.png,2025-05-04
+170,Nepal,NEP,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/170.png?v=8,2025-05-04
+176,Nigeria,NGR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/176.png,2025-05-04
+180,Norway,NOR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/180.png,2025-05-04
+181,Oman,OMN,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/181.png?v=8,2025-05-04
+183,Panama,PAN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/183.png,2025-05-04
+184,Papua New Guinea,PNG,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/184.png?v=8,2025-05-04
+187,Philippines,PHI,https://images.icc-cricket.com/image/upload/t_team-logo/v1/187.png,2025-05-04
+190,Portugal,POR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/190.png,2025-05-04
+192,Qatar,QAT,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/192.png?v=8,2025-05-04
+194,Romania,ROM,https://images.icc-cricket.com/image/upload/t_team-logo/v1/194.png,2025-05-04
+196,Rwanda,RWA,https://images.icc-cricket.com/image/upload/t_team-logo/v1/196.png,2025-05-04
+202,Samoa,SAM,https://images.icc-cricket.com/image/upload/t_team-logo/v1/202.png,2025-05-04
+205,Saudi Arabia,SDA,https://images.icc-cricket.com/image/upload/t_team-logo/v1/205.png,2025-05-04
+207,Serbia,SER,https://images.icc-cricket.com/image/upload/t_team-logo/v1/207.png,2025-05-04
+208,Seychelles,SEY,https://images.icc-cricket.com/image/upload/t_team-logo/v1/208.png,2025-05-04
+209,Sierra Leone,SRL,https://images.icc-cricket.com/image/upload/t_team-logo/v1/209.png,2025-05-04
+210,Singapore,SIN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/210.png,2025-05-04
+212,Slovenia,SVN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/212.png,2025-05-04
+216,Spain,ESP,https://images.icc-cricket.com/image/upload/t_team-logo/v1/216.png,2025-05-04
+219,St.Helena,SHN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/219.png,2025-05-04
+221,Suriname,SUR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/221.png,2025-05-04
+223,Swaziland,SWZ,https://images.icc-cricket.com/image/upload/t_team-logo/v1/223.png,2025-05-04
+224,Sweden,"SWE ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/224.png,2025-05-04
+225,Switzerland,CHE,https://images.icc-cricket.com/image/upload/t_team-logo/v1/225.png,2025-05-04
+229,Tanzania,TAN,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/229.png?v=8,2025-05-04
+230,Thailand,THA,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/230.png?v=8,2025-05-04
+236,Turkiye,"TUR ",https://images.icc-cricket.com/image/upload/t_team-logo/v1/236.png,2025-05-04
+240,Uganda,UGN,https://images.icc-cricket.com/image/upload/t_team-logo/v1/240.png,2025-05-04
+242,United Kingdom,GBR,https://images.icc-cricket.com/image/upload/t_team-logo/v1/242.png,2025-05-04
+247,Vanuatu,VUT,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/247.png?v=8,2025-05-04
+259,Jersey,JSY,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/259.png?v=8,2025-05-04
+262,Afghanistan,AFG,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/262.png?v=8,2025-05-04
+270,Guernsey,GSY,https://images.icc-cricket.com/image/upload/t_team-logo/v1/270.png,2025-05-04
+272,Isle of Man,IOM,https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/272.png?v=8,2025-05-04

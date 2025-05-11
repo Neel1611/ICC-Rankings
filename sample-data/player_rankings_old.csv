@@ -1,0 +1,1507 @@
+﻿table_id,player_id,format,category,pos,change,rating,career_best_rating,rank_date,entry_date
+1,10129,TEST,bat,1,-,895,932 v Pakistan at Multan 2024,2025-04-29,2025-05-04
+2,66374,TEST,bat,2,-,876,898 v New Zealand at Wellington 2024,2025-04-29,2025-05-04
+3,4330,TEST,bat,3,-,867,919 v Pakistan at Christchurch 2021,2025-04-29,2025-05-04
+4,69238,TEST,bat,4,-,847,854 v Australia at Melbourne 2024,2025-04-29,2025-05-04
+5,4308,TEST,bat,5,-,823,947 v South Africa at Durban 2018,2025-04-29,2025-05-04
+6,12492,TEST,bat,6,-,769,769 v Pakistan at Cape Town 2025,2025-04-29,2025-05-04
+7,65034,TEST,bat,7,-,761,779 v Australia at Galle 2025,2025-04-29,2025-05-04
+8,62023,TEST,bat,8,-,748,884 v India at The Oval 2023,2025-04-29,2025-05-04
+9,10048,TEST,bat,9,-,739,847 v England at Lord's 2023,2025-04-29,2025-05-04
+10,65756,TEST,bat,9,-,739,801 v England at Edgbaston 2022,2025-04-29,2025-05-04
+11,64153,TEST,bat,9,-,739,764 v South Africa at Centurion 2024,2025-04-29,2025-05-04
+12,57444,TEST,bat,12,-,725,804 v Bangladesh at Sylhet 2023,2025-04-29,2025-05-04
+13,4393,TEST,bat,13,-,708,755 v West Indies at St Lucia 2018,2025-04-29,2025-05-04
+14,20286,TEST,bat,14,-,671,728 v Bangladesh at Rawalpindi 2024,2025-04-29,2025-05-04
+15,63082,TEST,bat,15,-,669,719 v India at Rajkot 2024,2025-04-29,2025-05-04
+16,65083,TEST,bat,15,-,669,937 v West Indies at Adelaide 2022,2025-04-29,2025-05-04
+17,64219,TEST,bat,17,-,662,759 v Australia at Johannesburg 2018,2025-04-29,2025-05-04
+18,63706,TEST,bat,18,-,661,661 v Sri Lanka at Galle 2025,2025-04-29,2025-05-04
+19,57440,TEST,bat,19,-,653,699 v England at The Oval 2024,2025-04-29,2025-05-04
+20,59429,TEST,bat,20,-,651,882 v New Zealand at Karachi 2022,2025-04-29,2025-05-04
+21,3682,TEST,bat,21,-,648,653 v Afghanistan at Bulawayo 2024,2025-04-29,2025-05-04
+22,5244,TEST,bat,22,-1,641,877 v New Zealand at Christchurch 2014,2025-04-29,2025-05-04
+23,66818,TEST,bat,23,-,631,701 v Bangladesh at Chennai 2024,2025-04-29,2025-05-04
+24,65279,TEST,bat,24,-,630,636 v Sri Lanka at Gqeberha 2024,2025-04-29,2025-05-04
+25,63215,TEST,bat,25,-,626,626 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+26,3993,TEST,bat,26,-,614,937 v England at Southampton 2018,2025-04-29,2025-05-04
+27,66053,TEST,bat,27,-,610,711 v India at Pune 2024,2025-04-29,2025-05-04
+28,63882,TEST,bat,28,-,601,693 v West Indies at St Lucia 2018,2025-04-29,2025-05-04
+29,11258,TEST,bat,29,-,594,783 v Ireland at Galle 2023,2025-04-29,2025-05-04
+30,10167,TEST,bat,29,-,594,733 v West Indies at Hamilton 2020,2025-04-29,2025-05-04
+31,66403,TEST,bat,29,-,594,684 v India at Hyderabad 2024,2025-04-29,2025-05-04
+32,64078,TEST,bat,32,+1,592,684 v England at Multan 2024,2025-04-29,2025-05-04
+33,66870,TEST,bat,33,+1,591,661 v New Zealand at Wellington 2024,2025-04-29,2025-05-04
+34,10130,TEST,bat,34,+1,589,827 v West Indies at Old Trafford 2020,2025-04-29,2025-05-04
+35,61910,TEST,bat,35,+2,581,581 v England at Hamilton 2024,2025-04-29,2025-05-04
+36,62101,TEST,bat,36,+2,579,782 v England at Wellington 2023,2025-04-29,2025-05-04
+37,19394,TEST,bat,37,+2,577,772 v South Africa at Old Trafford 2017,2025-04-29,2025-05-04
+38,63206,TEST,bat,37,-1,577,724 v Sri Lanka at Mirpur 2022,2025-04-29,2025-05-04
+39,69554,TEST,bat,39,+2,571,614 v Sri Lanka at The Oval 2024,2025-04-29,2025-05-04
+40,3693,TEST,bat,40,-8,566,684 v Pakistan at Rawalpindi 2024,2025-04-29,2025-05-04
+41,3852,TEST,bat,41,+1,554,813 v England at The Oval 2021,2025-04-29,2025-05-04
+42,7858,TEST,bat,42,+1,551,701 v England at Headingley 2017,2025-04-29,2025-05-04
+43,11690,TEST,bat,43,-3,549,581 v Afghanistan at Bulawayo 2025,2025-04-29,2025-05-04
+44,67258,TEST,bat,44,-,548,710 v West Indies at Lord's 2024,2025-04-29,2025-05-04
+45,65295,TEST,bat,45,-,547,584 v England at Wellington 2024,2025-04-29,2025-05-04
+46,13177,TEST,bat,46,-,545,661 v South Africa at Christchurch 2022,2025-04-29,2025-05-04
+47,11754,TEST,bat,47,-,542,653 v England at Old Trafford 2020,2025-04-29,2025-05-04
+48,60533,TEST,bat,48,+5,539,661 v Pakistan at Mirpur 2015,2025-04-29,2025-05-04
+49,3850,TEST,bat,49,-1,538,605 v Australia at Nagpur 2023,2025-04-29,2025-05-04
+50,65411,TEST,bat,50,+10,535,535 v Zimbabwe at Sylhet 2025,2025-04-29,2025-05-04
+51,60122,TEST,bat,51,-2,533,761 v Sri Lanka at Pallekele 2017,2025-04-29,2025-05-04
+52,66087,TEST,bat,51,-2,533,533 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+53,63872,TEST,bat,53,+4,530,570 v New Zealand at Sylhet 2023,2025-04-29,2025-05-04
+54,65728,TEST,bat,54,-3,520,676 v England at Rawalpindi 2022,2025-04-29,2025-05-04
+55,66368,TEST,bat,55,-3,518,568 v England at The Oval 2024,2025-04-29,2025-05-04
+56,64941,TEST,bat,56,-2,504,504 v Pakistan at Cape Town 2025,2025-04-29,2025-05-04
+57,67519,TEST,bat,57,-2,499,509 v Ireland at Abu Dhabi 2024,2025-04-29,2025-05-04
+58,3782,TEST,bat,58,-2,493,694 v Australia at Mirpur 2017,2025-04-29,2025-05-04
+59,63604,TEST,bat,58,-,493,528 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+60,74761,TEST,bat,60,+1,489,576 v Sri Lanka at Durban 2024,2025-04-29,2025-05-04
+61,59902,TEST,bat,61,+1,484,503 v Zimbabwe at Bulawayo 2024,2025-04-29,2025-05-04
+62,65523,TEST,bat,62,+1,473,578 v Bangladesh at Chittagong 2024,2025-04-29,2025-05-04
+63,10232,TEST,bat,63,+1,468,581 v England at Barbados 2019,2025-04-29,2025-05-04
+64,63875,TEST,bat,63,-5,468,493 v West Indies at Jamaica 2024,2025-04-29,2025-05-04
+65,63961,TEST,bat,65,-,465,666 v Bangladesh at Mirpur 2022,2025-04-29,2025-05-04
+66,62576,TEST,bat,66,-,464,548 v Australia at Ahmedabad 2023,2025-04-29,2025-05-04
+67,66918,TEST,bat,67,-,462,497 v Pakistan at Multan 2025,2025-04-29,2025-05-04
+68,85736,TEST,bat,68,-,460,460 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+69,74837,TEST,bat,69,-,459,528 v Australia at Melbourne 2024,2025-04-29,2025-05-04
+70,63160,TEST,bat,70,-,458,458 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+71,57771,TEST,bat,71,-,455,597 v India at Cape Town 2022,2025-04-29,2025-05-04
+72,57755,TEST,bat,72,+1,432,460 v Bangladesh at Jamaica 2024,2025-04-29,2025-05-04
+73,10094,TEST,bat,73,+1,429,552 v South Africa at Gqeberha 2018,2025-04-29,2025-05-04
+74,57903,TEST,bat,74,+1,428,431 v England at Mount Maunganui 2019,2025-04-29,2025-05-04
+75,70521,TEST,bat,75,+1,419,484 v England at Grenada 2022,2025-04-29,2025-05-04
+76,57352,TEST,bat,76,+1,417,512 v New Zealand at Mount Maunganui 2023,2025-04-29,2025-05-04
+77,64266,TEST,bat,77,-5,414,436 v West Indies at Jamaica 2024,2025-04-29,2025-05-04
+78,65859,TEST,bat,78,-,409,494 v England at Ahmedabad 2021,2025-04-29,2025-05-04
+79,73612,TEST,bat,78,-,409,409 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+80,65525,TEST,bat,80,+1,393,415 v Sri Lanka at Durban 2024,2025-04-29,2025-05-04
+81,63605,TEST,bat,80,+1,393,397 v Pakistan at Centurion 2024,2025-04-29,2025-05-04
+82,64063,TEST,bat,82,+1,389,438 v England at Multan 2024,2025-04-29,2025-05-04
+83,4454,TEST,bat,83,+1,386,386 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+84,63277,TEST,bat,84,+1,381,432 v India at Sydney 2025,2025-04-29,2025-05-04
+85,63962,TEST,bat,85,+1,380,509 v New Zealand at Bengaluru 2024,2025-04-29,2025-05-04
+86,69409,TEST,bat,86,+1,375,435 v India at Centurion 2023,2025-04-29,2025-05-04
+87,57340,TEST,bat,87,+1,373,509 v Pakistan at Karachi 2019,2025-04-29,2025-05-04
+88,66085,TEST,bat,88,+1,370,504 v Sri Lanka at Galle 2023,2025-04-29,2025-05-04
+89,25422,TEST,bat,89,+1,358,547 v West Indies at Bulawayo 2017,2025-04-29,2025-05-04
+90,65847,TEST,bat,90,-10,354,399 v Ireland at Bulawayo 2025,2025-04-29,2025-05-04
+91,87227,TEST,bat,90,+54,354,354 v Bangladesh at Sylhet 2025,2025-04-29,2025-05-04
+92,69957,TEST,bat,92,-1,352,359 v South Africa at Cape Town 2025,2025-04-29,2025-05-04
+93,70241,TEST,bat,92,-1,352,364 v England at Multan 2024,2025-04-29,2025-05-04
+94,65893,TEST,bat,94,-1,351,417 v Sri Lanka at Galle 2025,2025-04-29,2025-05-04
+95,70291,TEST,bat,95,+5,348,472 v South Africa at Durban 2022,2025-04-29,2025-05-04
+96,71370,TEST,bat,96,-1,342,461 v England at Ranchi 2024,2025-04-29,2025-05-04
+97,65690,TEST,bat,97,-1,340,340 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+98,3323,TEST,bat,98,-2,336,461 v India at Mirpur 2022,2025-04-29,2025-05-04
+99,69416,TEST,bat,98,-,336,343 v Sri Lanka at Lord's 2024,2025-04-29,2025-05-04
+100,4321,TEST,bat,100,+1,334,496 v India at Lord's 2018,2025-04-29,2025-05-04
+101,63755,TEST,bowl,1,-,908,908 v Australia at Sydney 2025,2025-04-29,2025-05-04
+102,63611,TEST,bowl,2,-,837,902 v Australia at Gqeberha 2018,2025-04-29,2025-05-04
+103,56964,TEST,bowl,3,-,824,914 v England at Old Trafford 2019,2025-04-29,2025-05-04
+104,4255,TEST,bowl,4,-,818,864 v India at Bengaluru 2017,2025-04-29,2025-05-04
+105,29679,TEST,bowl,5,-,812,812 v Sri Lanka at Galle 2025,2025-04-29,2025-05-04
+106,14291,TEST,bowl,6,-,806,806 v West Indies at Multan 2025,2025-04-29,2025-05-04
+107,69409,TEST,bowl,7,-,785,803 v Pakistan at Centurion 2024,2025-04-29,2025-05-04
+108,60544,TEST,bowl,8,-,782,782 v England at Hamilton 2024,2025-04-29,2025-05-04
+109,62411,TEST,bowl,9,-,751,801 v New Zealand at Galle 2024,2025-04-29,2025-05-04
+110,3850,TEST,bowl,10,-,745,899 v Australia at Ranchi 2017,2025-04-29,2025-05-04
+111,10053,TEST,bowl,11,-,737,807 v New Zealand at Perth 2019,2025-04-29,2025-05-04
+112,73200,TEST,bowl,12,-,735,742 v Pakistan at Multan 2025,2025-04-29,2025-05-04
+113,61998,TEST,bowl,13,-,730,745 v India at Sydney 2025,2025-04-29,2025-05-04
+114,69416,TEST,bowl,14,-,715,715 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+115,67784,TEST,bowl,15,+14,705,705 v Bangladesh at Sylhet 2025,2025-04-29,2025-05-04
+116,4321,TEST,bowl,16,-1,674,690 v Pakistan at Old Trafford 2020,2025-04-29,2025-05-04
+117,48607,TEST,bowl,17,-1,673,696 v Zimbabwe at Gqeberha 2017,2025-04-29,2025-05-04
+118,4912,TEST,bowl,18,-1,672,781 v India at Jamaica 2019,2025-04-29,2025-05-04
+119,63865,TEST,bowl,18,-1,672,836 v England at Lord's 2022,2025-04-29,2025-05-04
+120,65029,TEST,bowl,20,-,644,734 v England at Lord's 2024,2025-04-29,2025-05-04
+121,38066,TEST,bowl,20,-,644,644 v West Indies at Multan 2025,2025-04-29,2025-05-04
+122,66833,TEST,bowl,22,-,641,836 v Sri Lanka at Galle 2022,2025-04-29,2025-05-04
+123,35665,TEST,bowl,23,-4,626,708 v New Zealand at Sylhet 2023,2025-04-29,2025-05-04
+124,63187,TEST,bowl,24,-1,623,686 v England at Dharamsala 2024,2025-04-29,2025-05-04
+125,64168,TEST,bowl,25,-1,620,820 v New Zealand at Mount Maunganui 2023,2025-04-29,2025-05-04
+126,63875,TEST,bowl,26,+4,619,696 v West Indies at Dhaka 2018,2025-04-29,2025-05-04
+127,60444,TEST,bowl,27,-2,614,614 v Pakistan at Multan 2025,2025-04-29,2025-05-04
+128,64092,TEST,bowl,28,-2,611,630 v India at Mumbai 2024,2025-04-29,2025-05-04
+129,20495,TEST,bowl,29,-2,607,838 v New Zealand at Abu Dhabi 2018,2025-04-29,2025-05-04
+130,65799,TEST,bowl,30,-2,601,661 v South Africa at Cape Town 2024,2025-04-29,2025-05-04
+131,57974,TEST,bowl,31,-,563,574 v South Africa at Gqeberha 2024,2025-04-29,2025-05-04
+132,57871,TEST,bowl,32,-,560,640 v Australia at The Oval 2023,2025-04-29,2025-05-04
+133,74400,TEST,bowl,33,-,547,547 v England at Hamilton 2024,2025-04-29,2025-05-04
+134,64264,TEST,bowl,34,-,536,577 v South Africa at Johannesburg 2023,2025-04-29,2025-05-04
+135,57677,TEST,bowl,35,-,535,604 v New Zealand at Headingley 2022,2025-04-29,2025-05-04
+136,10232,TEST,bowl,36,-,533,862 v England at Southampton 2020,2025-04-29,2025-05-04
+137,65090,TEST,bowl,37,+1,529,529 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+138,65033,TEST,bowl,38,+1,526,544 v England at The Oval 2024,2025-04-29,2025-05-04
+139,69956,TEST,bowl,38,+1,526,542 v South Africa at Centurion 2024,2025-04-29,2025-05-04
+140,3782,TEST,bowl,40,-3,525,705 v Australia at Mirpur 2017,2025-04-29,2025-05-04
+141,57903,TEST,bowl,41,-,521,521 v England at Hamilton 2024,2025-04-29,2025-05-04
+142,63899,TEST,bowl,42,-,516,641 v Pakistan at Galle 2023,2025-04-29,2025-05-04
+143,64225,TEST,bowl,43,-,502,638 v India at Cape Town 2022,2025-04-29,2025-05-04
+144,65047,TEST,bowl,44,-,485,485 v Sri Lanka at Galle 2025,2025-04-29,2025-05-04
+145,62576,TEST,bowl,45,-,476,650 v Bangladesh at Chittagong 2022,2025-04-29,2025-05-04
+146,57759,TEST,bowl,46,-,466,515 v Bangladesh at Sylhet 2024,2025-04-29,2025-05-04
+147,57458,TEST,bowl,47,-,465,692 v Sri Lanka at Gqeberha 2019,2025-04-29,2025-05-04
+148,67418,TEST,bowl,48,-,440,440 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+149,24669,TEST,bowl,49,-,438,442 v Pakistan at Centurion 2024,2025-04-29,2025-05-04
+150,66884,TEST,bowl,50,-,409,463 v Sri Lanka at Colombo (SSC) 2023,2025-04-29,2025-05-04
+151,58314,TEST,bowl,51,-1,405,409 v West Indies at Jamaica 2024,2025-04-29,2025-05-04
+152,10130,TEST,bowl,52,+1,400,606 v West Indies at St Lucia 2019,2025-04-29,2025-05-04
+153,101907,TEST,bowl,53,+1,395,403 v Bangladesh at Jamaica 2024,2025-04-29,2025-05-04
+154,65748,TEST,bowl,54,+1,386,543 v Zimbabwe at Abu Dhabi 2021,2025-04-29,2025-05-04
+155,65859,TEST,bowl,55,+1,384,420 v Australia at Perth 2024,2025-04-29,2025-05-04
+156,105551,TEST,bowl,56,+1,381,411 v New Zealand at Christchurch 2024,2025-04-29,2025-05-04
+157,67672,TEST,bowl,56,-4,381,416 v India at Chennai 2024,2025-04-29,2025-05-04
+158,64262,TEST,bowl,58,-,374,447 v Zimbabwe at Bulawayo 2023,2025-04-29,2025-05-04
+159,63157,TEST,bowl,59,-,370,370 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+160,66790,TEST,bowl,60,-,355,426 v New Zealand at Mirpur 2023,2025-04-29,2025-05-04
+161,65525,TEST,bowl,61,-,342,389 v Bangladesh at Mirpur 2024,2025-04-29,2025-05-04
+162,65295,TEST,bowl,61,-,342,411 v Australia at Wellington 2024,2025-04-29,2025-05-04
+163,65690,TEST,bowl,63,-,341,343 v Zimbabwe at Stormont 2024,2025-04-29,2025-05-04
+164,70858,TEST,bowl,64,-,315,357 v Bangladesh at Rawalpindi 2024,2025-04-29,2025-05-04
+165,72445,TEST,bowl,65,+1,310,380 v England at The Oval 2023,2025-04-29,2025-05-04
+166,66195,TEST,bowl,65,+1,310,380 v India at Cape Town 2024,2025-04-29,2025-05-04
+167,66332,TEST,bowl,67,-2,309,338 v Pakistan at Rawalpindi 2024,2025-04-29,2025-05-04
+168,63154,TEST,bowl,68,-,299,299 v Bangladesh at Sylhet 2025,2025-04-29,2025-05-04
+169,89235,TEST,bowl,68,+3,299,299 v Zimbabwe at Sylhet 2025,2025-04-29,2025-05-04
+170,66870,TEST,bowl,70,-2,298,338 v England at Hobart 2022,2025-04-29,2025-05-04
+171,67443,TEST,bowl,71,-2,295,325 v West Indies at Johannesburg 2023,2025-04-29,2025-05-04
+172,86794,TEST,bowl,72,-2,288,297 v Pakistan at Rawalpindi 2024,2025-04-29,2025-05-04
+173,69957,TEST,bowl,73,-1,282,432 v Australia at Sydney 2024,2025-04-29,2025-05-04
+174,10129,TEST,bowl,74,-1,277,377 v India at Hyderabad 2024,2025-04-29,2025-05-04
+175,57625,TEST,bowl,74,-1,277,365 v Pakistan at Karachi 2023,2025-04-29,2025-05-04
+176,58029,TEST,bowl,74,-1,277,295 v New Zealand at Edgbaston 2021,2025-04-29,2025-05-04
+177,72715,TEST,bowl,77,-1,275,382 v India at Visakhapatnam 2024,2025-04-29,2025-05-04
+178,10094,TEST,bowl,78,-1,274,349 v West Indies at Melbourne 2015,2025-04-29,2025-05-04
+179,65506,TEST,bowl,79,-1,266,293 v New Zealand at Mount Maunganui 2024,2025-04-29,2025-05-04
+180,64875,TEST,bowl,80,-,263,327 v Afghanistan at Abu Dhabi 2021,2025-04-29,2025-05-04
+181,87748,TEST,bowl,81,-2,261,276 v Ireland at Abu Dhabi 2024,2025-04-29,2025-05-04
+182,63160,TEST,bowl,82,-2,256,256 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+183,85951,TEST,bowl,83,-1,252,252 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+184,61918,TEST,bowl,84,-,239,360 v Bangladesh at Chittagong 2019,2025-04-29,2025-05-04
+185,67046,TEST,bowl,85,+2,237,259 v Sri Lanka at Chittagong 2024,2025-04-29,2025-05-04
+186,71447,TEST,bowl,85,-,237,269 v New Zealand at Mumbai 2024,2025-04-29,2025-05-04
+187,66719,TEST,bowl,87,-1,232,269 v England at The Oval 2024,2025-04-29,2025-05-04
+188,19067,TEST,bowl,88,-,228,333 v West Indies at Guyana 2024,2025-04-29,2025-05-04
+189,65323,TEST,bowl,89,-,227,330 v New Zealand at Galle 2024,2025-04-29,2025-05-04
+190,64659,TEST,bowl,90,-,219,219 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+191,57440,TEST,bowl,91,-,216,257 v New Zealand at Galle 2024,2025-04-29,2025-05-04
+192,57901,TEST,bowl,92,-,214,231 v Bangladesh at Rawalpindi 2024,2025-04-29,2025-05-04
+193,65649,TEST,bowl,92,-9,214,240 v Ireland at Bulawayo 2025,2025-04-29,2025-05-04
+194,65702,TEST,bowl,94,-1,204,204 v Australia at Sydney 2025,2025-04-29,2025-05-04
+195,64078,TEST,bowl,95,-1,199,205 v West Indies at Multan 2025,2025-04-29,2025-05-04
+196,59442,TEST,bowl,96,-1,198,285 v Zimbabwe at Stormont 2024,2025-04-29,2025-05-04
+197,21562,TEST,bowl,97,-,196,243 v England at Multan 2022,2025-04-29,2025-05-04
+198,3682,TEST,bowl,98,-3,194,247 v Bangladesh at Sylhet 2018,2025-04-29,2025-05-04
+199,66007,TEST,bowl,99,-1,192,196 v Ireland at Abu Dhabi 2024,2025-04-29,2025-05-04
+200,65829,TEST,bowl,100,-1,184,186 v Zimbabwe at Bulawayo 2024,2025-04-29,2025-05-04
+201,3850,TEST,allrounder,1,-,400,475 v Bangladesh at Chennai 2024,2025-04-29,2025-05-04
+202,69409,TEST,allrounder,2,-,294,294 v Pakistan at Cape Town 2025,2025-04-29,2025-05-04
+203,63875,TEST,allrounder,3,-,289,294 v South Africa at Mirpur 2024,2025-04-29,2025-05-04
+204,56964,TEST,allrounder,4,-,271,339 v England at Lord's 2019,2025-04-29,2025-05-04
+205,3782,TEST,allrounder,5,-,258,489 v Australia at Mirpur 2017,2025-04-29,2025-05-04
+206,10232,TEST,allrounder,6,-,249,485 v England at Southampton 2020,2025-04-29,2025-05-04
+207,10129,TEST,allrounder,7,-,247,313 v India at Hyderabad 2024,2025-04-29,2025-05-04
+208,69416,TEST,allrounder,8,-,240,240 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+209,10130,TEST,allrounder,9,-,235,497 v West Indies at Old Trafford 2020,2025-04-29,2025-05-04
+210,4321,TEST,allrounder,10,-,225,273 v Pakistan at Old Trafford 2020,2025-04-29,2025-05-04
+211,57903,TEST,allrounder,11,-,222,222 v England at Hamilton 2024,2025-04-29,2025-05-04
+212,62576,TEST,allrounder,12,-,220,316 v Australia at Ahmedabad 2023,2025-04-29,2025-05-04
+213,10053,TEST,allrounder,13,-,215,346 v India at Pune 2017,2025-04-29,2025-05-04
+214,29679,TEST,allrounder,14,-,201,201 v Sri Lanka at Galle 2025,2025-04-29,2025-05-04
+215,63611,TEST,allrounder,15,-,194,225 v Australia at Cape Town 2018,2025-04-29,2025-05-04
+216,60544,TEST,allrounder,16,-,193,226 v India at Bengaluru 2024,2025-04-29,2025-05-04
+217,65295,TEST,allrounder,17,-,187,214 v Australia at Wellington 2024,2025-04-29,2025-05-04
+218,66870,TEST,allrounder,18,-,176,202 v New Zealand at Christchurch 2024,2025-04-29,2025-05-04
+219,48607,TEST,allrounder,19,-,171,208 v England at Lord's 2022,2025-04-29,2025-05-04
+220,63865,TEST,allrounder,20,-,169,325 v India at Kanpur 2021,2025-04-29,2025-05-04
+221,14291,TEST,allrounder,21,-,164,178 v England at Rawalpindi 2024,2025-04-29,2025-05-04
+222,65859,TEST,allrounder,22,-,157,167 v New Zealand at Mumbai 2024,2025-04-29,2025-05-04
+223,60444,TEST,allrounder,23,-,155,155 v Pakistan at Multan 2025,2025-04-29,2025-05-04
+224,4912,TEST,allrounder,24,-,147,185 v India at Jamaica 2019,2025-04-29,2025-05-04
+225,57440,TEST,allrounder,25,-,141,175 v New Zealand at Galle 2024,2025-04-29,2025-05-04
+226,65525,TEST,allrounder,26,-,134,155 v Bangladesh at Chittagong 2024,2025-04-29,2025-05-04
+227,62023,TEST,allrounder,27,-,133,139 v England at Lord's 2023,2025-04-29,2025-05-04
+228,64168,TEST,allrounder,28,-,127,172 v Australia at Edgbaston 2023,2025-04-29,2025-05-04
+229,3682,TEST,allrounder,29,-,125,135 v Afghanistan at Bulawayo 2024,2025-04-29,2025-05-04
+230,64262,TEST,allrounder,30,-,123,123 v Pakistan at Multan 2025,2025-04-29,2025-05-04
+231,63899,TEST,allrounder,31,-,122,158 v Pakistan at Galle 2023,2025-04-29,2025-05-04
+232,38066,TEST,allrounder,32,-,118,118 v West Indies at Multan 2025,2025-04-29,2025-05-04
+233,10094,TEST,allrounder,33,-,117,155 v India at Perth 2024,2025-04-29,2025-05-04
+234,63160,TEST,allrounder,33,-,117,117 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+235,64078,TEST,allrounder,33,-,117,132 v England at Multan 2024,2025-04-29,2025-05-04
+236,65690,TEST,allrounder,36,-,115,115 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+237,57871,TEST,allrounder,37,-,114,151 v India at Rajkot 2024,2025-04-29,2025-05-04
+238,4255,TEST,allrounder,38,-,113,153 v India at Pune 2017,2025-04-29,2025-05-04
+239,64264,TEST,allrounder,39,+1,108,135 v Australia at Brisbane 2024,2025-04-29,2025-05-04
+240,67784,TEST,allrounder,40,+5,107,107 v Bangladesh at Sylhet 2025,2025-04-29,2025-05-04
+241,63755,TEST,allrounder,40,+1,107,107 v Australia at Sydney 2025,2025-04-29,2025-05-04
+242,57677,TEST,allrounder,42,-,99,135 v New Zealand at Headingley 2022,2025-04-29,2025-05-04
+243,69957,TEST,allrounder,42,-,99,131 v Australia at Sydney 2024,2025-04-29,2025-05-04
+244,35665,TEST,allrounder,44,-5,98,109 v West Indies at Jamaica 2024,2025-04-29,2025-05-04
+245,63187,TEST,allrounder,45,-1,84,102 v England at Dharamsala 2024,2025-04-29,2025-05-04
+246,4330,TEST,allrounder,46,-1,83,201 v Australia at Brisbane 2015,2025-04-29,2025-05-04
+247,7858,TEST,allrounder,47,-,77,130 v India at Antigua 2016,2025-04-29,2025-05-04
+248,65748,TEST,allrounder,47,-,77,101 v Bangladesh at Chittagong 2019,2025-04-29,2025-05-04
+249,62411,TEST,allrounder,47,-,77,89 v South Africa at Gqeberha 2024,2025-04-29,2025-05-04
+250,101907,TEST,allrounder,50,-,76,91 v Australia at Brisbane 2024,2025-04-29,2025-05-04
+251,65090,TEST,allrounder,51,-,75,85 v New Zealand at Wellington 2024,2025-04-29,2025-05-04
+252,5244,TEST,allrounder,52,-,74,214 v India at Colombo (SSC) 2015,2025-04-29,2025-05-04
+253,64092,TEST,allrounder,53,-,72,77 v India at Mumbai 2024,2025-04-29,2025-05-04
+254,73200,TEST,allrounder,53,-,72,74 v Pakistan at Multan 2025,2025-04-29,2025-05-04
+255,66833,TEST,allrounder,55,-,71,80 v England at Multan 2024,2025-04-29,2025-05-04
+256,66053,TEST,allrounder,56,-,68,92 v Sri Lanka at Galle 2024,2025-04-29,2025-05-04
+257,4308,TEST,allrounder,57,-,67,132 v Pakistan at Abu Dhabi 2014,2025-04-29,2025-05-04
+258,66719,TEST,allrounder,57,-,67,82 v England at The Oval 2024,2025-04-29,2025-05-04
+259,61998,TEST,allrounder,59,-,65,68 v India at Sydney 2025,2025-04-29,2025-05-04
+260,72715,TEST,allrounder,60,-,64,120 v India at Visakhapatnam 2024,2025-04-29,2025-05-04
+261,65083,TEST,allrounder,61,-,55,146 v New Zealand at Melbourne 2019,2025-04-29,2025-05-04
+262,60533,TEST,allrounder,62,+2,52,78 v New Zealand at Sylhet 2023,2025-04-29,2025-05-04
+263,58314,TEST,allrounder,63,-1,51,52 v West Indies at Jamaica 2024,2025-04-29,2025-05-04
+264,63605,TEST,allrounder,63,-,51,52 v Pakistan at Centurion 2024,2025-04-29,2025-05-04
+265,19067,TEST,allrounder,65,-,48,56 v West Indies at Guyana 2024,2025-04-29,2025-05-04
+266,67672,TEST,allrounder,65,+2,48,48 v Zimbabwe at Sylhet 2025,2025-04-29,2025-05-04
+267,65847,TEST,allrounder,67,+29,47,47 v Bangladesh at Sylhet 2025,2025-04-29,2025-05-04
+268,66790,TEST,allrounder,68,-2,44,55 v Zimbabwe at Mirpur 2020,2025-04-29,2025-05-04
+269,74837,TEST,allrounder,69,-2,43,43 v Australia at Sydney 2025,2025-04-29,2025-05-04
+270,57625,TEST,allrounder,70,-1,40,87 v Pakistan at Karachi 2022,2025-04-29,2025-05-04
+271,57974,TEST,allrounder,70,-1,40,44 v England at The Oval 2024,2025-04-29,2025-05-04
+272,24669,TEST,allrounder,70,-1,40,41 v Pakistan at Centurion 2024,2025-04-29,2025-05-04
+273,65799,TEST,allrounder,73,-1,39,40 v Australia at Adelaide 2024,2025-04-29,2025-05-04
+274,72445,TEST,allrounder,73,-1,39,54 v England at The Oval 2023,2025-04-29,2025-05-04
+275,73942,TEST,allrounder,73,-1,39,39 v Pakistan at Multan 2025,2025-04-29,2025-05-04
+276,69956,TEST,allrounder,76,-1,38,44 v England at Multan 2024,2025-04-29,2025-05-04
+277,67443,TEST,allrounder,76,-1,38,46 v West Indies at Johannesburg 2023,2025-04-29,2025-05-04
+278,25422,TEST,allrounder,78,-1,37,175 v Afghanistan at Abu Dhabi 2021,2025-04-29,2025-05-04
+279,65506,TEST,allrounder,78,-1,37,43 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+280,85736,TEST,allrounder,78,-1,37,37 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+281,63717,TEST,allrounder,81,-1,36,39 v Bangladesh at Chittagong 2024,2025-04-29,2025-05-04
+282,57643,TEST,allrounder,81,-1,36,48 v Bangladesh at Jamaica 2024,2025-04-29,2025-05-04
+283,87227,TEST,allrounder,81,+21,36,41 v Afghanistan at Bulawayo 2024,2025-04-29,2025-05-04
+284,20495,TEST,allrounder,84,-2,35,58 v England at Southampton 2020,2025-04-29,2025-05-04
+285,67418,TEST,allrounder,84,-2,35,38 v Pakistan at Multan 2024,2025-04-29,2025-05-04
+286,86794,TEST,allrounder,86,-2,34,46 v India at Visakhapatnam 2024,2025-04-29,2025-05-04
+287,66332,TEST,allrounder,87,-2,33,36 v Pakistan at Rawalpindi 2024,2025-04-29,2025-05-04
+288,70241,TEST,allrounder,87,-2,33,37 v South Africa at Centurion 2024,2025-04-29,2025-05-04
+289,64225,TEST,allrounder,89,-2,31,39 v India at Cape Town 2024,2025-04-29,2025-05-04
+290,57759,TEST,allrounder,90,-2,29,36 v Bangladesh at Sylhet 2024,2025-04-29,2025-05-04
+291,66056,TEST,allrounder,90,-2,29,30 v England at Wellington 2024,2025-04-29,2025-05-04
+292,65033,TEST,allrounder,92,-2,27,28 v South Africa at Durban 2024,2025-04-29,2025-05-04
+293,63277,TEST,allrounder,92,-2,27,27 v Sri Lanka at Galle 2025,2025-04-29,2025-05-04
+294,58029,TEST,allrounder,94,-2,26,29 v Sri Lanka at The Oval 2024,2025-04-29,2025-05-04
+295,71447,TEST,allrounder,94,-2,26,31 v Australia at Brisbane 2024,2025-04-29,2025-05-04
+296,66195,TEST,allrounder,96,-2,25,28 v West Indies at Guyana 2024,2025-04-29,2025-05-04
+297,105551,TEST,allrounder,96,-2,25,25 v New Zealand at Hamilton 2024,2025-04-29,2025-05-04
+298,70858,TEST,allrounder,98,-2,24,26 v South Africa at Cape Town 2025,2025-04-29,2025-05-04
+299,65029,TEST,allrounder,99,-1,23,25 v England at The Oval 2024,2025-04-29,2025-05-04
+300,85951,TEST,allrounder,99,-1,23,23 v Zimbabwe at Bulawayo 2025,2025-04-29,2025-05-04
+301,66818,ODI,bat,1,-,784,847 v Australia at Indore 2023,2025-04-08,2025-05-04
+302,59429,ODI,bat,2,-,766,898 v West Indies at Multan 2022,2025-04-08,2025-05-04
+303,3852,ODI,bat,3,-,756,882 v Sri Lanka at Headingley 2019,2025-04-08,2025-05-04
+304,59736,ODI,bat,4,-,744,760 v England at Karachi 2025,2025-04-08,2025-05-04
+305,3993,ODI,bat,5,-,736,909 v England at Headingley 2018,2025-04-08,2025-05-04
+306,57444,ODI,bat,6,-,720,751 v India at Mumbai 2023,2025-04-08,2025-05-04
+307,66085,ODI,bat,7,-,713,767 v Afghanistan at Sharjah 2024,2025-04-08,2025-05-04
+308,63961,ODI,bat,8,-,704,710 v New Zealand at Mumbai 2023,2025-04-08,2025-05-04
+309,65038,ODI,bat,9,-,694,694 v Australia at Colombo (RPS) 2025,2025-04-08,2025-05-04
+310,67519,ODI,bat,10,-,676,693 v Australia at Mumbai 2023,2025-04-08,2025-05-04
+311,63797,ODI,bat,11,-,672,802 v Bangladesh at Malahide 2019,2025-04-08,2025-05-04
+312,62023,ODI,bat,12,-,650,697 v England at Trent Bridge 2024,2025-04-08,2025-05-04
+313,12518,ODI,bat,13,-,648,797 v England at Durham 2022,2025-04-08,2025-05-04
+314,66368,ODI,bat,14,-,641,728 v Bangladesh at Chittagong 2024,2025-04-08,2025-05-04
+315,60122,ODI,bat,15,-,638,675 v South Africa at Gqeberha 2023,2025-04-08,2025-05-04
+316,66053,ODI,bat,16,-,624,643 v India at Dubai 2025,2025-04-08,2025-05-04
+317,68027,ODI,bat,17,-,622,686 v Bangladesh at Sharjah 2024,2025-04-08,2025-05-04
+318,4476,ODI,bat,18,-,620,698 v Netherlands at Utrecht 2021,2025-04-08,2025-05-04
+319,63082,ODI,bat,19,-,616,621 v Australia at Lahore 2025,2025-04-08,2025-05-04
+320,63882,ODI,bat,20,-,613,626 v Zimbabwe at Galle 2017,2025-04-08,2025-05-04
+321,20286,ODI,bat,21,+2,606,624 v New Zealand at Karachi 2025,2025-04-08,2025-05-04
+322,5313,ODI,bat,22,-,604,674 v Australia at Kolkata 2023,2025-04-08,2025-05-04
+323,57492,ODI,bat,23,-2,602,785 v New Zealand at Rawalpindi 2023,2025-04-08,2025-05-04
+324,67516,ODI,bat,24,+1,598,598 v Australia at Lahore 2025,2025-04-08,2025-05-04
+325,64219,ODI,bat,25,+1,596,657 v New Zealand at Pune 2023,2025-04-08,2025-05-04
+326,67285,ODI,bat,25,+1,596,596 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+327,65295,ODI,bat,27,-3,594,612 v India at Dubai 2025,2025-04-08,2025-05-04
+328,63872,ODI,bat,28,-,593,610 v Afghanistan at Sharjah 2024,2025-04-08,2025-05-04
+329,12492,ODI,bat,29,+2,585,691 v Australia at Potchefstroom 2023,2025-04-08,2025-05-04
+330,61910,ODI,bat,30,-1,583,647 v Pakistan at Karachi 2025,2025-04-08,2025-05-04
+331,4330,ODI,bat,31,-1,580,792 v South Africa at Centurion 2015,2025-04-08,2025-05-04
+332,25422,ODI,bat,32,-,578,627 v India at Harare 2022,2025-04-08,2025-05-04
+333,65083,ODI,bat,33,-,576,644 v England at Trent Bridge 2024,2025-04-08,2025-05-04
+334,63084,ODI,bat,34,-,565,815 v West Indies at Multan 2022,2025-04-08,2025-05-04
+335,67919,ODI,bat,35,-,563,644 v Bangladesh at Kolkata 2023,2025-04-08,2025-05-04
+336,65282,ODI,bat,36,+1,557,557 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+337,10129,ODI,bat,37,+1,556,816 v Sri Lanka at Dambulla 2018,2025-04-08,2025-05-04
+338,63215,ODI,bat,38,+2,555,635 v Sri Lanka at Pallekele 2022,2025-04-08,2025-05-04
+339,70241,ODI,bat,38,-2,555,602 v South Africa at Johannesburg 2024,2025-04-08,2025-05-04
+340,10167,ODI,bat,40,-2,550,657 v Pakistan at Karachi 2023,2025-04-08,2025-05-04
+341,64078,ODI,bat,40,+1,550,561 v New Zealand at Napier 2025,2025-04-08,2025-05-04
+342,9782,ODI,bat,42,-,545,731 v West Indies at Southampton 2019,2025-04-08,2025-05-04
+343,10085,ODI,bat,43,-,542,728 v India at Canberra 2016,2025-04-08,2025-05-04
+344,57890,ODI,bat,44,-,539,618 v United Arab Emirates at Namibia 2023,2025-04-08,2025-05-04
+345,63706,ODI,bat,45,-,537,669 v West Indies at Barbados 2021,2025-04-08,2025-05-04
+346,13177,ODI,bat,46,-1,532,603 v Bangladesh at Chennai 2023,2025-04-08,2025-05-04
+347,64957,ODI,bat,47,-,524,587 v Namibia at Glasgow 2022,2025-04-08,2025-05-04
+348,3682,ODI,bat,48,-,522,571 v Sri Lanka at Bulawayo 2023,2025-04-08,2025-05-04
+349,67442,ODI,bat,49,-,517,521 v Zimbabwe at Harare 2025,2025-04-08,2025-05-04
+350,65247,ODI,bat,50,-,515,515 v Australia at Colombo (RPS) 2025,2025-04-08,2025-05-04
+351,70336,ODI,bat,51,-,509,554 v Papua New Guinea at Namibia 2022,2025-04-08,2025-05-04
+352,59902,ODI,bat,52,-,508,549 v Netherlands at Lucknow 2023,2025-04-08,2025-05-04
+353,10094,ODI,bat,53,-,507,635 v New Zealand at Canberra 2016,2025-04-08,2025-05-04
+354,65585,ODI,bat,53,-,507,523 v USA at Rotterdam 2024,2025-04-08,2025-05-04
+355,4454,ODI,bat,55,-,502,585 v South Africa at Malahide 2021,2025-04-08,2025-05-04
+356,4023,ODI,bat,56,-,497,555 v USA at Texas 2022,2025-04-08,2025-05-04
+357,7797,ODI,bat,57,-,496,551 v Bangladesh at Mirpur 2016,2025-04-08,2025-05-04
+358,64543,ODI,bat,57,-,496,501 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+359,63897,ODI,bat,59,-,495,575 v Afghanistan at Pallekele 2024,2025-04-08,2025-05-04
+360,67719,ODI,bat,60,-,494,502 v India at Dubai 2025,2025-04-08,2025-05-04
+361,63940,ODI,bat,61,-,491,510 v West Indies at Antigua 2024,2025-04-08,2025-05-04
+362,65030,ODI,bat,62,-,488,592 v South Africa at Colombo (RPS) 2021,2025-04-08,2025-05-04
+363,66374,ODI,bat,63,-,483,531 v Australia at Bristol 2024,2025-04-08,2025-05-04
+364,71851,ODI,bat,64,-,480,538 v Oman at Bulawayo 2023,2025-04-08,2025-05-04
+365,11690,ODI,bat,65,-,479,522 v Afghanistan at Bulawayo 2015,2025-04-08,2025-05-04
+366,97960,ODI,bat,66,-,475,475 v Nepal at Dallas 2024,2025-04-08,2025-05-04
+367,66873,ODI,bat,67,-,474,"584 v USA at Kirtipur, Nepal 2020",2025-04-08,2025-05-04
+368,60454,ODI,bat,68,-,473,"506 v United Arab Emirates at Kathmandu, Nepal 2023",2025-04-08,2025-05-04
+369,65632,ODI,bat,68,-,473,485 v India at Ahmedabad 2025,2025-04-08,2025-05-04
+370,65992,ODI,bat,68,-,473,513 v United Arab Emirates at Namibia 2024,2025-04-08,2025-05-04
+371,63875,ODI,bat,71,-,471,480 v West Indies at St Kitts 2024,2025-04-08,2025-05-04
+372,87227,ODI,bat,71,-,471,471 v Ireland at Harare 2025,2025-04-08,2025-05-04
+373,63917,ODI,bat,73,-,467,492 v Zimbabwe at Bulawayo 2023,2025-04-08,2025-05-04
+374,73256,ODI,bat,74,-,466,469 v Namibia at Namibia 2025,2025-04-08,2025-05-04
+375,63206,ODI,bat,75,-,465,627 v Zimbabwe at Harare 2022,2025-04-08,2025-05-04
+376,59314,ODI,bat,75,-,465,567 v Sri Lanka at Antigua 2021,2025-04-08,2025-05-04
+377,65523,ODI,bat,75,-,465,518 v Pakistan at Paarl 2024,2025-04-08,2025-05-04
+378,79405,ODI,bat,78,-,457,511 v Sri Lanka at Bulawayo 2023,2025-04-08,2025-05-04
+379,66237,ODI,bat,79,+1,456,541 v Papua New Guinea at Namibia 2023,2025-04-08,2025-05-04
+380,60536,ODI,bat,80,-2,453,462 v Pakistan at Napier 2025,2025-04-08,2025-05-04
+381,61831,ODI,bat,81,-,450,666 v South Africa at Chittagong 2015,2025-04-08,2025-05-04
+382,66087,ODI,bat,82,-,449,449 v Zimbabwe at Harare 2025,2025-04-08,2025-05-04
+383,18158,ODI,bat,83,-,447,476 v USA at Harare 2023,2025-04-08,2025-05-04
+384,35623,ODI,bat,84,-,443,456 v Oman at Oman 2025,2025-04-08,2025-05-04
+385,67193,ODI,bat,85,-,442,"496 v Papua New Guinea at Kirtipur, Nepal 2023",2025-04-08,2025-05-04
+386,70227,ODI,bat,86,-,441,441 v Australia at Lahore 2025,2025-04-08,2025-05-04
+387,65893,ODI,bat,87,-,440,442 v Afghanistan at Lahore 2025,2025-04-08,2025-05-04
+388,63751,ODI,bat,88,-,438,564 v Sri Lanka at Colombo (RPS) 2021,2025-04-08,2025-05-04
+389,62325,ODI,bat,89,+12,434,458 v India at Raipur 2023,2025-04-08,2025-05-04
+390,66128,ODI,bat,90,-1,431,"466 v Netherlands at Kirtipur, Nepal 2024",2025-04-08,2025-05-04
+391,9694,ODI,bat,91,-1,428,466 v Zimbabwe at Harare 2023,2025-04-08,2025-05-04
+392,65594,ODI,bat,91,-1,428,514 v Ireland at Bulawayo 2023,2025-04-08,2025-05-04
+393,68002,ODI,bat,91,-1,428,443 v West Indies at Harare 2023,2025-04-08,2025-05-04
+394,68435,ODI,bat,94,-1,425,519 v Papua New Guinea at Dubai 2023,2025-04-08,2025-05-04
+395,65411,ODI,bat,95,-1,423,423 v New Zealand at Rawalpindi 2025,2025-04-08,2025-05-04
+396,65943,ODI,bat,96,-1,420,476 v West Indies at Harare 2023,2025-04-08,2025-05-04
+397,65728,ODI,bat,97,-,419,479 v Bangladesh at Kolkata 2023,2025-04-08,2025-05-04
+398,87546,ODI,bat,97,-1,419,464 v West Indies at Harare 2023,2025-04-08,2025-05-04
+399,67717,ODI,bat,99,-1,409,456 v New Zealand at Hyderabad 2023,2025-04-08,2025-05-04
+400,63122,ODI,bat,100,-1,406,446 v United Arab Emirates at Aberdeen 2022,2025-04-08,2025-05-04
+401,69274,ODI,bowl,1,-,680,686 v Australia at Colombo (RPS) 2025,2025-04-08,2025-05-04
+402,63187,ODI,bowl,2,-,650,761 v New Zealand at Bay Oval 2019,2025-04-08,2025-05-04
+403,48607,ODI,bowl,3,-,648,741 v Australia at Kolkata 2023,2025-04-08,2025-05-04
+404,59032,ODI,bowl,4,-,644,648 v Oman at Scotland 2024,2025-04-08,2025-05-04
+405,65748,ODI,bowl,5,+1,640,799 v Pakistan at Abu Dhabi 2018,2025-04-08,2025-05-04
+406,57903,ODI,bowl,6,-2,637,657 v India at Dubai 2025,2025-04-08,2025-05-04
+407,64262,ODI,bowl,7,-,632,639 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+408,60544,ODI,bowl,8,-,622,691 v Bangladesh at Wellington 2021,2025-04-08,2025-05-04
+409,3850,ODI,bowl,9,-,616,733 v Zimbabwe at Bulawayo 2013,2025-04-08,2025-05-04
+410,58913,ODI,bowl,10,-,614,699 v England at Trent Bridge 2024,2025-04-08,2025-05-04
+411,4255,ODI,bowl,11,+1,603,727 v England at Melbourne 2022,2025-04-08,2025-05-04
+412,66833,ODI,bowl,12,-1,601,696 v Australia at Perth Stadium 2024,2025-04-08,2025-05-04
+413,28994,ODI,bowl,13,-,596,657 v New Zealand at Mumbai 2023,2025-04-08,2025-05-04
+414,65799,ODI,bowl,14,-,593,736 v New Zealand at Raipur 2023,2025-04-08,2025-05-04
+415,7797,ODI,bowl,15,-,590,657 v Zimbabwe at Harare 2022,2025-04-08,2025-05-04
+416,63611,ODI,bowl,16,-,577,719 v England at Lord's 2017,2025-04-08,2025-05-04
+417,65027,ODI,bowl,17,-,572,598 v West Indies at Pallekele 2024,2025-04-08,2025-05-04
+418,62325,ODI,bowl,18,-,569,571 v Pakistan at Napier 2025,2025-04-08,2025-05-04
+419,4661,ODI,bowl,19,-,562,675 v India at Headingley 2018,2025-04-08,2025-05-04
+420,10053,ODI,bowl,19,-,562,782 v New Zealand at Melbourne 2015,2025-04-08,2025-05-04
+421,64254,ODI,bowl,19,-,562,643 v Australia at Old Trafford 2020,2025-04-08,2025-05-04
+422,65690,ODI,bowl,22,-,561,574 v Zimbabwe at Harare 2025,2025-04-08,2025-05-04
+423,65649,ODI,bowl,23,+1,557,557 v Ireland at Harare 2025,2025-04-08,2025-05-04
+424,70326,ODI,bowl,24,-2,555,619 v Australia at Perth Stadium 2024,2025-04-08,2025-05-04
+425,69409,ODI,bowl,24,+1,555,586 v New Zealand at Pune 2023,2025-04-08,2025-05-04
+426,64264,ODI,bowl,26,-,551,625 v South Africa at Potchefstroom 2023,2025-04-08,2025-05-04
+427,63509,ODI,bowl,27,-,550,597 v Nepal at Harare 2023,2025-04-08,2025-05-04
+428,64635,ODI,bowl,28,-,539,622 v West Indies at Harare 2023,2025-04-08,2025-05-04
+429,67389,ODI,bowl,29,-,531,531 v Oman at Oman 2025,2025-04-08,2025-05-04
+430,63160,ODI,bowl,30,-,530,647 v West Indies at Jamaica 2022,2025-04-08,2025-05-04
+431,58314,ODI,bowl,31,-,528,528 v New Zealand at Rawalpindi 2025,2025-04-08,2025-05-04
+432,63875,ODI,bowl,31,-,528,725 v Sri Lanka at Mirpur 2021,2025-04-08,2025-05-04
+433,64225,ODI,bowl,33,-,516,622 v Australia at Bloemfontein 2020,2025-04-08,2025-05-04
+434,67784,ODI,bowl,33,-,516,524 v Pakistan at Bulawayo 2024,2025-04-08,2025-05-04
+435,81030,ODI,bowl,33,-,516,521 v Canada at Rotterdam 2024,2025-04-08,2025-05-04
+436,63881,ODI,bowl,36,-,507,694 v West Indies at Sylhet 2018,2025-04-08,2025-05-04
+437,69651,ODI,bowl,37,-,506,506 v Australia at Colombo (RPS) 2025,2025-04-08,2025-05-04
+438,62576,ODI,bowl,38,-,504,660 v Australia at Nagpur 2017,2025-04-08,2025-05-04
+439,10138,ODI,bowl,38,-,504,504 v Zimbabwe at Harare 2025,2025-04-08,2025-05-04
+440,25422,ODI,bowl,40,-,502,511 v Pakistan at Bulawayo 2024,2025-04-08,2025-05-04
+441,56964,ODI,bowl,41,+1,499,725 v Sri Lanka at The Oval 2019,2025-04-08,2025-05-04
+442,67516,ODI,bowl,42,+1,496,502 v England at Lahore 2025,2025-04-08,2025-05-04
+443,69956,ODI,bowl,43,+5,494,498 v New Zealand at Napier 2025,2025-04-08,2025-05-04
+444,74400,ODI,bowl,44,-3,492,500 v Pakistan at Hamilton 2025,2025-04-08,2025-05-04
+445,66332,ODI,bowl,45,-1,490,563 v Afghanistan at Sharjah 2024,2025-04-08,2025-05-04
+446,59442,ODI,bowl,46,-1,489,504 v South Africa at Abu Dhabi 2024,2025-04-08,2025-05-04
+447,82579,ODI,bowl,46,-1,489,517 v Sri Lanka at Bulawayo 2023,2025-04-08,2025-05-04
+448,67927,ODI,bowl,48,-1,486,544 v Pakistan at Hambantota 2023,2025-04-08,2025-05-04
+449,66066,ODI,bowl,49,-,472,"595 v Papua New Guinea at Kirtipur, Nepal 2023",2025-04-08,2025-05-04
+450,57028,ODI,bowl,50,-,471,530 v West Indies at Canberra 2024,2025-04-08,2025-05-04
+451,66876,ODI,bowl,51,-,468,507 v Canada at King City 2024,2025-04-08,2025-05-04
+452,66081,ODI,bowl,52,-,467,534 v Zimbabwe at Harare 2023,2025-04-08,2025-05-04
+453,70764,ODI,bowl,53,-,465,552 v Bangladesh at Chittagong 2024,2025-04-08,2025-05-04
+454,97960,ODI,bowl,54,-,463,463 v Nepal at Dallas 2024,2025-04-08,2025-05-04
+455,45117,ODI,bowl,55,+1,460,484 v Canada at King City 2024,2025-04-08,2025-05-04
+456,3916,ODI,bowl,56,+1,456,456 v Netherlands at Oman 2024,2025-04-08,2025-05-04
+457,66884,ODI,bowl,56,-1,456,470 v India at Dubai 2025,2025-04-08,2025-05-04
+458,65029,ODI,bowl,58,-,453,453 v Australia at Colombo (RPS) 2025,2025-04-08,2025-05-04
+459,64634,ODI,bowl,59,-,447,511 v Zimbabwe at Bulawayo 2023,2025-04-08,2025-05-04
+460,58101,ODI,bowl,60,-,446,558 v South Africa at Mumbai 2023,2025-04-08,2025-05-04
+461,57672,ODI,bowl,61,+2,445,445 v Pakistan at Bay Oval 2025,2025-04-08,2025-05-04
+462,90742,ODI,bowl,62,-1,441,442 v Namibia at Oman 2025,2025-04-08,2025-05-04
+463,63893,ODI,bowl,63,+1,429,450 v USA at Rotterdam 2024,2025-04-08,2025-05-04
+464,48191,ODI,bowl,63,+1,429,597 v Bangladesh at Johannesburg 2022,2025-04-08,2025-05-04
+465,56957,ODI,bowl,65,+1,426,543 v England at Edinburgh 2018,2025-04-08,2025-05-04
+466,66061,ODI,bowl,66,+1,425,482 v USA at Harare 2023,2025-04-08,2025-05-04
+467,28370,ODI,bowl,67,+1,424,546 v USA at Texas 2022,2025-04-08,2025-05-04
+468,65594,ODI,bowl,68,+1,423,510 v United Arab Emirates at Bulawayo 2023,2025-04-08,2025-05-04
+469,58071,ODI,bowl,68,+1,423,423 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+470,72232,ODI,bowl,68,-6,423,505 v England at Kolkata 2023,2025-04-08,2025-05-04
+471,57999,ODI,bowl,71,-,417,428 v Afghanistan at Sharjah 2024,2025-04-08,2025-05-04
+472,63751,ODI,bowl,72,-,415,549 v South Africa at Centurion 2018,2025-04-08,2025-05-04
+473,96648,ODI,bowl,73,-,414,427 v Zimbabwe at Harare 2024,2025-04-08,2025-05-04
+474,47985,ODI,bowl,74,-,413,490 v West Indies at Sharjah 2023,2025-04-08,2025-05-04
+475,10085,ODI,bowl,75,-,411,479 v England at Headingley 2015,2025-04-08,2025-05-04
+476,73200,ODI,bowl,75,-,411,415 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+477,57871,ODI,bowl,77,-,410,609 v Sri Lanka at Headingley 2019,2025-04-08,2025-05-04
+478,57709,ODI,bowl,78,-,409,431 v Australia at Colombo (RPS) 2022,2025-04-08,2025-05-04
+479,57890,ODI,bowl,78,-,409,409 v Canada at Namibia 2025,2025-04-08,2025-05-04
+480,66243,ODI,bowl,80,-,406,406 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+481,66039,ODI,bowl,80,-,406,443 v United Arab Emirates at Dubai 2023,2025-04-08,2025-05-04
+482,63917,ODI,bowl,82,-,404,439 v Namibia at Scotland 2024,2025-04-08,2025-05-04
+483,21948,ODI,bowl,83,-,403,403 v Namibia at Namibia 2025,2025-04-08,2025-05-04
+484,67469,ODI,bowl,84,-,402,402 v New Zealand at Dubai 2025,2025-04-08,2025-05-04
+485,64545,ODI,bowl,85,-,399,"457 v Papua New Guinea at Kirtipur, Nepal 2023",2025-04-08,2025-05-04
+486,67897,ODI,bowl,85,-,399,"520 v Nepal at Kirtipur, Nepal 2024",2025-04-08,2025-05-04
+487,65314,ODI,bowl,87,-,397,425 v Pakistan at Multan 2023,2025-04-08,2025-05-04
+488,70324,ODI,bowl,87,-,397,397 v India at Dubai 2025,2025-04-08,2025-05-04
+489,74165,ODI,bowl,89,-,392,404 v England at Barbados 2024,2025-04-08,2025-05-04
+490,65859,ODI,bowl,90,-,385,412 v Sri Lanka at Colombo (RPS) 2024,2025-04-08,2025-05-04
+491,67442,ODI,bowl,91,-,384,389 v Zimbabwe at Harare 2025,2025-04-08,2025-05-04
+492,63154,ODI,bowl,92,-,383,383 v Ireland at Harare 2025,2025-04-08,2025-05-04
+493,40433,ODI,bowl,92,-,383,397 v Oman at King City 2024,2025-04-08,2025-05-04
+494,5305,ODI,bowl,94,-,379,508 v West Indies at Trinidad 2010,2025-04-08,2025-05-04
+495,66021,ODI,bowl,95,-,377,387 v Oman at King City 2024,2025-04-08,2025-05-04
+496,65584,ODI,bowl,96,-,372,454 v Bangladesh at Chittagong 2023,2025-04-08,2025-05-04
+497,63937,ODI,bowl,97,-,365,396 v Canada at Rotterdam 2024,2025-04-08,2025-05-04
+498,67717,ODI,bowl,98,-,364,400 v United Arab Emirates at Oman 2024,2025-04-08,2025-05-04
+499,64282,ODI,bowl,99,-,357,375 v Pakistan at Johannesburg 2024,2025-04-08,2025-05-04
+500,66055,ODI,bowl,100,+64,356,356 v Pakistan at Bay Oval 2025,2025-04-08,2025-05-04
+501,67516,ODI,allrounder,1,-,296,296 v Australia at Lahore 2025,2025-04-08,2025-05-04
+502,7797,ODI,allrounder,2,-,292,350 v Ireland at Greater Noida 2017,2025-04-08,2025-05-04
+503,25422,ODI,allrounder,3,-,290,299 v Pakistan at Bulawayo 2024,2025-04-08,2025-05-04
+504,63875,ODI,allrounder,4,-,248,295 v India at Mirpur 2022,2025-04-08,2025-05-04
+505,62325,ODI,allrounder,5,+2,246,246 v Pakistan at Bay Oval 2025,2025-04-08,2025-05-04
+506,57903,ODI,allrounder,6,-1,238,309 v England at Christchurch 2018,2025-04-08,2025-05-04
+507,65748,ODI,allrounder,6,-,238,352 v Pakistan at Abu Dhabi 2018,2025-04-08,2025-05-04
+508,10085,ODI,allrounder,8,-,222,340 v England at Headingley 2015,2025-04-08,2025-05-04
+509,3850,ODI,allrounder,9,+1,220,372 v Zimbabwe at Bulawayo 2013,2025-04-08,2025-05-04
+510,57890,ODI,allrounder,9,+1,220,232 v Scotland at Scotland 2024,2025-04-08,2025-05-04
+511,97960,ODI,allrounder,11,+1,219,219 v Nepal at Dallas 2024,2025-04-08,2025-05-04
+512,66053,ODI,allrounder,12,-3,216,230 v India at Dubai 2025,2025-04-08,2025-05-04
+513,62576,ODI,allrounder,13,-,200,200 v New Zealand at Dubai 2025,2025-04-08,2025-05-04
+514,65027,ODI,allrounder,14,-,198,252 v Oman at Bulawayo 2023,2025-04-08,2025-05-04
+515,67442,ODI,allrounder,14,-,198,202 v Zimbabwe at Harare 2025,2025-04-08,2025-05-04
+516,63917,ODI,allrounder,16,-,188,"209 v Namibia at Kirtipur, Nepal 2023",2025-04-08,2025-05-04
+517,4255,ODI,allrounder,17,-,187,235 v South Africa at Kolkata 2023,2025-04-08,2025-05-04
+518,69274,ODI,allrounder,17,-,187,189 v Australia at Colombo (RPS) 2025,2025-04-08,2025-05-04
+519,64262,ODI,allrounder,19,-,183,183 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+520,69409,ODI,allrounder,19,-,183,246 v New Zealand at Pune 2023,2025-04-08,2025-05-04
+521,64078,ODI,allrounder,21,-,182,191 v New Zealand at Karachi 2025,2025-04-08,2025-05-04
+522,65594,ODI,allrounder,22,-1,181,262 v Ireland at Bulawayo 2023,2025-04-08,2025-05-04
+523,63751,ODI,allrounder,22,-1,181,256 v South Africa at Centurion 2018,2025-04-08,2025-05-04
+524,65690,ODI,allrounder,24,-,180,184 v Zimbabwe at Harare 2023,2025-04-08,2025-05-04
+525,3682,ODI,allrounder,25,-,176,239 v Pakistan at Rawalpindi 2020,2025-04-08,2025-05-04
+526,64264,ODI,allrounder,25,-,176,218 v South Africa at Potchefstroom 2023,2025-04-08,2025-05-04
+527,4661,ODI,allrounder,27,-,175,255 v Sri Lanka at Pallekele 2018,2025-04-08,2025-05-04
+528,59032,ODI,allrounder,27,-,175,176 v Netherlands at Namibia 2025,2025-04-08,2025-05-04
+529,63187,ODI,allrounder,29,-,174,245 v New Zealand at Bay Oval 2019,2025-04-08,2025-05-04
+530,63940,ODI,allrounder,30,+1,168,172 v Afghanistan at Lahore 2025,2025-04-08,2025-05-04
+531,64635,ODI,allrounder,31,+1,167,202 v Zimbabwe at Bulawayo 2023,2025-04-08,2025-05-04
+532,66833,ODI,allrounder,31,-1,167,212 v Australia at Perth Stadium 2024,2025-04-08,2025-05-04
+533,65038,ODI,allrounder,31,+1,167,168 v New Zealand at Pallekele 2024,2025-04-08,2025-05-04
+534,63160,ODI,allrounder,34,-,163,219 v New Zealand at Malahide 2022,2025-04-08,2025-05-04
+535,64219,ODI,allrounder,35,-,162,180 v Australia at Potchefstroom 2023,2025-04-08,2025-05-04
+536,69956,ODI,allrounder,36,+3,158,158 v New Zealand at Bay Oval 2025,2025-04-08,2025-05-04
+537,67389,ODI,allrounder,37,-,156,158 v Namibia at Oman 2025,2025-04-08,2025-05-04
+538,57028,ODI,allrounder,38,-,155,186 v West Indies at Canberra 2024,2025-04-08,2025-05-04
+539,65295,ODI,allrounder,38,-2,155,165 v India at Dubai 2025,2025-04-08,2025-05-04
+540,69651,ODI,allrounder,40,-,152,152 v Australia at Colombo (RPS) 2025,2025-04-08,2025-05-04
+541,58071,ODI,allrounder,41,-,151,151 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+542,82579,ODI,allrounder,42,-,149,176 v Canada at Dubai 2024,2025-04-08,2025-05-04
+543,67717,ODI,allrounder,43,-,148,173 v United Arab Emirates at Oman 2024,2025-04-08,2025-05-04
+544,65649,ODI,allrounder,44,-,147,147 v Ireland at Harare 2025,2025-04-08,2025-05-04
+545,63611,ODI,allrounder,45,-,146,227 v India at Southampton 2019,2025-04-08,2025-05-04
+546,62023,ODI,allrounder,46,-,143,184 v England at Edgbaston 2017,2025-04-08,2025-05-04
+547,64225,ODI,allrounder,46,-,143,186 v England at Mumbai 2023,2025-04-08,2025-05-04
+548,65799,ODI,allrounder,48,-,140,181 v Australia at Ahmedabad 2023,2025-04-08,2025-05-04
+549,58913,ODI,allrounder,49,+1,137,158 v England at Trent Bridge 2024,2025-04-08,2025-05-04
+550,70326,ODI,allrounder,50,-1,136,151 v Australia at Perth Stadium 2024,2025-04-08,2025-05-04
+551,67927,ODI,allrounder,50,+1,136,144 v South Africa at Sharjah 2024,2025-04-08,2025-05-04
+552,66021,ODI,allrounder,52,-,135,143 v Oman at King City 2024,2025-04-08,2025-05-04
+553,10138,ODI,allrounder,52,-,135,135 v Zimbabwe at Harare 2025,2025-04-08,2025-05-04
+554,48607,ODI,allrounder,54,-,134,174 v Australia at Kolkata 2023,2025-04-08,2025-05-04
+555,10154,ODI,allrounder,55,-,133,199 v Papua New Guinea at Namibia 2022,2025-04-08,2025-05-04
+556,64545,ODI,allrounder,56,-,132,"143 v Netherlands at Kirtipur, Nepal 2024",2025-04-08,2025-05-04
+557,66061,ODI,allrounder,56,-,132,172 v United Arab Emirates at Harare 2023,2025-04-08,2025-05-04
+558,66066,ODI,allrounder,56,-,132,157 v Ireland at Harare 2023,2025-04-08,2025-05-04
+559,65584,ODI,allrounder,56,-,132,166 v New Zealand at Lord's 2023,2025-04-08,2025-05-04
+560,63881,ODI,allrounder,60,-,128,217 v West Indies at Sylhet 2018,2025-04-08,2025-05-04
+561,74553,ODI,allrounder,60,-,128,128 v Netherlands at Oman 2024,2025-04-08,2025-05-04
+562,70515,ODI,allrounder,62,+1,126,"144 v Namibia at Kirtipur, Nepal 2024",2025-04-08,2025-05-04
+563,74272,ODI,allrounder,63,+1,125,"153 v Nepal at Kirtipur, Nepal 2022",2025-04-08,2025-05-04
+564,70241,ODI,allrounder,63,-3,125,148 v South Africa at Johannesburg 2024,2025-04-08,2025-05-04
+565,64254,ODI,allrounder,65,-,124,124 v South Africa at Karachi 2025,2025-04-08,2025-05-04
+566,56957,ODI,allrounder,66,-,122,"161 v Namibia at Kirtipur, Nepal 2023",2025-04-08,2025-05-04
+567,57715,ODI,allrounder,67,-,121,178 v Nepal at Namibia 2022,2025-04-08,2025-05-04
+568,65943,ODI,allrounder,68,-,120,161 v Netherlands at Harare 2023,2025-04-08,2025-05-04
+569,66243,ODI,allrounder,69,-,118,118 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+570,67897,ODI,allrounder,69,-,118,"145 v Netherlands at Kirtipur, Nepal 2024",2025-04-08,2025-05-04
+571,56964,ODI,allrounder,71,+1,117,182 v New Zealand at Lord's 2019,2025-04-08,2025-05-04
+572,70764,ODI,allrounder,71,+1,117,146 v Bangladesh at Chittagong 2024,2025-04-08,2025-05-04
+573,10053,ODI,allrounder,73,+1,116,236 v New Zealand at Melbourne 2015,2025-04-08,2025-05-04
+574,60544,ODI,allrounder,73,-4,116,195 v Australia at Sydney 2016,2025-04-08,2025-05-04
+575,9694,ODI,allrounder,75,-,114,182 v Zimbabwe at Hobart 2015,2025-04-08,2025-05-04
+576,10094,ODI,allrounder,75,-,114,313 v New Zealand at Canberra 2016,2025-04-08,2025-05-04
+577,66876,ODI,allrounder,77,-,113,147 v USA at Texas 2022,2025-04-08,2025-05-04
+578,65314,ODI,allrounder,78,-,112,116 v Scotland at Dallas 2024,2025-04-08,2025-05-04
+579,48191,ODI,allrounder,78,-,112,155 v Australia at Potchefstroom 2023,2025-04-08,2025-05-04
+580,66873,ODI,allrounder,78,-,112,169 v Namibia at Namibia 2021,2025-04-08,2025-05-04
+581,66870,ODI,allrounder,78,-,112,139 v India at Rajkot 2023,2025-04-08,2025-05-04
+582,66085,ODI,allrounder,82,-,111,126 v Oman at Bulawayo 2023,2025-04-08,2025-05-04
+583,57444,ODI,allrounder,83,+4,110,132 v India at Mumbai 2023,2025-04-08,2025-05-04
+584,63509,ODI,allrounder,83,-,110,125 v Netherlands at Harare 2023,2025-04-08,2025-05-04
+585,45117,ODI,allrounder,85,-1,109,113 v USA at Dallas 2024,2025-04-08,2025-05-04
+586,64221,ODI,allrounder,86,-1,107,250 v Afghanistan at Cardiff 2019,2025-04-08,2025-05-04
+587,35623,ODI,allrounder,86,-1,107,107 v Canada at Namibia 2025,2025-04-08,2025-05-04
+588,66081,ODI,allrounder,88,-1,106,130 v Zimbabwe at Harare 2023,2025-04-08,2025-05-04
+589,14885,ODI,allrounder,88,-1,106,106 v Oman at Oman 2025,2025-04-08,2025-05-04
+590,28370,ODI,allrounder,90,-,101,147 v USA at Texas 2022,2025-04-08,2025-05-04
+591,87400,ODI,allrounder,90,-,101,105 v Scotland at Dallas 2024,2025-04-08,2025-05-04
+592,66332,ODI,allrounder,92,-,100,115 v Sri Lanka at Chittagong 2024,2025-04-08,2025-05-04
+593,67285,ODI,allrounder,93,-,99,99 v Bangladesh at St Kitts 2024,2025-04-08,2025-05-04
+594,10133,ODI,allrounder,94,-,98,98 v Namibia at Namibia 2025,2025-04-08,2025-05-04
+595,59442,ODI,allrounder,95,-,97,103 v South Africa at Abu Dhabi 2024,2025-04-08,2025-05-04
+596,65859,ODI,allrounder,96,-,93,110 v New Zealand at Indore 2023,2025-04-08,2025-05-04
+597,10129,ODI,allrounder,97,-,92,180 v Australia at Durham 2018,2025-04-08,2025-05-04
+598,57871,ODI,allrounder,98,-,91,172 v Australia at Edgbaston 2019,2025-04-08,2025-05-04
+599,57999,ODI,allrounder,99,-,90,95 v Afghanistan at Sharjah 2024,2025-04-08,2025-05-04
+600,56961,ODI,allrounder,100,-,89,192 v Ireland at Dehradun 2019,2025-04-08,2025-05-04
+601,28994,ODI,allrounder,100,-,89,200 v Bangladesh at Melbourne 2015,2025-04-08,2025-05-04
+602,62023,T20,bat,1,-,856,885 v Scotland at Edinburgh 2024,2025-04-29,2025-05-04
+603,66799,T20,bat,2,-,829,829 v England at Mumbai 2025,2025-04-29,2025-05-04
+604,65632,T20,bat,3,-,815,881 v West Indies at Barbados 2024,2025-04-29,2025-05-04
+605,70761,T20,bat,4,-,804,845 v England at Chennai 2025,2025-04-29,2025-05-04
+606,11803,T20,bat,5,-,739,912 v New Zealand at Ranchi 2023,2025-04-29,2025-05-04
+607,9782,T20,bat,6,-,735,756 v India at Chennai 2025,2025-04-29,2025-05-04
+608,66368,T20,bat,7,-,714,722 v New Zealand at Bay Oval 2024,2025-04-29,2025-05-04
+609,63867,T20,bat,8,-,708,708 v Pakistan at Wellington 2025,2025-04-29,2025-05-04
+610,59429,T20,bat,9,-,681,900 v England at Cardiff 2019,2025-04-29,2025-05-04
+611,11757,T20,bat,10,-,676,786 v West Indies at Mirpur 2014,2025-04-29,2025-05-04
+612,4356,T20,bat,10,-,676,717 v West Indies at Jamaica 2024,2025-04-29,2025-05-04
+613,20286,T20,bat,12,-,674,882 v England at Lahore 2022,2025-04-29,2025-05-04
+614,69238,T20,bat,13,-,673,781 v Sri Lanka at Pallekele 2024,2025-04-29,2025-05-04
+615,65893,T20,bat,14,-,641,671 v England at Cardiff 2024,2025-04-29,2025-05-04
+616,66046,T20,bat,15,-,629,730 v Pakistan at Dunedin 2024,2025-04-29,2025-05-04
+617,63882,T20,bat,16,-,628,650 v West Indies at Dambulla 2024,2025-04-29,2025-05-04
+618,68027,T20,bat,17,-,619,666 v Scotland at Sharjah 2021,2025-04-29,2025-05-04
+619,63726,T20,bat,18,-,613,679 v Bangladesh at Guyana 2022,2025-04-29,2025-05-04
+620,25890,T20,bat,19,-,599,671 v England at St Lucia 2024,2025-04-29,2025-05-04
+621,64219,T20,bat,20,-,597,801 v England at Sharjah 2021,2025-04-29,2025-05-04
+622,10094,T20,bat,21,-,590,659 v South Africa at Durban 2023,2025-04-29,2025-05-04
+623,64543,T20,bat,21,-,590,707 v South Africa at Jamaica 2024,2025-04-29,2025-05-04
+624,64957,T20,bat,23,-,589,619 v Netherlands at Malahide 2019,2025-04-29,2025-05-04
+625,66584,T20,bat,23,-,589,707 v Zimbabwe at Harare 2024,2025-04-29,2025-05-04
+626,74761,T20,bat,25,+1,587,599 v India at Johannesburg 2024,2025-04-29,2025-05-04
+627,79405,T20,bat,26,+1,584,744 v Singapore at Oman 2022,2025-04-29,2025-05-04
+628,65291,T20,bat,27,+1,583,598 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+629,63797,T20,bat,28,+1,581,599 v England at St Lucia 2024,2025-04-29,2025-05-04
+630,67719,T20,bat,29,+1,574,602 v Australia at Antigua 2024,2025-04-29,2025-05-04
+631,67402,T20,bat,30,+1,573,608 v Scotland at Edinburgh 2024,2025-04-29,2025-05-04
+632,28035,T20,bat,31,+1,572,686 v Sri Lanka at Colombo (RPS) 2021,2025-04-29,2025-05-04
+633,65295,T20,bat,31,+1,572,710 v England at Brisbane 2022,2025-04-29,2025-05-04
+634,57274,T20,bat,31,-8,572,617 v Nepal at Dallas 2024,2025-04-29,2025-05-04
+635,67519,T20,bat,34,-,570,607 v Australia at St. Vincent 2024,2025-04-29,2025-05-04
+636,61837,T20,bat,35,-,566,604 v England at Kolkata 2025,2025-04-29,2025-05-04
+637,10085,T20,bat,36,+1,562,848 v Sri Lanka at Adelaide 2019,2025-04-29,2025-05-04
+638,95043,T20,bat,36,-,562,631 v Oman at Oman 2025,2025-04-29,2025-05-04
+639,65038,T20,bat,38,-,560,627 v Australia at Pallekele 2022,2025-04-29,2025-05-04
+640,63940,T20,bat,39,-,559,580 v West Indies at St Lucia 2024,2025-04-29,2025-05-04
+641,19394,T20,bat,40,-,558,642 v South Africa at St Lucia 2024,2025-04-29,2025-05-04
+642,66818,T20,bat,41,-,546,616 v Sri Lanka at Pallekele 2024,2025-04-29,2025-05-04
+643,107562,T20,bat,41,-,546,623 v USA at Utrecht 2024,2025-04-29,2025-05-04
+644,66374,T20,bat,43,-,544,571 v South Africa at St Lucia 2024,2025-04-29,2025-05-04
+645,60536,T20,bat,44,-,540,564 v England at Trent Bridge 2023,2025-04-29,2025-05-04
+646,4023,T20,bat,45,-,530,597 v Oman at Oman 2021,2025-04-29,2025-05-04
+647,57444,T20,bat,46,-,527,587 v Sri Lanka at Auckland 2023,2025-04-29,2025-05-04
+648,5313,T20,bat,47,-,526,600 v Sri Lanka at Cape Town 2019,2025-04-29,2025-05-04
+649,4311,T20,bat,48,-,523,537 v India at Trivandrum 2023,2025-04-29,2025-05-04
+650,65585,T20,bat,49,-,515,555 v Kenya at Dubai (GCA) 2019,2025-04-29,2025-05-04
+651,63206,T20,bat,50,-,514,596 v Ireland at Chittagong 2023,2025-04-29,2025-05-04
+652,63751,T20,bat,51,-,508,510 v England at Pune 2025,2025-04-29,2025-05-04
+653,13177,T20,bat,52,-,499,839 v Australia at Sydney 2022,2025-04-29,2025-05-04
+654,64727,T20,bat,52,-,499,550 v Afghanistan at Bengaluru 2024,2025-04-29,2025-05-04
+655,4476,T20,bat,54,-,494,607 v United Arab Emirates at Dubai (GCA) 2021,2025-04-29,2025-05-04
+656,97960,T20,bat,54,-,494,494 v Australia at Edinburgh 2024,2025-04-29,2025-05-04
+657,66061,T20,bat,56,-,489,517 v USA at Dallas 2024,2025-04-29,2025-05-04
+658,66044,T20,bat,57,-,487,487 v England at Mumbai 2025,2025-04-29,2025-05-04
+659,63872,T20,bat,58,-,485,600 v England at Mirpur 2023,2025-04-29,2025-05-04
+660,87227,T20,bat,59,-,482,506 v Afghanistan at Harare 2024,2025-04-29,2025-05-04
+661,7797,T20,bat,60,-,479,577 v Bangladesh at Mirpur 2019,2025-04-29,2025-05-04
+662,63082,T20,bat,61,-,476,562 v Pakistan at Lahore 2022,2025-04-29,2025-05-04
+663,57792,T20,bat,62,-,467,563 v England at Grenada 2023,2025-04-29,2025-05-04
+664,59736,T20,bat,63,-,464,503 v Ireland at Bristol 2022,2025-04-29,2025-05-04
+665,25422,T20,bat,64,-,460,483 v Sri Lanka at Colombo (RPS) 2024,2025-04-29,2025-05-04
+666,70241,T20,bat,65,-,459,483 v South Africa at Centurion 2024,2025-04-29,2025-05-04
+667,68435,T20,bat,66,-,458,518 v Hong Kong at Hong Kong 2024,2025-04-29,2025-05-04
+668,4454,T20,bat,67,-,455,529 v Hong Kong at Abu Dhabi 2019,2025-04-29,2025-05-04
+669,65757,T20,bat,68,-,450,541 v Zimbabwe at Namibia 2023,2025-04-29,2025-05-04
+670,3852,T20,bat,69,-,446,733 v West Indies at Lucknow 2018,2025-04-29,2025-05-04
+671,67193,T20,bat,70,-,440,452 v Kuwait at Hong Kong 2025,2025-04-29,2025-05-04
+672,65869,T20,bat,71,-,430,750 v West Indies at Lucknow 2019,2025-04-29,2025-05-04
+673,3993,T20,bat,72,-,429,909 v England at Edgbaston 2014,2025-04-29,2025-05-04
+674,67285,T20,bat,72,-,429,541 v England at St Lucia 2024,2025-04-29,2025-05-04
+675,59067,T20,bat,74,-,425,522 v India at Rajkot 2023,2025-04-29,2025-05-04
+676,57991,T20,bat,75,-,423,563 v Ireland at Abu Dhabi 2017,2025-04-29,2025-05-04
+677,63846,T20,bat,75,-,423,447 v Pakistan at Sydney 2024,2025-04-29,2025-05-04
+678,70270,T20,bat,77,-,422,477 v USA at Namibia 2024,2025-04-29,2025-05-04
+679,57492,T20,bat,78,-,421,854 v Australia at Harare 2018,2025-04-29,2025-05-04
+680,65108,T20,bat,79,+1,420,426 v Nepal at Oman 2024,2025-04-29,2025-05-04
+681,4434,T20,bat,80,+1,418,571 v Namibia at Dubai 2019,2025-04-29,2025-05-04
+682,57890,T20,bat,81,+1,409,502 v Ireland at Sharjah 2021,2025-04-29,2025-05-04
+683,68433,T20,bat,82,-4,408,425 v Namibia at Namibia 2025,2025-04-29,2025-05-04
+684,63122,T20,bat,83,-,407,488 v Zimbabwe at Edinburgh 2021,2025-04-29,2025-05-04
+685,10183,T20,bat,83,-,407,552 v England at Sydney 2022,2025-04-29,2025-05-04
+686,4195,T20,bat,85,-,401,487 v West Indies at Hobart 2024,2025-04-29,2025-05-04
+687,57715,T20,bat,85,-,401,"448 v Netherlands at Kirtipur, Nepal 2024",2025-04-29,2025-05-04
+688,67442,T20,bat,87,-,399,438 v Zimbabwe at Harare 2023,2025-04-29,2025-05-04
+689,3956,T20,bat,88,-,396,551 v Zimbabwe at Chittagong 2019,2025-04-29,2025-05-04
+690,24437,T20,bat,89,-,395,523 v New Zealand at Rawalpindi 2023,2025-04-29,2025-05-04
+691,67919,T20,bat,90,-,393,396 v Oman at Oman 2024,2025-04-29,2025-05-04
+692,65411,T20,bat,90,-,393,393 v West Indies at St. Vincent 2024,2025-04-29,2025-05-04
+693,66085,T20,bat,92,-,390,445 v Pakistan at Dublin 2024,2025-04-29,2025-05-04
+694,70866,T20,bat,93,-,389,461 v Maldives at Oman 2020,2025-04-29,2025-05-04
+695,66087,T20,bat,94,-,383,446 v Australia at Brisbane 2022,2025-04-29,2025-05-04
+696,66128,T20,bat,95,-,380,"590 v Papua New Guinea at Kirtipur, Nepal 2022",2025-04-29,2025-05-04
+697,66927,T20,bat,95,-,380,407 v West Indies at St Lucia 2024,2025-04-29,2025-05-04
+698,85736,T20,bat,97,-,368,492 v West Indies at St Lucia 2024,2025-04-29,2025-05-04
+699,57440,T20,bat,98,-,365,424 v New Zealand at Queenstown 2023,2025-04-29,2025-05-04
+700,66243,T20,bat,98,-,365,365 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+701,18158,T20,bat,100,-,363,395 v Namibia at Namibia 2024,2025-04-29,2025-05-04
+702,57672,T20,bowl,1,-,723,723 v Pakistan at Wellington 2025,2025-04-29,2025-05-04
+703,57239,T20,bowl,2,-,707,714 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+704,67469,T20,bowl,3,-,706,706 v England at Mumbai 2025,2025-04-29,2025-05-04
+705,4661,T20,bowl,4,-,705,747 v West Indies at Barbados 2022,2025-04-29,2025-05-04
+706,65027,T20,bowl,5,-,700,809 v West Indies at Abu Dhabi 2021,2025-04-29,2025-05-04
+707,58913,T20,bowl,6,-,694,746 v Sri Lanka at Sydney 2022,2025-04-29,2025-05-04
+708,71288,T20,bowl,7,-,674,707 v Australia at Bengaluru 2023,2025-04-29,2025-05-04
+709,69274,T20,bowl,8,-,666,686 v New Zealand at Bay Oval 2024,2025-04-29,2025-05-04
+710,65748,T20,bowl,9,-,664,828 v Bangladesh at Dehradun 2018,2025-04-29,2025-05-04
+711,67905,T20,bowl,10,-,653,679 v England at Kolkata 2025,2025-04-29,2025-05-04
+712,64254,T20,bowl,11,-,649,668 v India at Chennai 2025,2025-04-29,2025-05-04
+713,64262,T20,bowl,12,-,648,715 v Sri Lanka at Dambulla 2024,2025-04-29,2025-05-04
+714,62576,T20,bowl,13,-,636,667 v Afghanistan at Indore 2024,2025-04-29,2025-05-04
+715,65473,T20,bowl,13,-,636,636 v West Indies at St. Vincent 2024,2025-04-29,2025-05-04
+716,58314,T20,bowl,15,-,631,631 v West Indies at St. Vincent 2024,2025-04-29,2025-05-04
+717,70324,T20,bowl,16,-,629,629 v Pakistan at Hobart 2024,2025-04-29,2025-05-04
+718,67927,T20,bowl,17,-,627,700 v Pakistan at Sharjah 2023,2025-04-29,2025-05-04
+719,58071,T20,bowl,18,-,625,625 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+720,70203,T20,bowl,19,-,622,622 v West Indies at St. Vincent 2024,2025-04-29,2025-05-04
+721,4255,T20,bowl,20,-,621,808 v Sri Lanka at Sydney 2022,2025-04-29,2025-05-04
+722,70326,T20,bowl,20,-,621,659 v New Zealand at Lahore 2023,2025-04-29,2025-05-04
+723,57903,T20,bowl,22,-,608,735 v Pakistan at Wellington 2018,2025-04-29,2025-05-04
+724,63641,T20,bowl,23,-,605,699 v India at Cuttack 2022,2025-04-29,2025-05-04
+725,65876,T20,bowl,24,-,601,604 v Zimbabwe at Harare 2024,2025-04-29,2025-05-04
+726,67672,T20,bowl,25,-,597,597 v West Indies at St. Vincent 2024,2025-04-29,2025-05-04
+727,63881,T20,bowl,26,-,594,718 v Sri Lanka at Colombo (RPS) 2017,2025-04-29,2025-05-04
+728,66158,T20,bowl,27,-,584,584 v New Zealand at Nelson 2025,2025-04-29,2025-05-04
+729,48607,T20,bowl,28,-,575,673 v India at Indore 2022,2025-04-29,2025-05-04
+730,73830,T20,bowl,28,-,575,581 v New Zealand at Bay Oval 2024,2025-04-29,2025-05-04
+731,69409,T20,bowl,30,-,570,582 v India at Johannesburg 2024,2025-04-29,2025-05-04
+732,66833,T20,bowl,31,-,569,636 v Australia at Lahore 2022,2025-04-29,2025-05-04
+733,63719,T20,bowl,32,-,566,613 v Sri Lanka at Dambulla 2024,2025-04-29,2025-05-04
+734,48191,T20,bowl,33,-,564,827 v West Indies at Grenada 2021,2025-04-29,2025-05-04
+735,67540,T20,bowl,33,-,564,757 v Ireland at Greater Noida 2020,2025-04-29,2025-05-04
+736,64264,T20,bowl,35,-,559,654 v England at Grenada 2023,2025-04-29,2025-05-04
+737,57625,T20,bowl,36,-,551,737 v Pakistan at Wellington 2018,2025-04-29,2025-05-04
+738,69965,T20,bowl,37,-,550,556 v New Zealand at Bay Oval 2025,2025-04-29,2025-05-04
+739,63187,T20,bowl,38,+1,535,737 v New Zealand at Hamilton 2019,2025-04-29,2025-05-04
+740,66243,T20,bowl,39,+1,533,582 v Sri Lanka at Dambulla 2024,2025-04-29,2025-05-04
+741,63755,T20,bowl,40,+1,523,783 v England at Bengaluru 2017,2025-04-29,2025-05-04
+742,36489,T20,bowl,40,-2,523,551 v Nepal at Dallas 2024,2025-04-29,2025-05-04
+743,64635,T20,bowl,42,-,518,606 v New Zealand at Dubai 2021,2025-04-29,2025-05-04
+744,70921,T20,bowl,42,-,518,518 v West Indies at St. Vincent 2024,2025-04-29,2025-05-04
+745,60544,T20,bowl,44,-,516,543 v Sri Lanka at Nelson 2025,2025-04-29,2025-05-04
+746,58101,T20,bowl,45,-,512,662 v Australia at Canberra 2022,2025-04-29,2025-05-04
+747,66055,T20,bowl,46,-,510,510 v Pakistan at Wellington 2025,2025-04-29,2025-05-04
+748,63611,T20,bowl,47,-,507,603 v West Indies at Nagpur 2016,2025-04-29,2025-05-04
+749,63751,T20,bowl,48,-,498,545 v West Indies at Guyana 2023,2025-04-29,2025-05-04
+750,56964,T20,bowl,49,-,497,629 v England at Cardiff 2015,2025-04-29,2025-05-04
+751,65690,T20,bowl,50,-,496,589 v Namibia at Dubai 2019,2025-04-29,2025-05-04
+752,57028,T20,bowl,51,-,494,509 v England at Cardiff 2024,2025-04-29,2025-05-04
+753,11025,T20,bowl,51,-,494,797 v West Indies at Trinidad 2017,2025-04-29,2025-05-04
+754,65859,T20,bowl,53,-,492,634 v England at Ahmedabad 2021,2025-04-29,2025-05-04
+755,65584,T20,bowl,54,-,491,690 v Pakistan at Melbourne 2022,2025-04-29,2025-05-04
+756,93065,T20,bowl,54,-,491,491 v Australia at Edinburgh 2024,2025-04-29,2025-05-04
+757,64948,T20,bowl,56,-,487,492 v India at Pune 2025,2025-04-29,2025-05-04
+758,65089,T20,bowl,57,-,482,482 v Pakistan at Centurion 2024,2025-04-29,2025-05-04
+759,4338,T20,bowl,58,-,481,654 v Sri Lanka at Sydney 2022,2025-04-29,2025-05-04
+760,63937,T20,bowl,59,-,475,475 v Oman at Oman 2024,2025-04-29,2025-05-04
+761,57871,T20,bowl,60,-,473,615 v Sri Lanka at Cardiff 2021,2025-04-29,2025-05-04
+762,57172,T20,bowl,61,-,470,719 v England at Southampton 2020,2025-04-29,2025-05-04
+763,63893,T20,bowl,62,+1,469,548 v Ireland at Rotterdam 2018,2025-04-29,2025-05-04
+764,66081,T20,bowl,63,+1,468,529 v New Zealand at Adelaide 2022,2025-04-29,2025-05-04
+765,10053,T20,bowl,64,+1,460,723 v Pakistan at Dubai 2014,2025-04-29,2025-05-04
+766,90571,T20,bowl,64,+1,460,465 v Pakistan at Bay Oval 2025,2025-04-29,2025-05-04
+767,67389,T20,bowl,66,-5,456,475 v Oman at Oman 2025,2025-04-29,2025-05-04
+768,65090,T20,bowl,67,-,454,454 v India at Mumbai 2025,2025-04-29,2025-05-04
+769,10232,T20,bowl,68,-,449,589 v England at Grenada 2023,2025-04-29,2025-05-04
+770,82579,T20,bowl,69,-,448,539 v Scotland at Dubai 2024,2025-04-29,2025-05-04
+771,63889,T20,bowl,70,-,447,447 v New Zealand at Nelson 2025,2025-04-29,2025-05-04
+772,10176,T20,bowl,71,-,444,495 v South Africa at New York 2024,2025-04-29,2025-05-04
+773,67784,T20,bowl,71,-,444,535 v Bangladesh at Harare 2021,2025-04-29,2025-05-04
+774,65799,T20,bowl,73,-,443,500 v Sri Lanka at Pallekele 2024,2025-04-29,2025-05-04
+775,62325,T20,bowl,74,-,435,555 v India at Lucknow 2023,2025-04-29,2025-05-04
+776,7797,T20,bowl,75,-,434,643 v West Indies at Nagpur 2016,2025-04-29,2025-05-04
+777,59032,T20,bowl,76,-,431,523 v Zimbabwe at Namibia 2023,2025-04-29,2025-05-04
+778,66061,T20,bowl,77,-,428,472 v USA at Dallas 2024,2025-04-29,2025-05-04
+779,66028,T20,bowl,77,-,428,569 v India at St Kitts 2022,2025-04-29,2025-05-04
+780,66332,T20,bowl,77,-,428,517 v West Indies at Dominica 2022,2025-04-29,2025-05-04
+781,26718,T20,bowl,80,-,425,664 v New Zealand at Wellington 2019,2025-04-29,2025-05-04
+782,25422,T20,bowl,81,-,423,455 v India at Harare 2024,2025-04-29,2025-05-04
+783,65739,T20,bowl,82,-,419,811 v Scotland at Edinburgh 2018,2025-04-29,2025-05-04
+784,69956,T20,bowl,82,-,419,602 v Afghanistan at Sharjah 2023,2025-04-29,2025-05-04
+785,66516,T20,bowl,82,-,419,419 v Pakistan at Hobart 2024,2025-04-29,2025-05-04
+786,97317,T20,bowl,85,-,418,418 v New Zealand at Wellington 2025,2025-04-29,2025-05-04
+787,65649,T20,bowl,86,-,417,526 v Namibia at Namibia 2023,2025-04-29,2025-05-04
+788,90742,T20,bowl,86,-,417,417 v USA at Oman 2025,2025-04-29,2025-05-04
+789,67516,T20,bowl,88,-,414,452 v Uganda at Guyana 2024,2025-04-29,2025-05-04
+790,24825,T20,bowl,89,+1,412,431 v Scotland at Netherlands 2024,2025-04-29,2025-05-04
+791,56957,T20,bowl,90,+1,408,490 v Ireland at Dubai 2017,2025-04-29,2025-05-04
+792,59442,T20,bowl,91,+1,407,411 v New Zealand at Belfast 2022,2025-04-29,2025-05-04
+793,63157,T20,bowl,91,+1,407,428 v Pakistan at Lauderhill 2024,2025-04-29,2025-05-04
+794,65600,T20,bowl,91,-2,407,448 v Nepal at Dallas 2024,2025-04-29,2025-05-04
+795,7768,T20,bowl,94,-,405,712 v Australia at Edgbaston 2010,2025-04-29,2025-05-04
+796,64545,T20,bowl,95,-,403,425 v Qatar at Hong Kong 2025,2025-04-29,2025-05-04
+797,4311,T20,bowl,95,-,403,459 v Namibia at Antigua 2024,2025-04-29,2025-05-04
+798,64225,T20,bowl,95,-,403,572 v Pakistan at Sydney 2022,2025-04-29,2025-05-04
+799,67424,T20,bowl,98,-,402,476 v South Africa at Adelaide 2022,2025-04-29,2025-05-04
+800,57890,T20,bowl,98,-,402,431 v Zimbabwe at Namibia 2023,2025-04-29,2025-05-04
+801,72579,T20,bowl,100,-,400,429 v Sri Lanka at St Lucia 2024,2025-04-29,2025-05-04
+802,67778,T20,bowl,100,-,400,400 v Pakistan at Hobart 2024,2025-04-29,2025-05-04
+803,63751,T20,allrounder,1,-,252,268 v West Indies at Guyana 2023,2025-04-29,2025-05-04
+804,4311,T20,allrounder,2,-,210,235 v Namibia at Antigua 2024,2025-04-29,2025-05-04
+805,63940,T20,allrounder,3,-,209,261 v West Indies at Barbados 2024,2025-04-29,2025-05-04
+806,66061,T20,allrounder,3,-,209,244 v USA at Dallas 2024,2025-04-29,2025-05-04
+807,7797,T20,allrounder,5,-,207,361 v Bangladesh at Mirpur 2019,2025-04-29,2025-05-04
+808,65027,T20,allrounder,6,-,205,243 v Afghanistan at Dambulla 2024,2025-04-29,2025-05-04
+809,25422,T20,allrounder,7,-,194,213 v India at Harare 2024,2025-04-29,2025-05-04
+810,66243,T20,allrounder,7,-,194,194 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+811,58071,T20,allrounder,9,-,186,186 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+812,57890,T20,allrounder,10,-,164,190 v Zimbabwe at Namibia 2023,2025-04-29,2025-05-04
+813,64219,T20,allrounder,11,-,162,214 v India at Gqeberha 2023,2025-04-29,2025-05-04
+814,62576,T20,allrounder,12,-,161,164 v South Africa at Barbados 2024,2025-04-29,2025-05-04
+815,66799,T20,allrounder,13,-,148,148 v England at Mumbai 2025,2025-04-29,2025-05-04
+816,62325,T20,allrounder,14,-,134,141 v Pakistan at Bay Oval 2025,2025-04-29,2025-05-04
+817,69409,T20,allrounder,15,-,133,139 v India at Johannesburg 2024,2025-04-29,2025-05-04
+818,11025,T20,allrounder,16,-,129,167 v Ireland at Lauderhill 2024,2025-04-29,2025-05-04
+819,65748,T20,allrounder,17,-,125,129 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+820,67516,T20,allrounder,17,-,125,125 v Zimbabwe at Harare 2024,2025-04-29,2025-05-04
+821,65690,T20,allrounder,19,-,123,131 v South Africa at Abu Dhabi 2024,2025-04-29,2025-05-04
+822,57903,T20,allrounder,20,-,122,138 v Pakistan at Dunedin 2024,2025-04-29,2025-05-04
+823,67442,T20,allrounder,21,-,118,128 v Netherlands at Netherlands 2024,2025-04-29,2025-05-04
+824,10085,T20,allrounder,22,-,116,375 v Sri Lanka at Colombo (RPS) 2016,2025-04-29,2025-05-04
+825,67568,T20,allrounder,22,-,116,174 v Afghanistan at Greater Noida 2020,2025-04-29,2025-05-04
+826,65739,T20,allrounder,24,-,115,199 v Afghanistan at Sharjah 2023,2025-04-29,2025-05-04
+827,57715,T20,allrounder,24,-,115,199 v Zimbabwe at Namibia 2023,2025-04-29,2025-05-04
+828,66873,T20,allrounder,26,-,111,138 v Canada at King City 2024,2025-04-29,2025-05-04
+829,59067,T20,allrounder,27,-,110,149 v South Africa at New York 2024,2025-04-29,2025-05-04
+830,66044,T20,allrounder,28,-,108,108 v England at Mumbai 2025,2025-04-29,2025-05-04
+831,12047,T20,allrounder,29,-,107,136 v South Africa at Antigua 2024,2025-04-29,2025-05-04
+832,10172,T20,allrounder,30,-,104,113 v United Arab Emirates at Dubai 2023,2025-04-29,2025-05-04
+833,67717,T20,allrounder,31,-,100,136 v Nepal at Dallas 2024,2025-04-29,2025-05-04
+834,10094,T20,allrounder,32,-,96,158 v Bangladesh at Mirpur 2021,2025-04-29,2025-05-04
+835,65473,T20,allrounder,32,-,96,108 v Afghanistan at Sharjah 2022,2025-04-29,2025-05-04
+836,65859,T20,allrounder,34,-,94,105 v Bangladesh at Hyderabad 2024,2025-04-29,2025-05-04
+837,66870,T20,allrounder,34,-,94,101 v England at Southampton 2024,2025-04-29,2025-05-04
+838,56961,T20,allrounder,36,+1,92,101 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+839,70203,T20,allrounder,37,+1,90,91 v India at Gwalior 2024,2025-04-29,2025-05-04
+840,74272,T20,allrounder,38,+1,89,113 v USA at Namibia 2024,2025-04-29,2025-05-04
+841,36489,T20,allrounder,39,-5,88,106 v Namibia at Namibia 2024,2025-04-29,2025-05-04
+842,57239,T20,allrounder,40,-,87,92 v Australia at Hobart 2024,2025-04-29,2025-05-04
+843,66128,T20,allrounder,40,-,87,87 v Kuwait at Hong Kong 2025,2025-04-29,2025-05-04
+844,5244,T20,allrounder,42,-,86,276 v Pakistan at Colombo (RPS) 2015,2025-04-29,2025-05-04
+845,63917,T20,allrounder,42,-,86,98 v Australia at St Lucia 2024,2025-04-29,2025-05-04
+846,65875,T20,allrounder,44,-,85,124 v India at Abu Dhabi 2021,2025-04-29,2025-05-04
+847,10232,T20,allrounder,45,-,84,140 v Australia at Adelaide 2024,2025-04-29,2025-05-04
+848,58613,T20,allrounder,46,-,83,141 v Bangladesh at Oman 2021,2025-04-29,2025-05-04
+849,57440,T20,allrounder,46,-,83,106 v India at Mumbai 2023,2025-04-29,2025-05-04
+850,65584,T20,allrounder,46,-,83,96 v West Indies at St Lucia 2024,2025-04-29,2025-05-04
+851,65594,T20,allrounder,49,-,81,177 v Canada at Oman 2022,2025-04-29,2025-05-04
+852,4412,T20,allrounder,50,-,80,"143 v Nepal at Kirtipur, Nepal 2022",2025-04-29,2025-05-04
+853,63137,T20,allrounder,50,-,80,168 v Singapore at Singapore 2022,2025-04-29,2025-05-04
+854,65295,T20,allrounder,52,-,77,85 v Sri Lanka at Nelson 2025,2025-04-29,2025-05-04
+855,24437,T20,allrounder,53,-,76,124 v Bangladesh at Adelaide 2022,2025-04-29,2025-05-04
+856,87400,T20,allrounder,54,-,75,91 v USA at Dallas 2024,2025-04-29,2025-05-04
+857,3956,T20,allrounder,55,-,74,186 v West Indies at Mirpur 2018,2025-04-29,2025-05-04
+858,58070,T20,allrounder,56,-,73,161 v Ireland at Bready 2021,2025-04-29,2025-05-04
+859,65038,T20,allrounder,56,-,73,73 v New Zealand at Nelson 2025,2025-04-29,2025-05-04
+860,3682,T20,allrounder,58,-,72,232 v Nepal at Singapore 2019,2025-04-29,2025-05-04
+861,68072,T20,allrounder,58,-,72,72 v Pakistan at Hobart 2024,2025-04-29,2025-05-04
+862,4023,T20,allrounder,60,-,69,209 v Ireland at Malahide 2019,2025-04-29,2025-05-04
+863,70515,T20,allrounder,61,-,68,112 v Qatar at Oman 2024,2025-04-29,2025-05-04
+864,61329,T20,allrounder,62,-,66,78 v Nepal at Hong Kong 2024,2025-04-29,2025-05-04
+865,68435,T20,allrounder,63,-,65,75 v USA at Dallas 2024,2025-04-29,2025-05-04
+866,65291,T20,allrounder,64,-,63,65 v Bangladesh at St. Vincent 2024,2025-04-29,2025-05-04
+867,71106,T20,allrounder,64,-,63,79 v West Indies at Hobart 2022,2025-04-29,2025-05-04
+868,64262,T20,allrounder,66,-,62,67 v England at Barbados 2024,2025-04-29,2025-05-04
+869,66085,T20,allrounder,67,-,61,71 v Bangladesh at Chittagong 2023,2025-04-29,2025-05-04
+870,35623,T20,allrounder,67,-,61,61 v Canada at Namibia 2025,2025-04-29,2025-05-04
+871,5305,T20,allrounder,69,+1,59,119 v Papua New Guinea at Dubai 2019,2025-04-29,2025-05-04
+872,40433,T20,allrounder,69,-2,59,65 v Namibia at Namibia 2025,2025-04-29,2025-05-04
+873,90571,T20,allrounder,69,+1,59,60 v Pakistan at Bay Oval 2025,2025-04-29,2025-05-04
+874,63875,T20,allrounder,72,-,58,61 v England at Mirpur 2023,2025-04-29,2025-05-04
+875,69965,T20,allrounder,72,-,58,62 v New Zealand at Auckland 2025,2025-04-29,2025-05-04
+876,57688,T20,allrounder,74,-,57,"112 v Nepal at Kirtipur, Nepal 2024",2025-04-29,2025-05-04
+877,66021,T20,allrounder,74,+6,57,57 v USA at Cayman Islands 2025,2025-04-29,2025-05-04
+878,64264,T20,allrounder,76,-1,56,61 v England at St Lucia 2024,2025-04-29,2025-05-04
+879,74553,T20,allrounder,76,-1,56,76 v Afghanistan at Sharjah 2024,2025-04-29,2025-05-04
+880,97960,T20,allrounder,78,-1,54,54 v Australia at Edinburgh 2024,2025-04-29,2025-05-04
+881,64635,T20,allrounder,79,-1,53,53 v Australia at Edinburgh 2024,2025-04-29,2025-05-04
+882,65314,T20,allrounder,80,-,51,57 v USA at Dallas 2024,2025-04-29,2025-05-04
+883,72366,T20,allrounder,80,-,51,60 v Ireland at Edinburgh 2023,2025-04-29,2025-05-04
+884,90742,T20,allrounder,80,-,51,51 v USA at Oman 2025,2025-04-29,2025-05-04
+885,26718,T20,allrounder,83,+1,50,115 v South Africa at Southampton 2022,2025-04-29,2025-05-04
+886,65585,T20,allrounder,83,+1,50,50 v Oman at Oman 2024,2025-04-29,2025-05-04
+887,10154,T20,allrounder,83,-5,50,58 v South Africa at Antigua 2024,2025-04-29,2025-05-04
+888,87227,T20,allrounder,83,+1,50,50 v Ireland at Harare 2025,2025-04-29,2025-05-04
+889,4476,T20,allrounder,87,-,49,217 v United Arab Emirates at Sylhet 2014,2025-04-29,2025-05-04
+890,57444,T20,allrounder,88,-,48,54 v Sri Lanka at Auckland 2023,2025-04-29,2025-05-04
+891,58777,T20,allrounder,89,-,46,87 v Canada at Abu Dhabi 2019,2025-04-29,2025-05-04
+892,66833,T20,allrounder,89,-,46,48 v New Zealand at Auckland 2025,2025-04-29,2025-05-04
+893,65847,T20,allrounder,89,-,46,131 v Bangladesh at Harare 2022,2025-04-29,2025-05-04
+894,67443,T20,allrounder,89,-,46,48 v India at Johannesburg 2024,2025-04-29,2025-05-04
+895,73439,T20,allrounder,93,-,45,46 v Belgium at Germany 2024,2025-04-29,2025-05-04
+896,9694,T20,allrounder,94,-,44,61 v Zimbabwe at Harare 2023,2025-04-29,2025-05-04
+897,60536,T20,allrounder,94,-,44,47 v Pakistan at Rawalpindi 2024,2025-04-29,2025-05-04
+898,57826,T20,allrounder,94,-,44,73 v West Indies at Hobart 2022,2025-04-29,2025-05-04
+899,66683,T20,allrounder,94,-,44,78 v United Arab Emirates at Dubai 2022,2025-04-29,2025-05-04
+900,74837,T20,allrounder,94,-,44,63 v Bangladesh at Hyderabad 2024,2025-04-29,2025-05-04
+901,63157,T20,allrounder,99,-,43,54 v Afghanistan at Sharjah 2024,2025-04-29,2025-05-04
+902,82579,T20,allrounder,99,-,43,73 v New Zealand at Dubai 2023,2025-04-29,2025-05-04
+903,66176,ODIW,bat,1,-,773,773 v England at Potchefstroom 2024,2025-04-28,2025-05-04
+904,63992,ODIW,bat,2,-,737,799 v England at Mumbai 2019,2025-04-28,2025-05-04
+905,63998,ODIW,bat,3,-,725,807 v Sri Lanka at Leicester 2023,2025-04-28,2025-05-04
+906,64970,ODIW,bat,4,+1,687,699 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+907,59956,ODIW,bat,5,+1,684,776 v India at Vadodara 2018,2025-04-28,2025-05-04
+908,58854,ODIW,bat,6,+1,679,785 v England at Christchurch 2022,2025-04-28,2025-05-04
+909,58520,ODIW,bat,7,-3,671,774 v South Africa at Potchefstroom 2024,2025-04-28,2025-05-04
+910,7759,ODIW,bat,8,-,657,698 v India at Bangalore 2024,2025-04-28,2025-05-04
+911,64853,ODIW,bat,9,-,655,776 v England at Bristol 2023,2025-04-28,2025-05-04
+912,67023,ODIW,bat,10,-,650,650 v England at Hobart 2025,2025-04-28,2025-05-04
+913,62569,ODIW,bat,11,-,641,641 v Australia at Hobart 2025,2025-04-28,2025-05-04
+914,62067,ODIW,bat,12,-,616,681 v Australia at Melbourne 2019,2025-04-28,2025-05-04
+915,11873,ODIW,bat,13,-,615,791 v India at Bristol 2021,2025-04-28,2025-05-04
+916,66632,ODIW,bat,14,-,608,645 v Pakistan at Queenstown 2023,2025-04-28,2025-05-04
+917,59348,ODIW,bat,15,-,604,732 v England at Canterbury 2022,2025-04-28,2025-05-04
+918,57906,ODIW,bat,16,-,596,596 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+919,64968,ODIW,bat,17,-,584,588 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+920,58242,ODIW,bat,18,-,579,595 v New Zealand at Queenstown 2023,2025-04-28,2025-05-04
+921,65720,ODIW,bat,19,-,564,601 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+922,68442,ODIW,bat,20,-,562,563 v Ireland at Rajkot 2025,2025-04-28,2025-05-04
+923,58230,ODIW,bat,21,-,555,559 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+924,61306,ODIW,bat,22,-,554,799 v Australia at Bay Oval 2016,2025-04-28,2025-05-04
+925,67045,ODIW,bat,23,-,548,567 v New Zealand at Wellington 2024,2025-04-28,2025-05-04
+926,57487,ODIW,bat,24,-,543,602 v South Africa at Potchefstroom 2023,2025-04-28,2025-05-04
+927,11858,ODIW,bat,25,-,541,601 v Sri Lanka at Taunton 2017,2025-04-28,2025-05-04
+928,80012,ODIW,bat,26,+1,535,548 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+929,66160,ODIW,bat,27,-1,532,549 v New Zealand at Nelson 2025,2025-04-28,2025-05-04
+930,64963,ODIW,bat,28,-,531,531 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+931,66669,ODIW,bat,29,-,530,530 v England at Hobart 2025,2025-04-28,2025-05-04
+932,66199,ODIW,bat,30,-,528,528 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+933,69541,ODIW,bat,31,-,525,525 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+934,69460,ODIW,bat,32,-,524,552 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+935,59735,ODIW,bat,33,-,522,692 v West Indies at Leicester 2019,2025-04-28,2025-05-04
+936,70697,ODIW,bat,34,-,521,525 v India at Ahmedabad 2024,2025-04-28,2025-05-04
+937,59131,ODIW,bat,35,-,520,572 v West Indies at Antigua 2022,2025-04-28,2025-05-04
+938,69563,ODIW,bat,35,-,520,520 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+939,61516,ODIW,bat,37,-,519,789 v India at St Kitts (WP) 2012,2025-04-28,2025-05-04
+940,71357,ODIW,bat,37,-,519,539 v India at Mumbai 2024,2025-04-28,2025-05-04
+941,65146,ODIW,bat,39,-,506,630 v New Zealand at Hamilton 2019,2025-04-28,2025-05-04
+942,22048,ODIW,bat,40,-,492,492 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+943,67299,ODIW,bat,41,+1,487,502 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+944,67310,ODIW,bat,42,+1,480,480 v USA at Harare 2024,2025-04-28,2025-05-04
+945,63229,ODIW,bat,43,-2,479,489 v New Zealand at Nelson 2025,2025-04-28,2025-05-04
+946,74530,ODIW,bat,44,-,474,474 v Sri Lanka at Colombo (RPS) 2025,2025-04-28,2025-05-04
+947,59467,ODIW,bat,45,-,456,704 v New Zealand at Kingston 2013,2025-04-28,2025-05-04
+948,64347,ODIW,bat,46,-,454,454 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+949,83623,ODIW,bat,47,+10,447,447 v Sri Lanka at Colombo (RPS) 2025,2025-04-28,2025-05-04
+950,69878,ODIW,bat,48,-1,446,510 v New Zealand at Bristol 2024,2025-04-28,2025-05-04
+951,70726,ODIW,bat,49,+4,441,441 v Sri Lanka at Colombo (RPS) 2025,2025-04-28,2025-05-04
+952,69351,ODIW,bat,50,-1,440,440 v India at Colombo (RPS) 2025,2025-04-28,2025-05-04
+953,63228,ODIW,bat,51,-3,438,547 v Ireland at Dublin 2022,2025-04-28,2025-05-04
+954,60588,ODIW,bat,52,-3,424,488 v Bangladesh at Dhaka 2023,2025-04-28,2025-05-04
+955,69441,ODIW,bat,52,-3,424,443 v Sri Lanka at East London 2024,2025-04-28,2025-05-04
+956,67312,ODIW,bat,54,-2,420,420 v USA at Harare 2024,2025-04-28,2025-05-04
+957,70808,ODIW,bat,55,-1,417,417 v USA at Harare 2024,2025-04-28,2025-05-04
+958,67302,ODIW,bat,56,-1,410,431 v England at Kimberley 2024,2025-04-28,2025-05-04
+959,71759,ODIW,bat,57,-1,408,408 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+960,61359,ODIW,bat,58,-,404,450 v New Zealand at St Kitts (WP) 2014,2025-04-28,2025-05-04
+961,82434,ODIW,bat,59,-,391,391 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+962,73424,ODIW,bat,60,-,386,441 v England at Canterbury 2022,2025-04-28,2025-05-04
+963,70442,ODIW,bat,60,+1,386,406 v Netherlands at Amstelveen 2024,2025-04-28,2025-05-04
+964,67315,ODIW,bat,62,+1,384,384 v USA at Harare 2024,2025-04-28,2025-05-04
+965,68423,ODIW,bat,63,-2,382,435 v South Africa at Bangalore 2024,2025-04-28,2025-05-04
+966,67047,ODIW,bat,64,-,381,381 v England at Hobart 2025,2025-04-28,2025-05-04
+967,69568,ODIW,bat,65,-,376,382 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+968,96935,ODIW,bat,66,-,371,371 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+969,69455,ODIW,bat,67,-,370,416 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+970,69570,ODIW,bat,68,-,367,394 v Thailand at Thailand 2022,2025-04-28,2025-05-04
+971,67057,ODIW,bat,69,-,366,381 v England at Sydney 2025,2025-04-28,2025-05-04
+972,72175,ODIW,bat,70,-,362,362 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+973,69618,ODIW,bat,71,-,355,363 v Netherlands at Amstelveen 2024,2025-04-28,2025-05-04
+974,64859,ODIW,bat,72,+5,351,351 v India at Colombo (RPS) 2025,2025-04-28,2025-05-04
+975,69590,ODIW,bat,73,-1,342,359 v Papua New Guinea at Utrecht 2024,2025-04-28,2025-05-04
+976,63217,ODIW,bat,74,-1,339,339 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+977,70772,ODIW,bat,75,-2,336,447 v Sri Lanka at Pallekele 2022,2025-04-28,2025-05-04
+978,89745,ODIW,bat,76,-1,335,391 v Ireland at Belfast 2024,2025-04-28,2025-05-04
+979,70330,ODIW,bat,77,-1,333,411 v West Indies at Karachi 2021,2025-04-28,2025-05-04
+980,85801,ODIW,bat,78,-1,332,346 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+981,69779,ODIW,bat,79,-,330,360 v South Africa at Potchefstroom 2024,2025-04-28,2025-05-04
+982,69603,ODIW,bat,80,-,329,329 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+983,72351,ODIW,bat,81,-,325,340 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+984,82100,ODIW,bat,81,-,325,325 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+985,69734,ODIW,bat,83,-,324,482 v India at Hove 2022,2025-04-28,2025-05-04
+986,75001,ODIW,bat,84,-,321,338 v India at Perth 2024,2025-04-28,2025-05-04
+987,97646,ODIW,bat,85,-,317,317 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+988,66230,ODIW,bat,86,-,315,413 v Pakistan at Karachi 2023,2025-04-28,2025-05-04
+989,69619,ODIW,bat,87,-,312,312 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+990,69434,ODIW,bat,88,-,308,327 v Papua New Guinea at Harare 2024,2025-04-28,2025-05-04
+991,73622,ODIW,bat,89,-,304,304 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+992,72353,ODIW,bat,90,-,299,329 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+993,69423,ODIW,bat,91,-,295,354 v South Africa at East London 2023,2025-04-28,2025-05-04
+994,70684,ODIW,bat,92,-,293,299 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+995,69462,ODIW,bat,93,-,287,309 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+996,69433,ODIW,bat,94,-,284,316 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+997,69622,ODIW,bat,94,-,284,284 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+998,69753,ODIW,bat,96,-,282,391 v Sri Lanka at Chester-le-St 2023,2025-04-28,2025-05-04
+999,69569,ODIW,bat,97,-,280,280 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1000,74329,ODIW,bat,97,-,280,300 v India at Ahmedabad 2024,2025-04-28,2025-05-04
+1001,64555,ODIW,bat,99,+11,277,277 v India at Colombo (RPS) 2025,2025-04-28,2025-05-04
+1002,66656,ODIW,bat,100,-1,275,318 v Australia at Sydney 2024,2025-04-28,2025-05-04
+1003,88817,ODIW,bat,100,-1,275,307 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1004,66391,ODIW,bowl,1,-,770,802 v New Zealand at Worcester 2024,2025-04-28,2025-05-04
+1005,67023,ODIW,bowl,2,-,724,740 v England at Melbourne 2025,2025-04-28,2025-05-04
+1006,63467,ODIW,bowl,3,-,696,766 v West Indies at Antigua 2019,2025-04-28,2025-05-04
+1007,65146,ODIW,bowl,4,-,679,704 v New Zealand at Ahmedabad 2024,2025-04-28,2025-05-04
+1008,7759,ODIW,bowl,5,-,677,749 v West Indies at Antigua 2021,2025-04-28,2025-05-04
+1009,19948,ODIW,bowl,6,-,647,647 v England at Hobart 2025,2025-04-28,2025-05-04
+1010,67057,ODIW,bowl,7,-,642,642 v England at Hobart 2025,2025-04-28,2025-05-04
+1011,64283,ODIW,bowl,8,-,639,703 v Ireland at Belfast 2024,2025-04-28,2025-05-04
+1012,64970,ODIW,bowl,9,-,638,671 v New Zealand at Antigua 2022,2025-04-28,2025-05-04
+1013,65721,ODIW,bowl,10,-,618,618 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1014,69779,ODIW,bowl,11,-,607,614 v South Africa at Potchefstroom 2024,2025-04-28,2025-05-04
+1015,70686,ODIW,bowl,12,-,604,604 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+1016,67100,ODIW,bowl,13,-,589,601 v Bangladesh at Hamilton 2022,2025-04-28,2025-05-04
+1017,63227,ODIW,bowl,14,-,581,680 v New Zealand at Hamilton 2022,2025-04-28,2025-05-04
+1018,66632,ODIW,bowl,15,-,556,620 v England at Dunedin 2021,2025-04-28,2025-05-04
+1019,69906,ODIW,bowl,16,-,555,555 v Australia at Hobart 2025,2025-04-28,2025-05-04
+1020,73820,ODIW,bowl,17,-,531,531 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+1021,57828,ODIW,bowl,18,-,527,611 v Australia at Perth 2019,2025-04-28,2025-05-04
+1022,63998,ODIW,bowl,19,+1,518,580 v New Zealand at Canterbury 2021,2025-04-28,2025-05-04
+1023,70714,ODIW,bowl,20,-1,516,537 v West Indies at Vadodara 2024,2025-04-28,2025-05-04
+1024,58618,ODIW,bowl,21,-,514,522 v India at Antigua 2019,2025-04-28,2025-05-04
+1025,100120,ODIW,bowl,22,-,512,512 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1026,67045,ODIW,bowl,23,-,509,536 v New Zealand at Wellington 2024,2025-04-28,2025-05-04
+1027,65368,ODIW,bowl,24,-,504,512 v England at Bristol 2024,2025-04-28,2025-05-04
+1028,59745,ODIW,bowl,25,+2,474,561 v Bangladesh at Colombo (SSC) 2023,2025-04-28,2025-05-04
+1029,69976,ODIW,bowl,26,-1,467,467 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+1030,71759,ODIW,bowl,27,-,461,461 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+1031,67302,ODIW,bowl,28,+1,460,506 v Australia at Sydney 2024,2025-04-28,2025-05-04
+1032,60225,ODIW,bowl,29,-3,457,482 v Ireland at Belfast 2024,2025-04-28,2025-05-04
+1033,67047,ODIW,bowl,29,+1,457,565 v South Africa at Adelaide 2024,2025-04-28,2025-05-04
+1034,60588,ODIW,bowl,31,-,454,526 v Bangladesh at Dhaka 2023,2025-04-28,2025-05-04
+1035,71451,ODIW,bowl,32,-,444,455 v England at Sydney 2025,2025-04-28,2025-05-04
+1036,70684,ODIW,bowl,33,-,440,464 v Sri Lanka at Belfast 2024,2025-04-28,2025-05-04
+1037,73258,ODIW,bowl,34,-,432,459 v Bangladesh at Benoni 2023,2025-04-28,2025-05-04
+1038,63469,ODIW,bowl,35,-,425,495 v Australia at Sydney 2023,2025-04-28,2025-05-04
+1039,62067,ODIW,bowl,36,+1,422,563 v India at Sydney 2009,2025-04-28,2025-05-04
+1040,67315,ODIW,bowl,36,+1,422,422 v USA at Harare 2024,2025-04-28,2025-05-04
+1041,72324,ODIW,bowl,38,+1,420,420 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1042,69351,ODIW,bowl,39,-3,410,445 v Ireland at Belfast 2024,2025-04-28,2025-05-04
+1043,74329,ODIW,bowl,40,-,409,417 v England at Hamilton 2024,2025-04-28,2025-05-04
+1044,58032,ODIW,bowl,41,-,403,432 v West Indies at Hambantota 2024,2025-04-28,2025-05-04
+1045,69541,ODIW,bowl,42,+1,402,402 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+1046,58520,ODIW,bowl,43,-1,400,405 v New Zealand at Nelson 2025,2025-04-28,2025-05-04
+1047,65768,ODIW,bowl,43,+2,400,408 v Ireland at Belfast 2024,2025-04-28,2025-05-04
+1048,60543,ODIW,bowl,45,-1,399,457 v Australia at Sydney 2024,2025-04-28,2025-05-04
+1049,63991,ODIW,bowl,46,-,395,398 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+1050,70980,ODIW,bowl,47,-,394,403 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1051,70737,ODIW,bowl,48,-,393,393 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+1052,97646,ODIW,bowl,49,-,392,392 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1053,106353,ODIW,bowl,50,-,390,429 v Ireland at Dhaka 2024,2025-04-28,2025-05-04
+1054,65018,ODIW,bowl,51,-,388,506 v England at Dunedin 2022,2025-04-28,2025-05-04
+1055,80019,ODIW,bowl,52,-,387,387 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+1056,64347,ODIW,bowl,53,-,385,421 v Pakistan at Karachi 2024,2025-04-28,2025-05-04
+1057,80013,ODIW,bowl,54,-,377,377 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+1058,80807,ODIW,bowl,55,-,376,376 v Australia at Hobart 2025,2025-04-28,2025-05-04
+1059,69485,ODIW,bowl,56,-,370,389 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1060,64550,ODIW,bowl,57,-,369,405 v Australia at Mumbai 2023,2025-04-28,2025-05-04
+1061,74623,ODIW,bowl,58,-1,362,381 v England at Chelmsford 2024,2025-04-28,2025-05-04
+1062,73622,ODIW,bowl,59,-1,359,359 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+1063,69572,ODIW,bowl,60,-1,354,367 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+1064,72351,ODIW,bowl,60,-1,354,354 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1065,70064,ODIW,bowl,62,+1,352,361 v Australia at Perth 2024,2025-04-28,2025-05-04
+1066,11858,ODIW,bowl,63,-2,349,400 v New Zealand at Kimberley 2016,2025-04-28,2025-05-04
+1067,65346,ODIW,bowl,64,-2,345,360 v West Indies at Hambantota 2024,2025-04-28,2025-05-04
+1068,96933,ODIW,bowl,65,-1,339,339 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1069,80018,ODIW,bowl,66,-,336,357 v Scotland at Spain 2023,2025-04-28,2025-05-04
+1070,68423,ODIW,bowl,67,-3,335,382 v South Africa at Bangalore 2024,2025-04-28,2025-05-04
+1071,67316,ODIW,bowl,67,-,335,338 v USA at Harare 2024,2025-04-28,2025-05-04
+1072,69615,ODIW,bowl,69,-1,332,332 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1073,69454,ODIW,bowl,70,-1,320,338 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1074,72329,ODIW,bowl,71,-1,314,314 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1075,69465,ODIW,bowl,72,-,312,342 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+1076,67308,ODIW,bowl,72,-,312,312 v USA at Harare 2024,2025-04-28,2025-05-04
+1077,88981,ODIW,bowl,74,-3,310,316 v Ireland at Rajkot 2025,2025-04-28,2025-05-04
+1078,69756,ODIW,bowl,75,-1,307,344 v New Zealand at Chester-le-St 2024,2025-04-28,2025-05-04
+1079,22048,ODIW,bowl,76,-1,306,397 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1080,59956,ODIW,bowl,77,-1,305,738 v India at Mumbai 2012,2025-04-28,2025-05-04
+1081,80017,ODIW,bowl,77,-1,305,324 v India at Rajkot 2025,2025-04-28,2025-05-04
+1082,83369,ODIW,bowl,79,-,298,313 v Papua New Guinea at Harare 2024,2025-04-28,2025-05-04
+1083,83663,ODIW,bowl,80,-2,297,300 v Ireland at Rajkot 2025,2025-04-28,2025-05-04
+1084,72969,ODIW,bowl,81,-1,294,294 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1085,67041,ODIW,bowl,82,-,285,365 v India at Mackay 2021,2025-04-28,2025-05-04
+1086,70677,ODIW,bowl,83,-,283,312 v India at Queenstown 2022,2025-04-28,2025-05-04
+1087,83651,ODIW,bowl,83,-2,283,290 v Australia at Brisbane - AB 2024,2025-04-28,2025-05-04
+1088,74332,ODIW,bowl,85,-1,281,290 v Australia at Wellington 2024,2025-04-28,2025-05-04
+1089,121528,ODIW,bowl,86,-1,279,279 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1090,70050,ODIW,bowl,87,-1,278,400 v West Indies at Antigua 2021,2025-04-28,2025-05-04
+1091,72056,ODIW,bowl,87,-1,278,288 v Netherlands at Amstelveen 2024,2025-04-28,2025-05-04
+1092,72322,ODIW,bowl,89,-,277,277 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1093,75598,ODIW,bowl,90,-4,276,314 v South Africa at Bangalore 2024,2025-04-28,2025-05-04
+1094,82713,ODIW,bowl,91,-1,274,306 v England at Durban 2024,2025-04-28,2025-05-04
+1095,81922,ODIW,bowl,92,-,270,270 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1096,83633,ODIW,bowl,93,-2,269,272 v Ireland at Rajkot 2025,2025-04-28,2025-05-04
+1097,92205,ODIW,bowl,94,-1,266,285 v India at Rajkot 2025,2025-04-28,2025-05-04
+1098,96900,ODIW,bowl,95,-1,265,279 v Netherlands at Amstelveen 2024,2025-04-28,2025-05-04
+1099,59467,ODIW,bowl,96,-1,263,422 v Pakistan at Dubai 2019,2025-04-28,2025-05-04
+1100,85801,ODIW,bowl,96,-1,263,274 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+1101,68441,ODIW,bowl,98,-3,260,301 v New Zealand at Ahmedabad 2024,2025-04-28,2025-05-04
+1102,65065,ODIW,bowl,99,-1,256,292 v Bangladesh at Colombo 2017,2025-04-28,2025-05-04
+1103,71752,ODIW,bowl,100,-1,254,254 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+1104,83431,ODIW,bowl,100,-1,254,254 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+1105,67023,ODIW,allrounder,1,-,470,470 v England at Hobart 2025,2025-04-28,2025-05-04
+1106,7759,ODIW,allrounder,2,-,444,455 v Australia at Sydney 2024,2025-04-28,2025-05-04
+1107,64970,ODIW,allrounder,3,-,438,440 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1108,63998,ODIW,allrounder,4,-,375,421 v Australia at Taunton 2023,2025-04-28,2025-05-04
+1109,65146,ODIW,allrounder,5,-,343,402 v New Zealand at Hamilton 2019,2025-04-28,2025-05-04
+1110,66632,ODIW,allrounder,6,-,338,366 v England at Hamilton 2024,2025-04-28,2025-05-04
+1111,67045,ODIW,allrounder,7,-,278,303 v New Zealand at Wellington 2024,2025-04-28,2025-05-04
+1112,58520,ODIW,allrounder,8,-1,268,278 v New Zealand at Nelson 2025,2025-04-28,2025-05-04
+1113,62067,ODIW,allrounder,9,-,259,306 v Australia at Brisbane - AB 2020,2025-04-28,2025-05-04
+1114,67057,ODIW,allrounder,10,-,234,234 v England at Hobart 2025,2025-04-28,2025-05-04
+1115,69541,ODIW,allrounder,11,-,211,211 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+1116,59956,ODIW,allrounder,12,-,208,545 v West Indies at Antigua 2019,2025-04-28,2025-05-04
+1117,69779,ODIW,allrounder,13,-,200,221 v South Africa at Potchefstroom 2024,2025-04-28,2025-05-04
+1118,60588,ODIW,allrounder,14,-,192,250 v Bangladesh at Dhaka 2023,2025-04-28,2025-05-04
+1119,11858,ODIW,allrounder,15,-,188,215 v Australia at Sydney 2024,2025-04-28,2025-05-04
+1120,67302,ODIW,allrounder,15,-,188,206 v England at Kimberley 2024,2025-04-28,2025-05-04
+1121,71759,ODIW,allrounder,15,-,188,188 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+1122,69351,ODIW,allrounder,18,-,180,180 v India at Colombo (RPS) 2025,2025-04-28,2025-05-04
+1123,66391,ODIW,allrounder,19,-,176,226 v South Africa at Christchurch 2022,2025-04-28,2025-05-04
+1124,64347,ODIW,allrounder,20,-,174,174 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+1125,67047,ODIW,allrounder,20,-,174,213 v South Africa at Adelaide 2024,2025-04-28,2025-05-04
+1126,64283,ODIW,allrounder,22,-,169,201 v Ireland at Belfast 2024,2025-04-28,2025-05-04
+1127,70686,ODIW,allrounder,23,-,163,163 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+1128,67315,ODIW,allrounder,24,-,162,162 v USA at Harare 2024,2025-04-28,2025-05-04
+1129,19948,ODIW,allrounder,25,-,159,159 v England at Hobart 2025,2025-04-28,2025-05-04
+1130,22048,ODIW,allrounder,26,-,150,183 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1131,61306,ODIW,allrounder,27,-,139,376 v Australia at Bay Oval 2016,2025-04-28,2025-05-04
+1132,63467,ODIW,allrounder,28,-,130,160 v West Indies at Antigua 2019,2025-04-28,2025-05-04
+1133,69563,ODIW,allrounder,29,+1,129,129 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1134,70684,ODIW,allrounder,30,+1,128,134 v Bangladesh at Lahore 2025,2025-04-28,2025-05-04
+1135,68423,ODIW,allrounder,31,-3,127,166 v South Africa at Bangalore 2024,2025-04-28,2025-05-04
+1136,65368,ODIW,allrounder,32,-,125,134 v England at Bristol 2024,2025-04-28,2025-05-04
+1137,97646,ODIW,allrounder,33,-,124,124 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1138,59467,ODIW,allrounder,34,-,119,261 v Pakistan at Dubai 2019,2025-04-28,2025-05-04
+1139,72351,ODIW,allrounder,35,-,115,115 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1140,57828,ODIW,allrounder,36,-,114,158 v England at Leicester 2021,2025-04-28,2025-05-04
+1141,74329,ODIW,allrounder,36,-,114,121 v India at Ahmedabad 2024,2025-04-28,2025-05-04
+1142,66669,ODIW,allrounder,38,-,110,157 v India at Mumbai 2023,2025-04-28,2025-05-04
+1143,73622,ODIW,allrounder,39,-,109,109 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+1144,63991,ODIW,allrounder,40,-,108,108 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1145,65721,ODIW,allrounder,40,-,108,108 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1146,67100,ODIW,allrounder,42,-,107,124 v Bangladesh at Lahore 2019,2025-04-28,2025-05-04
+1147,69906,ODIW,allrounder,43,-,106,106 v Australia at Hobart 2025,2025-04-28,2025-05-04
+1148,73820,ODIW,allrounder,44,-,105,111 v West Indies at Karachi 2024,2025-04-28,2025-05-04
+1149,61516,ODIW,allrounder,45,-,104,607 v New Zealand at Kingston 2013,2025-04-28,2025-05-04
+1150,73258,ODIW,allrounder,46,-,102,108 v Bangladesh at Benoni 2023,2025-04-28,2025-05-04
+1151,70714,ODIW,allrounder,47,-,98,106 v West Indies at Vadodara 2024,2025-04-28,2025-05-04
+1152,63469,ODIW,allrounder,48,-,96,103 v Bangladesh at Dhaka 2023,2025-04-28,2025-05-04
+1153,58618,ODIW,allrounder,49,-,92,92 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+1154,63227,ODIW,allrounder,50,-,87,133 v England at Worcester 2018,2025-04-28,2025-05-04
+1155,85801,ODIW,allrounder,50,-,87,94 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+1156,100120,ODIW,allrounder,52,-,86,87 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+1157,72324,ODIW,allrounder,53,-,84,84 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1158,59745,ODIW,allrounder,54,+1,83,130 v West Indies at Trinidad 2017,2025-04-28,2025-05-04
+1159,64963,ODIW,allrounder,55,-1,81,96 v South Africa at Durban 2021,2025-04-28,2025-05-04
+1160,69485,ODIW,allrounder,56,-1,80,89 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1161,59348,ODIW,allrounder,57,-,77,176 v England at Lord's 2017,2025-04-28,2025-05-04
+1162,69615,ODIW,allrounder,58,-,74,74 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1163,80018,ODIW,allrounder,58,-,74,89 v Scotland at Spain 2023,2025-04-28,2025-05-04
+1164,58032,ODIW,allrounder,60,-2,73,84 v West Indies at Hambantota 2024,2025-04-28,2025-05-04
+1165,96933,ODIW,allrounder,60,+1,73,73 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1166,63228,ODIW,allrounder,62,-,72,264 v India at Kimberley 2018,2025-04-28,2025-05-04
+1167,69454,ODIW,allrounder,62,-,72,72 v West Indies at Lahore 2025,2025-04-28,2025-05-04
+1168,70737,ODIW,allrounder,62,-,72,72 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+1169,65018,ODIW,allrounder,65,-,71,99 v England at Dunedin 2022,2025-04-28,2025-05-04
+1170,70330,ODIW,allrounder,66,-,70,104 v Ireland at Lahore 2022,2025-04-28,2025-05-04
+1171,69976,ODIW,allrounder,66,-,70,70 v Thailand at Lahore 2025,2025-04-28,2025-05-04
+1172,63217,ODIW,allrounder,68,-,66,72 v Sri Lanka at Colombo (SSC) 2023,2025-04-28,2025-05-04
+1173,72329,ODIW,allrounder,68,-,66,66 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1174,70697,ODIW,allrounder,68,-,66,66 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+1175,80019,ODIW,allrounder,68,-,66,66 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+1176,69569,ODIW,allrounder,72,-,65,65 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1177,80807,ODIW,allrounder,72,-,65,65 v Australia at Hobart 2025,2025-04-28,2025-05-04
+1178,72969,ODIW,allrounder,74,-,64,64 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1179,80017,ODIW,allrounder,75,-,63,71 v India at Rajkot 2025,2025-04-28,2025-05-04
+1180,70442,ODIW,allrounder,76,-,61,69 v Papua New Guinea at Amstelveen 2024,2025-04-28,2025-05-04
+1181,67316,ODIW,allrounder,77,-,58,60 v USA at Harare 2024,2025-04-28,2025-05-04
+1182,83369,ODIW,allrounder,78,-,57,63 v Papua New Guinea at Harare 2024,2025-04-28,2025-05-04
+1183,59735,ODIW,allrounder,79,-,56,266 v Sri Lanka at Colombo (RPS) 2016,2025-04-28,2025-05-04
+1184,69572,ODIW,allrounder,79,-,56,56 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1185,106353,ODIW,allrounder,79,-,56,67 v Ireland at Dhaka 2024,2025-04-28,2025-05-04
+1186,64550,ODIW,allrounder,82,-,55,81 v South Africa at Christchurch 2022,2025-04-28,2025-05-04
+1187,69456,ODIW,allrounder,82,-,55,60 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1188,67308,ODIW,allrounder,84,-1,54,54 v USA at Harare 2024,2025-04-28,2025-05-04
+1189,70980,ODIW,allrounder,85,-1,52,57 v Pakistan at Lahore 2025,2025-04-28,2025-05-04
+1190,80590,ODIW,allrounder,85,-1,52,52 v Ireland at Lahore 2025,2025-04-28,2025-05-04
+1191,69603,ODIW,allrounder,87,-1,50,50 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1192,82713,ODIW,allrounder,87,-1,50,53 v England at Durban 2024,2025-04-28,2025-05-04
+1193,82697,ODIW,allrounder,87,-1,50,57 v Sri Lanka at Potchefstroom 2024,2025-04-28,2025-05-04
+1194,72322,ODIW,allrounder,90,-1,49,49 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1195,73042,ODIW,allrounder,91,-1,48,49 v Thailand at Thailand 2022,2025-04-28,2025-05-04
+1196,80602,ODIW,allrounder,91,-1,48,49 v Australia at Melbourne 2025,2025-04-28,2025-05-04
+1197,69756,ODIW,allrounder,93,-,46,55 v New Zealand at Bristol 2024,2025-04-28,2025-05-04
+1198,88981,ODIW,allrounder,93,-1,46,48 v Ireland at Rajkot 2025,2025-04-28,2025-05-04
+1199,70050,ODIW,allrounder,95,-1,45,80 v West Indies at Antigua 2021,2025-04-28,2025-05-04
+1200,80013,ODIW,allrounder,95,-1,45,50 v Zimbabwe at Harare 2024,2025-04-28,2025-05-04
+1201,57906,ODIW,allrounder,97,-1,44,44 v Sri Lanka at Nelson 2025,2025-04-28,2025-05-04
+1202,69590,ODIW,allrounder,97,-1,44,52 v Papua New Guinea at Utrecht 2024,2025-04-28,2025-05-04
+1203,64968,ODIW,allrounder,99,-1,43,74 v Zimbabwe at Harare 2021,2025-04-28,2025-05-04
+1204,67816,ODIW,allrounder,99,-1,43,55 v Zimbabwe at Bangkok 2023,2025-04-28,2025-05-04
+1205,69465,ODIW,allrounder,99,-1,43,50 v Scotland at Lahore 2025,2025-04-28,2025-05-04
+1206,64853,T20W,bat,1,-,794,798 v New Zealand at Bay Oval 2025,2025-04-28,2025-05-04
+1207,66669,T20W,bat,2,-,757,827 v India at Mumbai 2022,2025-04-28,2025-05-04
+1208,63992,T20W,bat,3,-,753,753 v West Indies at Mumbai 2024,2025-04-28,2025-05-04
+1209,64970,T20W,bat,4,-,743,752 v Bangladesh at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1210,66176,T20W,bat,5,-,737,748 v Scotland at Dubai 2024,2025-04-28,2025-05-04
+1211,58520,T20W,bat,6,-,689,705 v India at Dambulla 2024,2025-04-28,2025-05-04
+1212,61306,T20W,bat,7,-,671,770 v Pakistan at Guyana 2018,2025-04-28,2025-05-04
+1213,69441,T20W,bat,8,-,663,706 v Pakistan at Multan 2024,2025-04-28,2025-05-04
+1214,58854,T20W,bat,9,-,639,718 v Sri Lanka at Sydney 2019,2025-04-28,2025-05-04
+1215,66632,T20W,bat,10,-,633,645 v England at Nelson 2024,2025-04-28,2025-05-04
+1216,59467,T20W,bat,11,-,628,735 v England at Bridgetown 2013,2025-04-28,2025-05-04
+1217,59348,T20W,bat,11,-,628,720 v Australia at Guyana 2018,2025-04-28,2025-05-04
+1218,59131,T20W,bat,11,-,628,629 v Australia at Canberra 2025,2025-04-28,2025-05-04
+1219,63998,T20W,bat,14,-,627,644 v West Indies at Derby 2020,2025-04-28,2025-05-04
+1220,68442,T20W,bat,15,-,619,755 v New Zealand at Auckland 2019,2025-04-28,2025-05-04
+1221,70772,T20W,bat,16,-,617,776 v South Africa at Lucknow 2021,2025-04-28,2025-05-04
+1222,62067,T20W,bat,17,-,612,750 v Sri Lanka at Perth 2020,2025-04-28,2025-05-04
+1223,65720,T20W,bat,18,-,610,618 v South Africa at Dubai 2024,2025-04-28,2025-05-04
+1224,66656,T20W,bat,18,-,610,641 v Australia at Dubai 2024,2025-04-28,2025-05-04
+1225,71357,T20W,bat,20,-,602,602 v New Zealand at Wellington 2025,2025-04-28,2025-05-04
+1226,59956,T20W,bat,21,-,592,600 v South Africa at Dubai 2024,2025-04-28,2025-05-04
+1227,64968,T20W,bat,22,-,590,593 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1228,66160,T20W,bat,23,-,582,616 v Ireland at Dublin 2024,2025-04-28,2025-05-04
+1229,59735,T20W,bat,24,-,578,597 v West Indies at Derby 2020,2025-04-28,2025-05-04
+1230,74530,T20W,bat,25,-,576,587 v England at Gqeberha 2023,2025-04-28,2025-05-04
+1231,67023,T20W,bat,26,-,567,667 v England at Edgbaston 2023,2025-04-28,2025-05-04
+1232,69541,T20W,bat,27,-,559,564 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1233,65633,T20W,bat,28,-,553,553 v New Zealand at Wellington 2025,2025-04-28,2025-05-04
+1234,67322,T20W,bat,29,-,552,558 v Bangladesh at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1235,80012,T20W,bat,30,-,550,613 v Vanuatu at Abu Dhabi 2024,2025-04-28,2025-05-04
+1236,69618,T20W,bat,31,-,536,540 v Netherlands at Amstelveen 2024,2025-04-28,2025-05-04
+1237,62569,T20W,bat,32,-,534,565 v Australia at Edgbaston 2023,2025-04-28,2025-05-04
+1238,65146,T20W,bat,33,-,533,556 v West Indies at Cape Town 2023,2025-04-28,2025-05-04
+1239,69878,T20W,bat,33,-,533,588 v New Zealand at Southampton 2024,2025-04-28,2025-05-04
+1240,69619,T20W,bat,35,-,530,545 v Samoa at Fiji 2023,2025-04-28,2025-05-04
+1241,69563,T20W,bat,36,-,526,"634 v Germany at Murcia, Spain 2021",2025-04-28,2025-05-04
+1242,69734,T20W,bat,37,-,523,622 v West Indies at Bridgetown 2022,2025-04-28,2025-05-04
+1243,66199,T20W,bat,38,-,508,515 v South Africa at Multan 2024,2025-04-28,2025-05-04
+1244,60588,T20W,bat,39,-,494,508 v West Indies at Karachi 2024,2025-04-28,2025-05-04
+1245,69462,T20W,bat,40,-,488,552 v Zimbabwe at Abu Dhabi 2022,2025-04-28,2025-05-04
+1246,61516,T20W,bat,41,-,485,836 v New Zealand at St Lucia 2010,2025-04-28,2025-05-04
+1247,75001,T20W,bat,41,-,485,485 v New Zealand at Wellington 2025,2025-04-28,2025-05-04
+1248,80602,T20W,bat,43,-,479,564 v New Zealand at Canterbury 2024,2025-04-28,2025-05-04
+1249,69568,T20W,bat,44,-,473,"604 v Netherlands at Arbroath, Scotla 2019",2025-04-28,2025-05-04
+1250,57906,T20W,bat,45,-,469,469 v Australia at Wellington 2025,2025-04-28,2025-05-04
+1251,63228,T20W,bat,45,-,469,508 v Bangladesh at Kimberley 2023,2025-04-28,2025-05-04
+1252,69460,T20W,bat,47,-,461,610 v Pakistan at Sylhet 2022,2025-04-28,2025-05-04
+1253,7759,T20W,bat,48,+1,457,491 v Pakistan at Pietermaritzburg 2019,2025-04-28,2025-05-04
+1254,85051,T20W,bat,49,+1,452,532 v Scotland at Abu Dhabi 2022,2025-04-28,2025-05-04
+1255,69434,T20W,bat,50,-2,451,500 v Ireland at Abu Dhabi 2024,2025-04-28,2025-05-04
+1256,69606,T20W,bat,51,-,447,495 v Nepal at Kuala Lumpur 2022,2025-04-28,2025-05-04
+1257,64963,T20W,bat,52,+1,444,458 v South Africa at Multan 2024,2025-04-28,2025-05-04
+1258,63229,T20W,bat,53,+1,440,444 v New Zealand at Christchurch 2025,2025-04-28,2025-05-04
+1259,67302,T20W,bat,54,+1,439,439 v England at Centurion 2024,2025-04-28,2025-05-04
+1260,82434,T20W,bat,54,+1,439,448 v Australia at Bay Oval 2025,2025-04-28,2025-05-04
+1261,11858,T20W,bat,56,+1,436,522 v Bangladesh at St Lucia 2018,2025-04-28,2025-05-04
+1262,22048,T20W,bat,57,+1,433,433 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1263,67312,T20W,bat,58,-6,427,571 v Mozambique at Gaborone 2021,2025-04-28,2025-05-04
+1264,67310,T20W,bat,58,+1,427,513 v Namibia at Namibia 2022,2025-04-28,2025-05-04
+1265,99520,T20W,bat,60,-,425,"454 v Greece at Marsa, Malta 2024",2025-04-28,2025-05-04
+1266,69455,T20W,bat,61,-,419,544 v United Arab Emirates at Bangkok 2019,2025-04-28,2025-05-04
+1267,69433,T20W,bat,62,-,416,433 v West Indies at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1268,69423,T20W,bat,63,-,415,553 v India at Sylhet 2022,2025-04-28,2025-05-04
+1269,71759,T20W,bat,64,-,407,407 v New Zealand at Dubai 2024,2025-04-28,2025-05-04
+1270,69600,T20W,bat,65,-,398,448 v Tanzania at Uganda 2023,2025-04-28,2025-05-04
+1271,67304,T20W,bat,66,-,388,592 v Thailand at Bangkok 2023,2025-04-28,2025-05-04
+1272,58242,T20W,bat,67,-,384,398 v Sri Lanka at Sharjah 2024,2025-04-28,2025-05-04
+1273,69622,T20W,bat,67,-,384,420 v Cook Islands at Auckland 2024,2025-04-28,2025-05-04
+1274,58230,T20W,bat,69,-,377,421 v West Indies at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1275,89745,T20W,bat,70,-,371,449 v Thailand at Dambulla 2024,2025-04-28,2025-05-04
+1276,70697,T20W,bat,71,-,359,378 v Sri Lanka at Christchurch 2025,2025-04-28,2025-05-04
+1277,61359,T20W,bat,72,-,357,382 v Australia at Sydney 2014,2025-04-28,2025-05-04
+1278,69579,T20W,bat,73,-,356,"601 v Germany at Murcia, Spain 2019",2025-04-28,2025-05-04
+1279,67315,T20W,bat,74,+1,352,375 v United Arab Emirates at Windhoek 2024,2025-04-28,2025-05-04
+1280,69456,T20W,bat,75,+1,342,458 v Bangladesh at Abu Dhabi 2022,2025-04-28,2025-05-04
+1281,83369,T20W,bat,75,-1,342,460 v Ireland at Harare 2024,2025-04-28,2025-05-04
+1282,64555,T20W,bat,77,-,336,"345 v Pakistan at Hangzhou, China 2023",2025-04-28,2025-05-04
+1283,69351,T20W,bat,77,-,336,336 v New Zealand at Dunedin 2025,2025-04-28,2025-05-04
+1284,66391,T20W,bat,79,-,334,336 v Australia at Canberra 2025,2025-04-28,2025-05-04
+1285,69603,T20W,bat,79,-,334,334 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1286,11873,T20W,bat,81,-,333,591 v New Zealand at Chelmsford 2021,2025-04-28,2025-05-04
+1287,82100,T20W,bat,82,-,332,338 v West Indies at Dubai 2024,2025-04-28,2025-05-04
+1288,70983,T20W,bat,83,-,331,363 v Samoa at Vanuatu 2023,2025-04-28,2025-05-04
+1289,59739,T20W,bat,84,-,330,356 v Saudi Arabia at Oman 2022,2025-04-28,2025-05-04
+1290,101120,T20W,bat,85,-,326,"354 v Singapore at Bali, Indonesia 2024",2025-04-28,2025-05-04
+1291,64347,T20W,bat,86,-,317,327 v India at Mumbai 2024,2025-04-28,2025-05-04
+1292,69615,T20W,bat,86,-,317,368 v Vanuatu at Fiji 2023,2025-04-28,2025-05-04
+1293,82713,T20W,bat,88,-,315,315 v England at Centurion 2024,2025-04-28,2025-05-04
+1294,72116,T20W,bat,89,-,313,313 v Namibia at Accra 2024,2025-04-28,2025-05-04
+1295,71995,T20W,bat,90,-,308,416 v Cook Islands at Auckland 2024,2025-04-28,2025-05-04
+1296,67301,T20W,bat,91,-,304,319 v Netherlands at Amstelveen 2023,2025-04-28,2025-05-04
+1297,87679,T20W,bat,92,-,303,391 v Sri Lanka at Dambulla 2024,2025-04-28,2025-05-04
+1298,70936,T20W,bat,93,-,299,"389 v Uganda at Kirtipur, Nepal 2022",2025-04-28,2025-05-04
+1299,67047,T20W,bat,94,-,296,303 v New Zealand at Brisbane - AB 2024,2025-04-28,2025-05-04
+1300,69399,T20W,bat,95,-,295,329 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1301,69454,T20W,bat,96,-,292,404 v United Arab Emirates at Abu Dhabi 2022,2025-04-28,2025-05-04
+1302,66614,T20W,bat,97,-,291,292 v England at Benoni 2024,2025-04-28,2025-05-04
+1303,65726,T20W,bat,98,-,285,326 v West Indies at Karachi 2024,2025-04-28,2025-05-04
+1304,6737,T20W,bat,99,-,284,356 v New Zealand at Antigua 2022,2025-04-28,2025-05-04
+1305,99725,T20W,bat,99,-,284,284 v West Indies at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1306,66391,T20W,bowl,1,-,756,802 v Australia at Edgbaston 2023,2025-04-28,2025-05-04
+1307,73820,T20W,bowl,2,-,746,758 v Sri Lanka at Sharjah 2024,2025-04-28,2025-05-04
+1308,65146,T20W,bowl,3,-,737,759 v Bangladesh at Dambulla 2024,2025-04-28,2025-05-04
+1309,67045,T20W,bowl,4,-,736,736 v New Zealand at Wellington 2025,2025-04-28,2025-05-04
+1310,70714,T20W,bowl,5,-,728,740 v Australia at Sharjah 2024,2025-04-28,2025-05-04
+1311,69756,T20W,bowl,6,-,720,769 v New Zealand at The Oval 2024,2025-04-28,2025-05-04
+1312,69779,T20W,bowl,7,-,705,730 v New Zealand at Wellington 2024,2025-04-28,2025-05-04
+1313,67100,T20W,bowl,8,-,704,717 v Bangladesh at Chittagong 2023,2025-04-28,2025-05-04
+1314,67047,T20W,bowl,8,-,704,708 v England at Adelaide 2025,2025-04-28,2025-05-04
+1315,58618,T20W,bowl,10,-,700,708 v Australia at Bridgetown 2019,2025-04-28,2025-05-04
+1316,63467,T20W,bowl,11,-,689,806 v Pakistan at Guyana 2018,2025-04-28,2025-05-04
+1317,66632,T20W,bowl,12,-,687,740 v Australia at Melbourne 2020,2025-04-28,2025-05-04
+1318,100120,T20W,bowl,12,-,687,705 v Thailand at Dambulla 2024,2025-04-28,2025-05-04
+1319,73258,T20W,bowl,14,-,669,771 v New Zealand at Paarl 2023,2025-04-28,2025-05-04
+1320,68441,T20W,bowl,15,-,664,770 v West Indies at Guyana 2019,2025-04-28,2025-05-04
+1321,67023,T20W,bowl,16,-,657,710 v Pakistan at Dubai 2024,2025-04-28,2025-05-04
+1322,64970,T20W,bowl,17,-,645,718 v Pakistan at Karachi 2024,2025-04-28,2025-05-04
+1323,71451,T20W,bowl,18,-,637,737 v South Africa at Cape Town 2023,2025-04-28,2025-05-04
+1324,69906,T20W,bowl,19,-,636,704 v Pakistan at Northampton 2024,2025-04-28,2025-05-04
+1325,65065,T20W,bowl,20,-,632,733 v Bangladesh at Dambulla 2024,2025-04-28,2025-05-04
+1326,75598,T20W,bowl,21,-,629,648 v Australia at Sharjah 2024,2025-04-28,2025-05-04
+1327,7759,T20W,bowl,22,-,610,720 v Ireland at Doha 2014,2025-04-28,2025-05-04
+1328,70737,T20W,bowl,23,-,608,695 v Pakistan at Queenstown 2023,2025-04-28,2025-05-04
+1329,65346,T20W,bowl,24,-,605,639 v Thailand at Kuala Lumpur 2018,2025-04-28,2025-05-04
+1330,70684,T20W,bowl,25,-,602,666 v West Indies at St Lucia 2023,2025-04-28,2025-05-04
+1331,70677,T20W,bowl,26,-,601,606 v Sri Lanka at Christchurch 2025,2025-04-28,2025-05-04
+1332,69976,T20W,bowl,27,-,599,643 v India at Mumbai 2024,2025-04-28,2025-05-04
+1333,60225,T20W,bowl,28,-,590,726 v Bangladesh at Sylhet 2014,2025-04-28,2025-05-04
+1334,74329,T20W,bowl,29,-,584,710 v Pakistan at Dunedin 2023,2025-04-28,2025-05-04
+1335,67041,T20W,bowl,30,-,581,673 v England at Hove 2019,2025-04-28,2025-05-04
+1336,65721,T20W,bowl,31,-,580,683 v Ireland at Utrecht 2018,2025-04-28,2025-05-04
+1337,69351,T20W,bowl,32,-,570,587 v Scotland at Abu Dhabi 2024,2025-04-28,2025-05-04
+1338,68423,T20W,bowl,33,-,564,621 v United Arab Emirates at Dambulla 2024,2025-04-28,2025-05-04
+1339,60588,T20W,bowl,34,-,560,688 v South Africa at Doha 2014,2025-04-28,2025-05-04
+1340,63991,T20W,bowl,35,-,557,557 v West Indies at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1341,57828,T20W,bowl,36,-,555,712 v Sri Lanka at Colombo (PSS) 2023,2025-04-28,2025-05-04
+1342,67302,T20W,bowl,37,-,540,581 v West Indies at East London 2023,2025-04-28,2025-05-04
+1343,97646,T20W,bowl,38,-,535,606 v Sri Lanka at Dambulla 2024,2025-04-28,2025-05-04
+1344,71759,T20W,bowl,39,-,531,606 v West Indies at Karachi 2024,2025-04-28,2025-05-04
+1345,59745,T20W,bowl,40,-,530,"709 v India at Hangzhou, China 2023",2025-04-28,2025-05-04
+1346,58520,T20W,bowl,41,-,525,525 v New Zealand at Dunedin 2025,2025-04-28,2025-05-04
+1347,63227,T20W,bowl,41,-,525,676 v England at Cape Town 2023,2025-04-28,2025-05-04
+1348,70686,T20W,bowl,43,-,493,596 v Sri Lanka at Paarl 2023,2025-04-28,2025-05-04
+1349,22048,T20W,bowl,44,-,492,514 v Zimbabwe at Abu Dhabi 2024,2025-04-28,2025-05-04
+1350,70980,T20W,bowl,45,-,489,544 v India at Sylhet 2022,2025-04-28,2025-05-04
+1351,69601,T20W,bowl,46,-,475,475 v Zimbabwe at Windhoek 2024,2025-04-28,2025-05-04
+1352,73816,T20W,bowl,47,-,474,"592 v Pakistan at Hangzhou, China 2023",2025-04-28,2025-05-04
+1353,80013,T20W,bowl,48,-,465,509 v Zimbabwe at Abu Dhabi 2024,2025-04-28,2025-05-04
+1354,69563,T20W,bowl,49,+1,463,"556 v Ireland at Murcia, Spain 2021",2025-04-28,2025-05-04
+1355,11858,T20W,bowl,50,+1,461,475 v New Zealand at Dubai 2024,2025-04-28,2025-05-04
+1356,69485,T20W,bowl,51,+1,457,525 v Zimbabwe at Abu Dhabi 2024,2025-04-28,2025-05-04
+1357,73768,T20W,bowl,52,+1,455,551 v Sri Lanka at Sylhet 2022,2025-04-28,2025-05-04
+1358,63469,T20W,bowl,53,+1,454,659 v South Africa at Durban 2021,2025-04-28,2025-05-04
+1359,70064,T20W,bowl,53,+1,454,468 v Australia at Sharjah 2024,2025-04-28,2025-05-04
+1360,69454,T20W,bowl,55,+1,449,619 v Papua New Guinea at Abu Dhabi 2022,2025-04-28,2025-05-04
+1361,83663,T20W,bowl,55,+1,449,467 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1362,69615,T20W,bowl,57,+1,447,494 v Scotland at Abu Dhabi 2022,2025-04-28,2025-05-04
+1363,65768,T20W,bowl,58,+1,445,495 v Scotland at Abu Dhabi 2024,2025-04-28,2025-05-04
+1364,70050,T20W,bowl,59,+1,441,552 v Ireland at Dublin 2022,2025-04-28,2025-05-04
+1365,67305,T20W,bowl,60,-11,438,576 v Thailand at Bangkok 2023,2025-04-28,2025-05-04
+1366,69607,T20W,bowl,61,-,437,437 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1367,69541,T20W,bowl,62,-,435,467 v West Indies at St Lucia 2023,2025-04-28,2025-05-04
+1368,65018,T20W,bowl,63,-,430,632 v South Africa at St Lucia 2018,2025-04-28,2025-05-04
+1369,64347,T20W,bowl,64,-,429,442 v India at Mumbai 2024,2025-04-28,2025-05-04
+1370,80019,T20W,bowl,65,-,424,437 v England at Dublin 2024,2025-04-28,2025-05-04
+1371,69621,T20W,bowl,66,-,420,439 v Samoa at Auckland 2024,2025-04-28,2025-05-04
+1372,69456,T20W,bowl,67,-,419,598 v Nepal at Bangkok 2019,2025-04-28,2025-05-04
+1373,63998,T20W,bowl,68,-,412,609 v India at Chelmsford 2021,2025-04-28,2025-05-04
+1374,60543,T20W,bowl,69,+1,410,486 v Australia at Hobart 2024,2025-04-28,2025-05-04
+1375,67316,T20W,bowl,70,-1,393,511 v Thailand at Bangkok 2023,2025-04-28,2025-05-04
+1376,106353,T20W,bowl,71,+1,392,422 v Pakistan at Chittagong 2023,2025-04-28,2025-05-04
+1377,69572,T20W,bowl,72,+1,391,"438 v Germany at Murcia, Spain 2021",2025-04-28,2025-05-04
+1378,75591,T20W,bowl,73,+1,388,404 v Sri Lanka at Dubai 2024,2025-04-28,2025-05-04
+1379,59467,T20W,bowl,74,+1,387,570 v Pakistan at Karachi 2019,2025-04-28,2025-05-04
+1380,69465,T20W,bowl,75,+1,386,530 v Zimbabwe at Abu Dhabi 2022,2025-04-28,2025-05-04
+1381,80596,T20W,bowl,75,+1,386,386 v Australia at Adelaide 2025,2025-04-28,2025-05-04
+1382,73622,T20W,bowl,77,+1,379,406 v England at Dubai 2024,2025-04-28,2025-05-04
+1383,69760,T20W,bowl,78,+1,378,501 v West Indies at Northampton 2019,2025-04-28,2025-05-04
+1384,67315,T20W,bowl,78,-7,378,448 v United Arab Emirates at Abu Dhabi 2024,2025-04-28,2025-05-04
+1385,96900,T20W,bowl,80,+1,373,380 v South Africa at Dubai 2024,2025-04-28,2025-05-04
+1386,70330,T20W,bowl,81,+1,369,369 v New Zealand at Dubai 2024,2025-04-28,2025-05-04
+1387,69600,T20W,bowl,82,+1,361,361 v Zimbabwe at Windhoek 2024,2025-04-28,2025-05-04
+1388,83369,T20W,bowl,83,-3,353,467 v Ireland at Harare 2024,2025-04-28,2025-05-04
+1389,80006,T20W,bowl,83,+2,353,403 v Thailand at Dubai 2024,2025-04-28,2025-05-04
+1390,73446,T20W,bowl,85,+1,351,387 v India at Sylhet 2024,2025-04-28,2025-05-04
+1391,80017,T20W,bowl,85,+1,351,351 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1392,80807,T20W,bowl,85,+1,351,373 v South Africa at Centurion 2024,2025-04-28,2025-05-04
+1393,72056,T20W,bowl,88,+1,350,350 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1394,80590,T20W,bowl,88,+1,350,350 v England at Sharjah 2024,2025-04-28,2025-05-04
+1395,69573,T20W,bowl,90,+1,348,373 v Ireland at Abu Dhabi 2024,2025-04-28,2025-05-04
+1396,71003,T20W,bowl,90,+1,348,396 v Sri Lanka at Sylhet 2022,2025-04-28,2025-05-04
+1397,113111,T20W,bowl,92,+1,340,364 v United Arab Emirates at Windhoek 2024,2025-04-28,2025-05-04
+1398,69606,T20W,bowl,93,+1,336,359 v Tanzania at Uganda 2023,2025-04-28,2025-05-04
+1399,67317,T20W,bowl,93,-10,336,470 v Tanzania at Uganda 2023,2025-04-28,2025-05-04
+1400,72861,T20W,bowl,93,+1,336,418 v West Indies at Bridgetown 2022,2025-04-28,2025-05-04
+1401,73624,T20W,bowl,96,-,333,338 v Bangladesh at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1402,92205,T20W,bowl,96,-,333,333 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1403,67308,T20W,bowl,98,-2,327,378 v Thailand at Bangkok 2023,2025-04-28,2025-05-04
+1404,67816,T20W,bowl,99,-,326,585 v United Arab Emirates at Dubai (GCA) 2022,2025-04-28,2025-05-04
+1405,71013,T20W,bowl,100,-,324,348 v Zimbabwe at Abu Dhabi 2024,2025-04-28,2025-05-04
+1406,64970,T20W,allrounder,1,-,479,527 v Pakistan at Karachi 2024,2025-04-28,2025-05-04
+1407,66632,T20W,allrounder,2,-,434,448 v South Africa at Dubai 2024,2025-04-28,2025-05-04
+1408,65146,T20W,allrounder,3,-,392,416 v West Indies at Cape Town 2023,2025-04-28,2025-05-04
+1409,67023,T20W,allrounder,4,-,372,460 v South Africa at Cape Town 2023,2025-04-28,2025-05-04
+1410,58520,T20W,allrounder,5,-,361,361 v New Zealand at Dunedin 2025,2025-04-28,2025-05-04
+1411,7759,T20W,allrounder,6,-,278,303 v Australia at Dubai 2024,2025-04-28,2025-05-04
+1412,60588,T20W,allrounder,7,-,276,327 v West Indies at Karachi 2024,2025-04-28,2025-05-04
+1413,63998,T20W,allrounder,8,-,258,386 v India at Chelmsford 2021,2025-04-28,2025-05-04
+1414,66391,T20W,allrounder,9,-,252,259 v Australia at Sydney 2025,2025-04-28,2025-05-04
+1415,59467,T20W,allrounder,10,-,243,411 v Pakistan at Karachi 2019,2025-04-28,2025-05-04
+1416,69563,T20W,allrounder,10,-,243,"352 v Ireland at Murcia, Spain 2021",2025-04-28,2025-05-04
+1417,69541,T20W,allrounder,10,-,243,243 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1418,67302,T20W,allrounder,13,-,237,239 v England at Benoni 2024,2025-04-28,2025-05-04
+1419,71759,T20W,allrounder,14,-,216,216 v New Zealand at Dubai 2024,2025-04-28,2025-05-04
+1420,22048,T20W,allrounder,15,-,213,214 v Netherlands at Abu Dhabi 2024,2025-04-28,2025-05-04
+1421,67047,T20W,allrounder,16,-,208,209 v England at Adelaide 2025,2025-04-28,2025-05-04
+1422,66669,T20W,allrounder,17,-,205,257 v India at Mumbai 2022,2025-04-28,2025-05-04
+1423,11858,T20W,allrounder,18,-,200,209 v New Zealand at Dubai 2024,2025-04-28,2025-05-04
+1424,62067,T20W,allrounder,19,-,196,425 v Australia at Brisbane - AB 2020,2025-04-28,2025-05-04
+1425,69351,T20W,allrounder,20,-,191,192 v New Zealand at Christchurch 2025,2025-04-28,2025-05-04
+1426,67045,T20W,allrounder,21,-,186,186 v New Zealand at Wellington 2025,2025-04-28,2025-05-04
+1427,69779,T20W,allrounder,22,-,176,186 v South Africa at Centurion 2024,2025-04-28,2025-05-04
+1428,69756,T20W,allrounder,23,-,165,184 v New Zealand at The Oval 2024,2025-04-28,2025-05-04
+1429,58618,T20W,allrounder,24,-,164,164 v Bangladesh at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1430,69606,T20W,allrounder,25,-,150,150 v Zimbabwe at Windhoek 2024,2025-04-28,2025-05-04
+1431,69456,T20W,allrounder,26,-,143,207 v Papua New Guinea at Abu Dhabi 2022,2025-04-28,2025-05-04
+1432,69600,T20W,allrounder,26,-,143,143 v Zimbabwe at Windhoek 2024,2025-04-28,2025-05-04
+1433,69615,T20W,allrounder,28,-,141,171 v Japan at Vanuatu 2023,2025-04-28,2025-05-04
+1434,64347,T20W,allrounder,29,+1,135,144 v India at Mumbai 2024,2025-04-28,2025-05-04
+1435,67315,T20W,allrounder,30,-1,133,162 v United Arab Emirates at Windhoek 2024,2025-04-28,2025-05-04
+1436,69454,T20W,allrounder,31,+1,131,245 v Zimbabwe at Harare 2021,2025-04-28,2025-05-04
+1437,61306,T20W,allrounder,32,+1,126,336 v Australia at Taunton Vale 2011,2025-04-28,2025-05-04
+1438,100120,T20W,allrounder,32,+1,126,136 v Thailand at Dambulla 2024,2025-04-28,2025-05-04
+1439,83369,T20W,allrounder,34,-3,120,214 v Ireland at Harare 2024,2025-04-28,2025-05-04
+1440,68423,T20W,allrounder,35,-,117,132 v United Arab Emirates at Dambulla 2024,2025-04-28,2025-05-04
+1441,73258,T20W,allrounder,35,-,117,130 v New Zealand at East London 2023,2025-04-28,2025-05-04
+1442,70714,T20W,allrounder,35,-,117,120 v Sri Lanka at Sylhet 2022,2025-04-28,2025-05-04
+1443,59956,T20W,allrounder,38,-,115,427 v India at Canberra 2020,2025-04-28,2025-05-04
+1444,63228,T20W,allrounder,39,-,114,186 v Pakistan at Sydney 2020,2025-04-28,2025-05-04
+1445,65721,T20W,allrounder,40,-,111,128 v Thailand at Dambulla 2024,2025-04-28,2025-05-04
+1446,65065,T20W,allrounder,41,-,109,128 v Bangladesh at Dambulla 2024,2025-04-28,2025-05-04
+1447,73820,T20W,allrounder,42,-,108,113 v India at Dubai 2024,2025-04-28,2025-05-04
+1448,57828,T20W,allrounder,43,-,107,126 v Australia at Sharjah 2024,2025-04-28,2025-05-04
+1449,63991,T20W,allrounder,43,-,107,113 v Ireland at Scotland 2019,2025-04-28,2025-05-04
+1450,63467,T20W,allrounder,45,-,104,111 v West Indies at Sydney 2023,2025-04-28,2025-05-04
+1451,67322,T20W,allrounder,46,-,102,104 v Bangladesh at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1452,70677,T20W,allrounder,47,-,100,100 v Australia at Wellington 2025,2025-04-28,2025-05-04
+1453,70980,T20W,allrounder,48,-,97,"98 v Netherlands at Kirtipur, Nepal 2025",2025-04-28,2025-05-04
+1454,70686,T20W,allrounder,48,-,97,113 v England at Southampton 2024,2025-04-28,2025-05-04
+1455,73622,T20W,allrounder,50,-,93,108 v England at Dubai 2024,2025-04-28,2025-05-04
+1456,75598,T20W,allrounder,51,-,92,101 v Sri Lanka at Dubai 2024,2025-04-28,2025-05-04
+1457,61516,T20W,allrounder,52,-,90,524 v Sri Lanka at Bridgetown 2012,2025-04-28,2025-05-04
+1458,67100,T20W,allrounder,53,-,89,90 v India at Dubai 2024,2025-04-28,2025-05-04
+1459,74329,T20W,allrounder,53,-,89,114 v England at Nelson 2024,2025-04-28,2025-05-04
+1460,70330,T20W,allrounder,55,+1,87,94 v Sri Lanka at Sylhet 2022,2025-04-28,2025-05-04
+1461,59475,T20W,allrounder,55,+1,87,166 v Pakistan at Dublin 2013,2025-04-28,2025-05-04
+1462,63227,T20W,allrounder,57,+1,86,104 v England at Cape Town 2023,2025-04-28,2025-05-04
+1463,69976,T20W,allrounder,57,+1,86,89 v Bangladesh at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1464,67305,T20W,allrounder,59,-6,84,125 v Ireland at Harare 2024,2025-04-28,2025-05-04
+1465,80013,T20W,allrounder,60,-,82,91 v England at Dublin 2024,2025-04-28,2025-05-04
+1466,100861,T20W,allrounder,61,-,81,87 v Australia at Dhaka 2024,2025-04-28,2025-05-04
+1467,65346,T20W,allrounder,62,-,80,107 v Pakistan at Kuala Lumpur 2018,2025-04-28,2025-05-04
+1468,70684,T20W,allrounder,62,-,80,81 v Bangladesh at Sylhet 2024,2025-04-28,2025-05-04
+1469,70936,T20W,allrounder,64,-,78,"141 v Uganda at Kirtipur, Nepal 2022",2025-04-28,2025-05-04
+1470,65018,T20W,allrounder,65,-,76,110 v Pakistan at Karachi 2019,2025-04-28,2025-05-04
+1471,67041,T20W,allrounder,65,-,76,115 v England at Hove 2019,2025-04-28,2025-05-04
+1472,70737,T20W,allrounder,67,-,75,75 v Australia at Wellington 2025,2025-04-28,2025-05-04
+1473,99520,T20W,allrounder,68,-,73,82 v Cyprus at Cyprus 2025,2025-04-28,2025-05-04
+1474,68441,T20W,allrounder,69,-,72,102 v Sri Lanka at Melbourne 2020,2025-04-28,2025-05-04
+1475,71451,T20W,allrounder,69,-,72,73 v New Zealand at Bay Oval 2025,2025-04-28,2025-05-04
+1476,69485,T20W,allrounder,71,-,70,88 v Zimbabwe at Abu Dhabi 2024,2025-04-28,2025-05-04
+1477,67317,T20W,allrounder,72,+17,68,72 v Papua New Guinea at Harare 2024,2025-04-28,2025-05-04
+1478,80602,T20W,allrounder,72,-,68,86 v Pakistan at Northampton 2024,2025-04-28,2025-05-04
+1479,70947,T20W,allrounder,74,-1,67,74 v Tanzania at Hong Kong 2023,2025-04-28,2025-05-04
+1480,59735,T20W,allrounder,75,-1,66,188 v Pakistan at Canberra 2020,2025-04-28,2025-05-04
+1481,70772,T20W,allrounder,75,-1,66,146 v Bangladesh at Dhaka 2023,2025-04-28,2025-05-04
+1482,80596,T20W,allrounder,75,-1,66,66 v Australia at Adelaide 2025,2025-04-28,2025-05-04
+1483,97646,T20W,allrounder,75,-1,66,77 v Thailand at Dambulla 2024,2025-04-28,2025-05-04
+1484,70935,T20W,allrounder,79,-1,64,96 v India at Dambulla 2024,2025-04-28,2025-05-04
+1485,69749,T20W,allrounder,79,-1,64,97 v New Zealand at The Oval 2024,2025-04-28,2025-05-04
+1486,69569,T20W,allrounder,81,-1,62,72 v Netherlands at Amstelveen 2024,2025-04-28,2025-05-04
+1487,69607,T20W,allrounder,82,-1,61,61 v Scotland at Amstelveen 2024,2025-04-28,2025-05-04
+1488,71995,T20W,allrounder,82,-1,61,96 v Cook Islands at Auckland 2024,2025-04-28,2025-05-04
+1489,86406,T20W,allrounder,82,-1,61,61 v Bangladesh at St Kitts (WP) 2025,2025-04-28,2025-05-04
+1490,59348,T20W,allrounder,85,-1,60,243 v Pakistan at Bangkok 2016,2025-04-28,2025-05-04
+1491,65768,T20W,allrounder,85,-1,60,65 v Thailand at Dambulla 2024,2025-04-28,2025-05-04
+1492,65368,T20W,allrounder,87,-1,59,85 v Pakistan at Queenstown 2023,2025-04-28,2025-05-04
+1493,73768,T20W,allrounder,88,-1,58,63 v Sri Lanka at Sharjah 2024,2025-04-28,2025-05-04
+1494,80019,T20W,allrounder,89,-1,57,61 v England at Dublin 2024,2025-04-28,2025-05-04
+1495,67299,T20W,allrounder,90,-1,56,86 v Scotland at Edinburgh 2022,2025-04-28,2025-05-04
+1496,82713,T20W,allrounder,90,-1,56,56 v England at Centurion 2024,2025-04-28,2025-05-04
+1497,83663,T20W,allrounder,90,-1,56,56 v West Indies at Mumbai 2024,2025-04-28,2025-05-04
+1498,59131,T20W,allrounder,93,-,55,210 v New Zealand at Bridgetown 2013,2025-04-28,2025-05-04
+1499,66656,T20W,allrounder,93,-,55,143 v Sri Lanka at Edgbaston 2022,2025-04-28,2025-05-04
+1500,101120,T20W,allrounder,93,-,55,"59 v Philippines at Bali, Indonesia 2025",2025-04-28,2025-05-04
+1501,69601,T20W,allrounder,96,-,54,55 v Zimbabwe at Windhoek 2024,2025-04-28,2025-05-04
+1502,73816,T20W,allrounder,96,-,54,93 v Sri Lanka at Sylhet 2022,2025-04-28,2025-05-04
+1503,69621,T20W,allrounder,98,-,53,54 v Netherlands at Amstelveen 2024,2025-04-28,2025-05-04
+1504,111458,T20W,allrounder,98,-,53,53 v Hong Kong at Uganda 2025,2025-04-28,2025-05-04
+1505,67816,T20W,allrounder,100,-,52,97 v United Arab Emirates at Dubai (GCA) 2022,2025-04-28,2025-05-04
+1506,71996,T20W,allrounder,100,-,52,56 v Cook Islands at Auckland 2024,2025-04-28,2025-05-04
