@@ -3,7 +3,7 @@ CREATE TABLE countries_master (
     country_name  VARCHAR(100),
     country_short VARCHAR(10),
     country_flag  VARCHAR(255),
-    entry_date DATE
+	entry_date DATE
 );
 
 CREATE TABLE teams_master (
@@ -11,7 +11,7 @@ CREATE TABLE teams_master (
     team       VARCHAR(100),
     country_id INT,
     short_name VARCHAR(10),
-    entry_date DATE
+	entry_date DATE
     FOREIGN KEY (country_id) REFERENCES countries_master(country_id)
 );
 
@@ -22,7 +22,7 @@ CREATE TABLE players_master (
     team_id      INT,
     player_url   VARCHAR(255),
     player_image VARCHAR(255),
-    entry_date DATE
+	entry_date DATE
     FOREIGN KEY (country_id) REFERENCES countries_master(country_id),
     FOREIGN KEY (team_id) REFERENCES teams_master(team_id)
 );
@@ -37,7 +37,7 @@ CREATE TABLE team_rankings (
     points     INT,
     rating     INT,
     rank_date  DATE,
-    entry_date DATE
+	entry_date DATE
     FOREIGN KEY (team_id) REFERENCES teams_master(team_id)
 );
 
@@ -51,7 +51,7 @@ CREATE TABLE player_rankings (
     rating       INT,
     career_best_rating VARCHAR(100),
     rank_date    DATE,
-    entry_date DATE
+	entry_date DATE
     FOREIGN KEY (player_id) REFERENCES players_master(player_id)
 );
 
@@ -86,20 +86,19 @@ CREATE TABLE player_rankings_old (
 CREATE TABLE transactions (
     transaction_id   INT IDENTITY(1,1) PRIMARY KEY,
     table_name       VARCHAR(20),
-    records          INT,
-    type             VARCHAR(20),
+	records          INT,
+	type             VARCHAR(20),
     entry_date       DATE,
 );
 
-SELECT * FROM transactions ORDER BY transaction_id DESC, entry_date DESC;
+SELECT * FROM transactions;
 SELECT * FROM countries_master ORDER BY country_id;
 SELECT * FROM player_rankings ORDER BY format, category;
-SELECT * FROM player_rankings_old ORDER BY entry_date DESC;
+SELECT * FROM player_rankings_old ORDER BY entry_date;
 SELECT * FROM players_master ORDER BY team_id, player_id;
 SELECT * FROM team_rankings ORDER BY format;
-SELECT * FROM team_rankings_old  ORDER BY entry_date DESC;
+SELECT * FROM team_rankings_old;
 SELECT * FROM teams_master ORDER BY country_id, team_id;
-
 
 DELETE FROM transactions;
 DELETE FROM team_rankings;
@@ -109,3 +108,93 @@ DELETE FROM teams_master;
 DELETE FROM countries_master;
 DELETE FROM player_rankings_old;
 DELETE FROM team_rankings_old;
+
+DROP TABLE IF EXISTS transactions;
+DROP TABLE IF EXISTS player_rankings_old;
+DROP TABLE IF EXISTS team_rankings_old;
+DROP TABLE IF EXISTS player_rankings;
+DROP TABLE IF EXISTS team_rankings;
+DROP TABLE IF EXISTS players_master;
+DROP TABLE IF EXISTS teams_master;
+DROP TABLE IF EXISTS countries_master;
+
+--(1)Teams
+SELECT C.country_id, T.team_id, C.country_name, C.country_short, C.country_flag
+FROM countries_master C
+INNER JOIN teams_master T
+ON c.country_id = T.country_id
+ORDER BY C.country_name ASC, T.team_id ASC;
+
+--(2)Players
+SELECT P.player_id, C.country_id, T.team_id, C.country_name, C.country_short, P.player, P.player_url, P.player_image
+FROM players_master P
+INNER JOIN countries_master C
+ON P.country_id = C.country_id
+INNER JOIN teams_master T
+ON P.country_id = T.country_id
+ORDER BY C.country_name ASC, C.country_id ASC, P.player ASC;
+
+--(3)Indian Team All Players
+SELECT DISTINCT P.player_id, C.country_id, P.team_id, C.country_name, C.country_short, P.player, P.player_url, P.player_image
+FROM players_master P
+INNER JOIN countries_master C
+ON P.country_id = C.country_id
+INNER JOIN teams_master T
+ON P.country_id = T.country_id
+WHERE C.country_name = 'India' 
+ORDER BY C.country_name ASC, C.country_id ASC, P.team_id ASC, P.player ASC;
+
+--(4)Indian Men All Players
+SELECT DISTINCT P.player_id, C.country_id, P.team_id, C.country_name, C.country_short, P.player, P.player_url, P.player_image
+FROM players_master P
+INNER JOIN countries_master C
+ON P.country_id = C.country_id
+INNER JOIN teams_master T
+ON P.country_id = T.country_id
+WHERE C.country_name = 'India' AND P.team_id = 4
+ORDER BY C.country_name ASC, C.country_id ASC, P.team_id ASC, P.player ASC;
+
+--(5)Country wise Total Players Count
+SELECT C.country_id, C.country_name, C.country_short, COUNT(P.player_id) "Total Players"
+FROM countries_master C
+INNER JOIN players_master P
+ON C.country_id = P.country_id
+GROUP BY C.country_id, C.country_name, C.country_short
+ORDER BY "Total Players" DESC;
+
+--(6)Country wise Players Count but Split by Men-Women
+SELECT T.country_id, T.team_id, T.team, T.short_name, COUNT(P.player_id) AS "Total Players"
+FROM players_master P
+INNER JOIN teams_master T 
+ON P.team_id = T.team_id
+GROUP BY T.country_id,  T.team_id, T.team, T.short_name
+ORDER BY "Total Players" DESC;
+
+--(7) Top 10 ODI Men Batters
+SELECT TOP 10 P.player_id, T.team, PM.player, P.format, P.category, P.pos, P.change, P.rating, P.career_best_rating
+FROM player_rankings P 
+INNER JOIN players_master PM
+ON P.player_id = PM.player_id
+INNER JOIN teams_master T
+ON PM.team_id = T.team_id
+WHERE P.category = 'bat' AND format = 'ODI'
+--AND P.pos <> 0
+ORDER BY P.pos ASC;
+
+--(8) Top 10 T20 Women Bowlers
+SELECT TOP 10 P.player_id, T.team, PM.player, P.format, P.category, P.pos, P.change, P.rating, P.career_best_rating
+FROM player_rankings P 
+INNER JOIN players_master PM
+ON P.player_id = PM.player_id
+INNER JOIN teams_master T
+ON PM.team_id = T.team_id
+WHERE P.category = 'bowl' AND P.format = 'T20W'  AND P.pos <> 0
+ORDER BY P.pos ASC;
+
+--(9) Top 10 Test Men Teams
+SELECT TOP 10 T.team_id, TM.team, T.format, T.pos, T.change, T.rating
+FROM team_rankings T
+INNER JOIN teams_master TM
+ON T.team_id = TM.team_id
+WHERE T.format = 'TEST'
+ORDER BY T.pos ASC;
