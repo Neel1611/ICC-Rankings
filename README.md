@@ -43,5 +43,3 @@ Happy learning & cricketing! 🙌✨
 ![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![ICC](https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/International_Cricket_Council.svg/200px-International_Cricket_Council.svg.png)
-![Cricket](https://cdn-icons-png.flaticon.com/512/732/732190.png)
