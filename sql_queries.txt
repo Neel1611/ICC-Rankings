@@ -118,14 +118,14 @@ DROP TABLE IF EXISTS players_master;
 DROP TABLE IF EXISTS teams_master;
 DROP TABLE IF EXISTS countries_master;
 
---(1)Teams
+--(1) Teams
 SELECT C.country_id, T.team_id, C.country_name, C.country_short, C.country_flag
 FROM countries_master C
 INNER JOIN teams_master T
 ON c.country_id = T.country_id
 ORDER BY C.country_name ASC, T.team_id ASC;
 
---(2)Players
+--(2) Players
 SELECT P.player_id, C.country_id, T.team_id, C.country_name, C.country_short, P.player, P.player_url, P.player_image
 FROM players_master P
 INNER JOIN countries_master C
@@ -134,7 +134,7 @@ INNER JOIN teams_master T
 ON P.country_id = T.country_id
 ORDER BY C.country_name ASC, C.country_id ASC, P.player ASC;
 
---(3)Indian Team All Players
+--(3) Indian Team All Players
 SELECT DISTINCT P.player_id, C.country_id, P.team_id, C.country_name, C.country_short, P.player, P.player_url, P.player_image
 FROM players_master P
 INNER JOIN countries_master C
@@ -144,7 +144,7 @@ ON P.country_id = T.country_id
 WHERE C.country_name = 'India' 
 ORDER BY C.country_name ASC, C.country_id ASC, P.team_id ASC, P.player ASC;
 
---(4)Indian Men All Players
+--(4) Indian Men All Players
 SELECT DISTINCT P.player_id, C.country_id, P.team_id, C.country_name, C.country_short, P.player, P.player_url, P.player_image
 FROM players_master P
 INNER JOIN countries_master C
@@ -154,7 +154,7 @@ ON P.country_id = T.country_id
 WHERE C.country_name = 'India' AND P.team_id = 4
 ORDER BY C.country_name ASC, C.country_id ASC, P.team_id ASC, P.player ASC;
 
---(5)Country wise Total Players Count
+--(5) Country wise Total Players Count
 SELECT C.country_id, C.country_name, C.country_short, COUNT(P.player_id) "Total Players"
 FROM countries_master C
 INNER JOIN players_master P
@@ -162,7 +162,7 @@ ON C.country_id = P.country_id
 GROUP BY C.country_id, C.country_name, C.country_short
 ORDER BY "Total Players" DESC;
 
---(6)Country wise Players Count but Split by Men-Women
+--(6) Country wise Players Count but Split by Men-Women
 SELECT T.country_id, T.team_id, T.team, T.short_name, COUNT(P.player_id) AS "Total Players"
 FROM players_master P
 INNER JOIN teams_master T 
