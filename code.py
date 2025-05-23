@@ -6,7 +6,7 @@ from datetime import datetime, date, timedelta
 
 # Database connection
 try:
-    conn = pyodbc.connect(r"DRIVER={SQL Server};SERVER=;DATABASE=;UID=;PWD=;")
+    conn = pyodbc.connect(r"DRIVER={SQL Server};SERVER=[sql-server-name];DATABASE=[database-name];UID=[user-id];PWD=;[password]")
     cursor = conn.cursor()
     print("\nConnected to database successfully!")
 except pyodbc.Error as e:
@@ -14,8 +14,8 @@ except pyodbc.Error as e:
     exit()
 
 # Base URL
-base_url = "https://assets-icc.sportz.io/cricket/v1/ranking"
-client_id = "tPZJbRgIub3Vua93%2FDWtyQ%3D%3D&"
+base_url = "base-url-of-api"
+client_id = "client-id"
 
 # Formats and Categories
 formats = ["test", "odi", "t20", "odiw", "t20w"]
