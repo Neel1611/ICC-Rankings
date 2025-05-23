@@ -38,3 +38,9 @@ This project automates the collection, storage, and tracking of ICC cricket rank
 
 🏏 Stay curious, keep coding, and enjoy the game!  
 Happy learning & cricketing! 🙌✨
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
