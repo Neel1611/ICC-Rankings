@@ -41,5 +41,4 @@ Happy learning & cricketing! 🙌✨
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
